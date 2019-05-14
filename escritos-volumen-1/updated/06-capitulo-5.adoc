@@ -2,10 +2,11 @@
 
 === Prefacio
 
+[quote.scripture, , Jer. 2:13]
+____
 "`Porque dos males ha hecho mi pueblo: me dejaron a mí, fuente de agua viva,
 y cavaron para sí cisternas, cisternas rotas que no retienen agua.`"
-(Jer.
-2:13)
+____
 
 Esta fue la queja del Señor con respecto a Israel de principio a fin.
 El Señor se deleitó engendrando, alimentando y criando a este pueblo para Sí mismo,
@@ -230,12 +231,15 @@ y un día lo verán en Su majestad, en el poder de Su amor, en Su eterna curaci�
 Estas son palabras de tierno amor y serán palabras de verdadera vida también,
 en dondequiera que la tierra del Padre se abra para beberlas.
 
-=== Algunas Propuestas con Respecto al Único Camino de Salvación
+[.old-style]
+=== Algunas Propuestas / Con Respecto al Único Camino de Salvación
 
+[.numbered]
 1+++.+++ Que la única manera de ser salvos del pecado y de la ira eterna es por medio de Cristo,
 aquel que murió en Jerusalén. No hay nombre, virtud,
 vida o poder bajo el cielo por el cual el hombre perdido pueda ser salvo; sólo por Él.
 
+[.numbered]
 2+++.+++ Que la única manera de ser salvos por Él es,
 recibiéndolo en el corazón por medio de la fe viva y teniéndolo formado
 ahí. Cristo no salva mientras esté de pie tocando a la puerta,
@@ -249,6 +253,7 @@ por la mera creencia en un Cristo ya venido,
 ni por guardar todo lo que los apóstoles mandaron o practicaron.
 Un hombre es salvo al recibirlo a Él en el corazón, ahí Él obra la salvación.
 
+[.numbered]
 3+++.+++ Que la única manera de recibir a Cristo en el corazón y que Él sea formado ahí es,
 recibiendo la luz de Su Espíritu, en cuya luz Él es y mora.
 El que no deja entrar la luz de Su Espíritu no deja entrar a Cristo.
@@ -256,6 +261,7 @@ El que deja entrar la luz de Su Espíritu deja entrar a Cristo.
 El Padre y el Hijo son luz, y son conocidos y recibidos únicamente en la luz,
 nunca fuera de ella.
 
+[.numbered]
 4+++.+++ Que la única manera de recibir la luz del Espíritu en el corazón
 (y de ese modo ser unidos al Padre y al Hijo) es,
 prestando oído y recibiendo la convicción de pecado que el Espíritu da ahí. La primera
@@ -268,11 +274,13 @@ ser excesivamente celoso y apasionado en todo esto, y al final perecer.
 Sí, el diablo lo dejará solo (si es que no lo ayuda) en todo esto,
 sabiendo que lo tiene más seguro de ese modo.
 
+[.discourse-part]
 Objeción: Pero yo puedo ser engañado estando atento a una luz en el interior,
 porque mientras creo que le estoy prestando oído a la luz del Espíritu,
 puede que le esté prestando oído a la luz de la consciencia natural.
 
-Respuesta 1:
+[.discourse-part]
+_Respuesta 1:_
 Si es solo la luz de la consciencia natural y aún así lo
 sigue arrastrando del pecado que lo separa de Dios,
 y lo prepara para entender, creer y recibir de Cristo, no es un engaño tan malo.
@@ -281,18 +289,21 @@ tomando como la luz de la consciencia natural (y por eso ha despreciado,
 o al menos, desatendido la luz del Espíritu),
 entonces encontrará que este es un engaño mucho peor.
 
-Respuesta 2: Yo le puedo mostrar mediante una escritura expresa,
+[.discourse-part]
+_Respuesta 2:_ Yo le puedo mostrar mediante una escritura expresa,
 que es obra del Espíritu convencer de pecado (Juan 16:8), y también, que la ley,
 la cual es espiritual, manifiesta lo que es corrupto y carnal (Rom.
 7:14). ¿Puede usted demostrarme mediante las Escrituras
 que la consciencia natural puede convencer de pecado?
 
-Respuesta 3: Si un hombre le presta atención a la Luz en su corazón,
+[.discourse-part]
+_Respuesta 3:_ Si un hombre le presta atención a la Luz en su corazón,
 la verá descubriendo sus maldades espirituales más íntimas y secretas.
 Esto no lo puede hacer la luz natural,
 porque lo que es natural no puede descubrir lo que es espiritual.
 
-Respuesta 4:
+[.discourse-part]
+_Respuesta 4:_
 El apóstol dice que es la gracia la que se ha manifestado a todos los hombres,
 y que no sólo enseña piedad, sino también sobriedad y justicia.
 (Tito 2:11-12) La luz de la naturaleza caída es tinieblas y no puede enseñar nada de Dios.
@@ -383,26 +394,33 @@ limpieza y circuncisión que corta el cuerpo de pecado y muerte,
 ni tampoco conoce la entrada al reino eterno, donde el Rey de justicia es visto,
 conocido y adorado en espíritu.
 
-=== Un Catecismo Corto por el Bien de un Corazón Sencillo
+[.old-style]
+=== Un Catecismo Corto / Por el Bien de un Corazón Sencillo
 
+[.discourse-part]
 Pregunta: ¿Cuál es por naturaleza el estado y la condición de todos los hombres,
 puesto que son engendrados de la semilla del malhechor
 y salen de los lomos del primer Adán?
 
+[.discourse-part]
 Respuesta: Es un estado de pecado y de tinieblas, es un estado de muerte y miseria,
 es un estado de enemistad contra Dios, es un estado de maldición de Dios,
 es un estado de exposición a Su ira y a Sus más justos juicios;
 ahora y después de la muerte.
 
+[.discourse-part]
 Pregunta: ¿Qué llevó a Adán a ese estado, y qué mantiene a los hijos de Adán en él?
 
+[.discourse-part]
 Respuesta: Comer del árbol del conocimiento,
 del que el hombre continua comiendo hasta este día
 aunque esté excluido del Árbol de la Vida.
 
+[.discourse-part]
 Pregunta: ¿Cómo se alimentó Adán del árbol del conocimiento en un primer momento,
 y cómo continúan haciéndolo los hombres hoy?
 
+[.discourse-part]
 Respuesta: A partir de un lujurioso apetito y deseo tras la sabiduría prohibida,
 sembrados en su corazón por el envidioso enemigo de sus almas.
 Este continúa enrollado en el árbol del conocimiento tentando a los hombres y
@@ -410,8 +428,10 @@ a las mujeres a comer de él y persuadiéndolos de que el fruto es bueno para co
 Y sí, el fruto es muy deseable para sus ojos y promete hacerlos eternamente sabios,
 pero no lo logra.
 
+[.discourse-part]
 Pregunta: ¿Qué es el fruto prohibido?
 
+[.discourse-part]
 Respuesta: Es conocimiento sin Vida.
 Es conocimiento en la parte terrenal, conocimiento adquirido de abajo, no dado de arriba.
 Este conocimiento le promete a los hombres hacerlos como Dios y a darles
@@ -422,8 +442,10 @@ la ruina de los judíos y la ruina de los cristianos.
 Todos se han alimentado del árbol del conocimiento y se
 han separado de la Vida en sus varias dispensaciones.
 
+[.discourse-part]
 Pregunta: ¿Cómo es que este fruto se constituye en ruina para el hombre?
 
+[.discourse-part]
 Respuesta: Porque la sabiduría y el conocimiento que reúne proveniente de ese fruto,
 y del que además se alimenta, lo pervierten.
 Esto lo hace sabio en la parte equivocada y lo exalta contra la Vida.
@@ -441,18 +463,22 @@ también y de la misma manera cayeron de su dispensación. Por lo tanto,
 cada uno de ellos cayó al apilar sabiduría de la letra y
 al perder la Vida en cada una de estas dispensaciones.
 
+[.discourse-part]
 Pregunta: ¿De qué comida se debería alimentar el hombre?
 
+[.discourse-part]
 Respuesta: Del Árbol de la Vida; de la Palabra que vive y permanece para siempre,
 la cual está en medio del jardín de Dios.
 Esta misma Palabra fue hecha carne por causa de la debilidad del hombre,
 de cuya carne se alimenta el alma viva y de cuya sangre bebe el espíritu vivo;
 así es alimentado para vida eterna.
 
+[.discourse-part]
 Pregunta: Pero, ¿tiene Adán esta comida para alimentarse?
 ¿Tenía que ser esta la comida de los gentiles,
 judíos y cristianos en sus varias dispensaciones?
 
+[.discourse-part]
 Respuesta: Dios sopló en el hombre aliento de vida y el hombre fue un alma viviente.
 Nada menos que la vida misma podía satisfacer su alma en un principio,
 y nada menos puede hacerlo hoy.
@@ -464,11 +490,13 @@ La Palabra no está lejos de ningún hombre,
 pero los oídos de los hombres generalmente se detienen contra
 ella por la sutileza de la serpiente que los engañó al principio.
 
+[.discourse-part]
 Pregunta:
 Pero ¿no buscaron los judíos la vida eterna al leer y estudiar las Escrituras
 bajo su dispensación? ¿No buscan los cristianos hoy la vida,
 y no buscan comer de ella?
 
+[.discourse-part]
 Respuesta: Sí, ellos la buscaron y la buscan a su manera,
 pero la rechazan a la manera de Dios.
 Del mismo modo Adán, después de haber comido del árbol del conocimiento,
@@ -479,11 +507,13 @@ van a tener que perder su conocimiento,
 van a tener que ser cegados y van a tener que ser
 conducidos a di cho Árbol por un camino que no conocen.
 
+[.discourse-part]
 Pregunta: Esto es demasiado misterioso para mí;
 deme el conocimiento simple y literal de las Escrituras.
 
+[.discourse-part]
 Respuesta: ¿No es la sustancia espiritual un misterio^
-footnote:[Penington a menudo usa la palabra misterio para referirse a
+footnote:[Penington a menudo usa la palabra __misterio__ para referirse a
 las cosas que no pueden ser conocidas por medio de las facultades naturales,
 y que tienen que ser reveladas por el Espíritu de Dios.]
 siempre?
@@ -495,25 +525,31 @@ pero el único que se alimenta de esta manera es el espíritu muerto.
 Entre tanto, el alma subyace flaca, estéril, hambrienta e insatisfecha,
 y lo sentirá cuando despierte.
 
+[.discourse-part]
 Pregunta: Pero,
 ¿no puede acaso el espíritu muerto también imaginar
 misterios en todo y alimentarse de sus imaginaciones?
 
+[.discourse-part]
 Respuesta: Sí puede, y el error aquí es mayor que el anterior.
 Pero, hay seguridad al esperar en humildad y temor a tener el ojo correcto abierto
 y el verdadero misterio revelado en el corazón humilde y honesto.
 Al recibir la demostración del Espíritu fuera de la sabiduría de la carne, no hay error,
 sino el verdadero conocimiento que mana de la vida y trae vida.
 
+[.discourse-part]
 Pregunta: ¿Cómo llego a este misterio?
 
+[.discourse-part]
 Respuesta:
 Sólo hay una llave que puede abrirlo y sólo hay una
 mano que puede darle vuelta a la llave.
 Y sólo hay una vasija, un corazón, un espíritu que puede recibir el conocimiento.
 
+[.discourse-part]
 Pregunta: ¿Cómo llego a ese corazón?
 
+[.discourse-part]
 Respuesta: De la misma manera que usted fue tocado por el enemigo, lo dejó entrar,
 y no lo rechazó con el poder de esa vida que era más fuerte que él. Igual ahora,
 cuando usted sea tocado y atraído por su Amigo,
@@ -524,8 +560,10 @@ siga el sendero y ella lo sacará de la tierra de muerte y oscuridad por un cami
 lo sacará de la tierra en la que el alma ha estado cautiva
 y lo introducirá en la tierra de vida y perfecta libertad.
 
+[.discourse-part]
 Pregunta: Pero, ¿puedo hacer algo yo en pro de mi propia salvación?
 
+[.discourse-part]
 Respuesta: Por usted mismo no,
 pero en el poder de Aquel que obra en usted tanto el querer como el hacer,
 puede hacer un poquito al principio.
@@ -535,16 +573,20 @@ Cuando usted lo haya conquistado todo, sufrido todo y realizado todo,
 verá y será capaz de decir con entendimiento que no ha hecho nada, que la eterna virtud,
 vida y poder lo han forjado todo en usted.
 
+[.discourse-part]
 Pregunta: Percibo por lo que se ha dicho que hay un Salvador, uno que tiene virtud,
 vida y poder en Él para salvar, ¿cómo puedo encontrarme con Él?
 
+[.discourse-part]
 Respuesta: Sí,
 Aquel que hizo al hombre lo compadece y no está dispuesto
 a que el hombre perezca en el hoyo en el que cayó,
 sino que ha señalado a Uno para sacarlo y salvarlo.
 
+[.discourse-part]
 Pregunta: ¿Quién es este Salvador?
 
+[.discourse-part]
 Respuesta: Él es el Árbol de la Vida del que he hablado todo este tiempo,
 cuyas hojas tienen virtud en ellas para sanar a las naciones.
 Él es la planta de justicia, la planta en la mano derecha de Dios.
@@ -556,9 +598,11 @@ Sí, su carne es verdadera comida y su sangre verdadera bebida,
 y aquel que es levantado en la vida se alimenta y encuentra virtud viva en ellas,
 las cuales satisfacen y alimentan su alma inmortal.
 
+[.discourse-part]
 Pregunta: Pero, ¿tiene nombre este Salvador?
 ¿Cuál es Su nombre?
 
+[.discourse-part]
 Respuesta:
 Sería mejor para usted aprender Su nombre al experimentar
 Su virtud y Su poder en su corazón. No obstante,
@@ -572,17 +616,21 @@ ni han conocido a Aquel de quien viene la luz.
 Y así, a pesar de que la luz está muy cerca de ellos,
 permanecen ajenos a ella y no salvos por ella.
 
+[.discourse-part]
 Pregunta: ¿Por qué lo llama usted la luz?
 ¿No hay otros nombres igual de apropiados por los que Él pueda ser conocido también?
 
+[.discourse-part]
 Respuesta: Sí,
 pero sólo recibiéndolo como la luz es que llegamos a conocer Sus otros nombres.
 Él es la vida, la justicia, el poder, la sabiduría, la paz, etc.,
 pero Él es todo esto en la luz y en la luz lo aprendemos y lo recibimos todo.
 Ninguna de estas cosas puede ser conocida en el espíritu excepto en y por la luz.
 
+[.discourse-part]
 Pregunta: ¿Cómo son conocidos los otros nombres de Cristo en y por la luz?
 
+[.discourse-part]
 Respuesta:
 Al dejar entrar la luz (la cual convence y batalla
 contra el pecado) la vida se revuelve y es sentida.
@@ -600,13 +648,17 @@ en ese momento sí puedo decir con todo el sentido y llamarlo con claro entendim
 mi Salvador, el Capitán de mi salvación, mi Cristo o Ungido, mi Esposo, mi Rey,
 mi Señor y mi Dios.
 
+[.discourse-part]
 Pregunta: ¿En dónde brilla esta luz?
 
+[.discourse-part]
 Respuesta: Al principio en las tinieblas, pero cuando la luz las ha derrotado,
 expulsado y esparcido, brilla fuera de ellas.
 
+[.discourse-part]
 Pregunta: ¿Qué son esas tinieblas en donde brilla la luz?
 
+[.discourse-part]
 Respuesta: Las tinieblas son el hombre, el corazón del hombre, la consciencia del hombre,
 el espíritu del hombre.
 Este es el mundo del que Cristo, el Sol de justicia,
@@ -614,17 +666,21 @@ es la luz en aquellas partes en la que Él hace que los rayos de Su luz brillen.
 No obstante,
 las tinieblas no pueden comprender el más mínimo brillo de esta luz en ninguna parte.
 
+[.discourse-part]
 Pregunta: ¿Cómo pueden ser convertidas entonces las tinieblas por la luz?
 
+[.discourse-part]
 Respuesta: Las tinieblas no son convertidas;
 todo hombre en ese estado es reprobado y la ira permanece sobre él. Es por eso
 que las tinieblas deben ser rechazadas junto con el hombre en las tinieblas,
 pero el alma que es tocada por la luz y hecha sensible a ella,
 la sigue en la vida y en el poder que es engendrado, sacada del horrible pozo, y salvada.
 
+[.discourse-part]
 Pregunta: ¿Cómo puedo encontrar la luz en medio de las tinieblas de mi corazón,
 dado que son tan grandes y la Semilla tan pequeña?
 
+[.discourse-part]
 Respuesta: Mediante su revelación y batalla contra las tinieblas.
 Hay algo que revela tanto la abierta como la secreta iniquidad del corazón corrupto,
 y encuentra la luz bajo todas sus cubiertas de celo, santidad,
@@ -635,21 +691,27 @@ es la luz.
 Así es como usted puede encontrarla,
 la encuentra de un momento a otro obrando en su corazón.
 
+[.discourse-part]
 Pregunta: Habiendo encontrado la luz,
 ¿cómo puedo llegar a sentir la virtud y el poder salvador de ella?
 
+[.discourse-part]
 Respuesta: Creyendo en ella,
 pues la virtud y el poder brotan en el corazón que cree en ella.
 
+[.discourse-part]
 Pregunta: Pero, ¿cómo puedo creer en ella?
 ¿Acaso no estoy muerto?
 
+[.discourse-part]
 Respuesta: Hay una creación, un poder vivificador en la luz,
 el cual engendra un poco de vida, y esta puede responder a la voz del poder vivo.
 
+[.discourse-part]
 Pregunta: Si yo pudiera encontrar tal cosa engendrada en mí,
 entonces sería capaz de creer, pero en definitiva, mi corazón muerto no puede.
 
+[.discourse-part]
 Respuesta:
 ¿Nunca ha experimentado usted un suspiro de anhelo verdadero y honesto hacia Dios?
 ¿Nunca ha encontrado que el pecado es una carga real (no imaginaria)?
@@ -659,8 +721,10 @@ Y ciertamente no era la carne ni la sangre en usted, sino algo de arriba.
 Si usted hubiera conocido el origen de esa vida,
 se habría alimentado y crecido en la virtud y poder de la fuente de donde esa vida provenía.
 
+[.discourse-part]
 Pregunta: Si esto fuera cierto, entonces todos los hombres tienen poder para creer.
 
+[.discourse-part]
 Respuesta: En la luz que alumbra en todos, y visita a todos, está el poder para creer.
 Este poder lucha con la criatura y busca obrar él mismo en la criatura,
 y en donde se ha producido el más pequeño suspiro tras la vida,
@@ -675,14 +739,18 @@ crece la Semilla y el reino es sentido y revelado
 cada día más. Esta es la verdadera puerta;
 cuidado con tratar de subir de otra manera.
 
+[.discourse-part]
 Pregunta: ¿Qué es creer en la luz?
 
+[.discourse-part]
 Respuesta: Es recibir el testimonio de la luz con respecto al bien y al mal, y ya sea,
 volverse hacia el bien o alejarse del mal,
 en la voluntad y poder que la luz engendra en el corazón.
 
+[.discourse-part]
 Pregunta: ¿Cómo me salvará esto?
 
+[.discourse-part]
 Respuesta: Por este medio:
 Eso que lo destruye a usted y lo separa del Dios vivo será arrancado diariamente,
 y el corazón será cambiado cada día a la imagen del que es la luz.
@@ -690,18 +758,22 @@ Usted será llevado a la unidad y a la comunión con
 la luz poseyéndola y siendo poseído por ella.
 ¡Esta es su salvación!
 
+[.discourse-part]
 Pregunta: Nosotros pensábamos que la salvación nos sería concedida en el futuro,
 después de la muerte del cuerpo, pero si eso es cierto,
 entonces la salvación se experimenta aquí.
 
+[.discourse-part]
 Respuesta: Sí, en todos los que son salvos.
 No hay una obra de salvación en el futuro, es forjada aquí con temor y temblor.
 El creyente que está verdaderamente unido a la vida
 es diariamente cambiado de gloria en gloria,
 como por el Espíritu del Señor.
 
+[.discourse-part]
 Pregunta: Demuestre más específicamente cómo la fe o creer en la luz obra la salvación.
 
+[.discourse-part]
 Respuesta: 1. En primer lugar causa temor y temblor para sujetar al pecador.
 El Señor Dios Todopoderoso, mediante el aumento de Su luz en el corazón,
 hace que los poderes de las tinieblas se sacudan,
@@ -788,32 +860,40 @@ Aquí el alma es continuamente transformada y cambiada
 al salir de lo corruptible a lo incorruptible,
 de la incircuncisión, vergüenza y afrenta para entrar a la circuncisión, vida y gloria.
 
+[.discourse-part]
 Pregunta: ¿Hace todo esto la luz?
 
+[.discourse-part]
 Respuesta: Sí, en aquellos que se vuelven a ella,
 se rinden ante ella y permanecen en ella.
 A estos ella los limpia de las tinieblas y diariamente los transforma a la imagen,
 pureza y perfección de la luz.
 Esto sólo lo puede hacer la luz.
 
+[.discourse-part]
 Pregunta: ¿Qué hace a los hombres en general tan hostiles a la luz?
 
+[.discourse-part]
 Respuesta: Su unión con las tinieblas.
 La luz es enemiga de toda oscuridad, pues la descubre y la perturba.
 
+[.discourse-part]
 Pregunta: Pero los hombres sabios, los que conocen,
 los que son considerados con mayor luz,
 también son enemigos de esta luz y hablan despectivamente de ella.
 
+[.discourse-part]
 Respuesta:
 ¿No ha sido siempre así? ¿Creyó en Él alguno de los gobernantes
 o sabios escribas y maestros de la ley antes?
 ¿Es de extrañarse si los tales no creen en Él hoy?
 
+[.discourse-part]
 Pregunta:
 ¿Cuál es la razón por la que los sabios no pueden
 ni han podido hasta ahora creer en la luz?
 
+[.discourse-part]
 Respuesta: Hay dos grandes razones.
 
 1+++.+++ Porque no pueden comprenderla.
@@ -839,10 +919,12 @@ por una creencia en la muerte de Cristo en Jerusalén,
 aunque no Lo conozcan en ellos,
 ni reciban Su poder en los frenos y reprimendas por el pecado.
 
+[.discourse-part]
 Pregunta: Pero hay muchos profesantes, profesantes estrictos,
 que sin ninguna duda han gustado alguna vez de la virtud viva.
 ¿Qué los hace ahora tales enemigos de la luz?
 
+[.discourse-part]
 Respuesta: 1. Que hayan caído de lo que alguna vez tuvieron,
 porque si estuvieran en esa Semilla viva que una vez les
 dio un verdadero sabor de la vida a través de las Escrituras,
@@ -859,9 +941,11 @@ cuando la luz es tan grande enemigo de ellos?
 ¿Cómo podrían, habiendo matado y asesinado al Justo en ellos mismos,
 reconocer y darle Su debido honor en otros?
 
+[.discourse-part]
 Pregunta: Pero estos estrictos profesantes,
 que proclaman grandes cosas en honor a Cristo, ¿Lo han asesinado en ellos mismos?
 
+[.discourse-part]
 Respuesta: Sí, efectivamente; tan ciertamente como los escribas,
 fariseos y el pueblo judío lo llevaron a la muerte en Jerusalén. Porque
 lo que le hacen ellos a la menor aparición de Su luz en sus corazones,
@@ -873,9 +957,11 @@ pero los hombres hoy se han endurecido contra Él por el conocimiento
 vanidoso que han reunido de las Escrituras mediante sus imaginaciones.
 Sus ojos no pueden ver más hoy, que lo que pudieron ver los ojos de los judíos entonces.
 
+[.discourse-part]
 Pregunta: Es seguro que si ellos conocieran la luz como el único camino vivo,
 no serían enemigos de ella.
 
+[.discourse-part]
 Respuesta: Sí, yo creo con respecto a ellos (como se dijo con respecto a los judíos),
 que si ellos la conocieran, no habrían crucificado al Señor de gloria.
 Porque yo doy testimonio de que muchos de ellos tienen un gran celo,
@@ -883,10 +969,12 @@ aunque no de acuerdo al conocimiento.
 Sin embargo, ¡cuán triste es su estado en el presente,
 porque el dios de este mundo ha cegado en ellos el único ojo que puede ver la verdad!
 
+[.discourse-part]
 Pregunta: Pero,
 ¿acaso no es posible para los hombres obtener la vida eterna por la lectura de las Escrituras,
 sin conocer o reconocer este principio de la luz?
 
+[.discourse-part]
 Respuesta:
 El verdadero objetivo de la lectura de las Escrituras
 es que el hombre se vuelva a la luz.

@@ -1,5 +1,8 @@
+[#ch8, short="La Autoridad y Gobierno que Cristo Excluyó"]
 == Capítulo VIII. La Autoridad y Gobierno que Cristo Excluyó de Su Iglesia
 
+[quote.scripture, , Mateo 20:25-28]
+____
 "`Entonces Jesús, llamándolos, dijo:
 Sabéis que los gobernantes de las naciones se enseñorean de ellas,
 y los que son grandes ejercen sobre ellas potestad.
@@ -8,8 +11,7 @@ sino que el que quiera hacerse grande entre vosotros será vuestro servidor,
 y el que quiera ser el primero entre vosotros será vuestro siervo;
 como el Hijo del Hombre no vino para ser servido, sino para servir,
 y para dar su vida en rescate por muchos.`"
-(Mat.
-20:25-28)
+____
 
 Con esto Cristo corta el tipo de poder y autoridad
 que crece en la naturaleza corrupta del hombre,
@@ -77,10 +79,12 @@ Pues las palabras, sin importar cuán ciertas puedan ser,
 no pueden transmitir vida a otro,
 sólo en la medida que una vasija viva se abra en uno y sea abierta en otro.
 
+[.discourse-part]
 Pregunta: Pero,
 ¿cómo se puede mantener este espíritu fuera o abajo
 para que no dañe al discípulo en quien se levanta?
 
+[.discourse-part]
 Respuesta: Cuando este espíritu empiece a levantarse en alguien,
 tan pronto como ese alguien lo perciba,
 tiene que luchar contra él en la luz que lo descubrió.
@@ -179,6 +183,7 @@ y en Él tienen que esperar el riego y el crecimiento de ella.
 
 === La Autoridad y Sujeción del Espíritu
 
+[.discourse-part]
 Pregunta: Pero,
 ¿no debe haber grandeza ni autoridad entre los discípulos
 de Jesús o en la iglesia de Cristo?
@@ -188,7 +193,8 @@ a las invenciones de su corrupto corazón? ¡Qué edificio más confuso sería e
 Con seguridad, esto no hará que Sión permanezca por mucho tiempo,
 pronto se convertirá en una Babilonia, es decir, en un cúmulo de desorden y confusión.
 
-Respuesta: No debe haber grandeza o autoridad de este tipo; aún así,
+[.discourse-part]
+Respuesta: No debe haber grandeza o autoridad de _este tipo;_ aún así,
 hay tanto una grandeza como una autoridad adecuadas para el estado de
 los verdaderos discípulos y para el tipo de reino al que pertenecen.
 Hay leyes, hay gobiernos, hay gobernadores, hay reglas y hay sujeción,
@@ -409,7 +415,7 @@ sobre la consciencia del hombre y no sobre su cuerpo,
 tiene que tenerse mucho cuidado de que nada más gobierne salvo el Espíritu,
 y que ese gobierno se extienda únicamente a lo que debe ser gobernado.
 
-Primero:
+_Primero:_
 Se debe tener cuidado de que nada gobierne en la
 iglesia de Cristo salvo el Espíritu de Cristo.
 Nada más enseña, exhorta, amonesta y reprende; nada más corta y echa afuera.
@@ -433,7 +439,7 @@ Sin embargo, el que recibe una gran medida del Espíritu y no se mantiene bajo,
 y no permanece en ella, y por el contrario, se levanta sobre sus hermanos,
 fácilmente puede errar y arrastrar a otros en su error.
 
-Segundo: Se debe tener cuidado de mantener la consciencia sensible,
+_Segundo:_ Se debe tener cuidado de mantener la consciencia sensible,
 para que nada sea recibido en la consciencia sino lo que está de acuerdo a la luz.
 La consciencia es el asiento de la fe,
 y si dicho asiento no se mantiene cerca de la luz con la que Dios brilla ahí,
@@ -497,10 +503,12 @@ sino que se apartan de ella, tanto en sí mismas como en otras.
 Esperen pues el nacimiento del Espíritu, en el que el Espíritu es dado como guía,
 Quien infaliblemente guía fuera del engaño.
 
+[.discourse-part]
 Objeción: Pero, ¿no es preciosa la unidad?
 ¿No exhorta el apóstol a los cristianos a ser de una sola mente?
 ¿No sería algo muy dulce si todos fuéramos de un solo corazón y de una sola manera?
 
+[.discourse-part]
 Respuesta: Sí,
 la unidad es muy preciosa y tiene que ser deseada y esperada conforme
 el Espíritu del Señor (que es uno) nos conduce y hace uno.

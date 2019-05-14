@@ -1,3 +1,4 @@
+[#ch9, short="El Nuevo Pacto del Evangelio"]
 == Capítulo IX. La Diferencia entre el Nuevo Pacto del Evangelio y el Antiguo Pacto de la Ley
 
 === Prefacio
@@ -120,11 +121,13 @@ pues,
 a considerar seriamente (en la sencillez infantil de Su
 engendramiento donde la verdadera vida brota) lo siguiente:
 
+[.numbered]
 1+++.+++ Que la totalidad de la ley de Moisés (los diez mandamientos,
 así como la institución de los sacrificios y de la adoración)
 fue añadida por causa de la transgresión. (Gal.
 3:19)
 
+[.numbered]
 2+++.+++ Que la totalidad de la ley
 (los diez mandamientos y los sacrificios) eran representaciones,
 figuras o sombras de algo en relación con Cristo la Semilla.
@@ -137,10 +140,12 @@ de lo que las otras sombras o sacrificios hicieron,
 sin embargo, con ellos se abrió un camino para una mejor esperanza,
 hacia la cual ellos tenían que conducir al discípulo como lo hace un maestro de escuela.
 
+[.numbered]
 3+++.+++ Que la totalidad de la dispensación de la ley fue dada a los judíos, no a los gentiles.
 (Rom.
 9:4)
 
+[.numbered]
 4+++.+++ Que la dispensación de la ley de Moisés en la letra duraría
 hasta que Cristo la Semilla viniera y la cumpliera.
 (Gal.
@@ -182,13 +187,12 @@ más espiritual y más duradera que el ministerio de la ley de Moisés para los 
 pasar de los discípulos de Cristo hasta que todo sea cumplido,
 sino que debe permanecer una espada contra toda lujuria y deseo de la carne en los discípulos,
 hasta que todo ello, con la raíz misma, sean cortados.
-(Mat.
-3:12; Heb.
-4:12; Mat.
-5:17 y 18)
+(Mat. 3:12; Heb. 4:12; Mat. 5:17 y 18)
 
+[.discourse-part]
 Pregunta: ¿De qué eran figura o sombra los diez mandamientos?
 
+[.discourse-part]
 Respuesta:
 Las tablas de piedra eran representaciones o figuras de las tablas de carne del corazón,
 en las que es escrita la nueva ley del pacto de vida.
@@ -249,7 +253,7 @@ entonces llegarían a la Palabra de fe, a la que Pablo nos dirige.
 (Rom.
 10:6) Por el oír esta palabra es la justificación,
 y no por una creencia simple de que la sangre de Cristo fue derramada.
-Porque es el poder de la sangre lo que salva, cuyo poder está en la palabra viva,
+Porque es el _poder_ de la sangre lo que salva, cuyo poder está en la palabra viva,
 y es experimentado y recibido al oír, creer y obedecer dicha palabra,
 llevando así al alma a la unidad y conformidad con Él,
 tanto en Su muerte como en Su resurrección y vida.
@@ -418,9 +422,11 @@ el velo se mantiene y aún permanecen en el cautiverio y esclavitud del enemigo.
 
 === Algunas Preguntas y Respuestas
 
+[.discourse-part]
 Pregunta: ¿No son los diez mandamientos, expresados en Éxodo 20,
 morales y por lo tanto perpetuos?
 
+[.discourse-part]
 Respuesta:
 El pacto que Dios hizo con los judíos en el Monte Horeb
 cuando salieron de la tierra de Egipto no iba a ser perpetuo,
@@ -471,15 +477,18 @@ arriba,`" la cual es madre de todos los hijos del nuevo pacto.
 
 Por tanto, observen diligentemente las siguientes cosas en el temor del Señor:
 
-Primero: Los diez mandamientos dados mediante Moisés en el Monte Horeb,
+[.numbered]
+_Primero:_ Los diez mandamientos dados mediante Moisés en el Monte Horeb,
 fue el pacto que hizo Dios con los judíos cuando los tomó
 de la mano para sacarlos de la tierra de Egipto.
 
-Segundo: Dios no quedó satisfecho,
+[.numbered]
+_Segundo:_ Dios no quedó satisfecho,
 pues este pacto no era capaz (debido a la debilidad
 de la carne en ellos) de guardarlos para Él.
 
-Tercero: Dios provee un nuevo pacto en la venida de Cristo, un mejor pacto,
+[.numbered]
+_Tercero:_ Dios provee un nuevo pacto en la venida de Cristo, un mejor pacto,
 del cual Cristo es el mediador.
 Este pacto no es externo, como el anterior, sino interno, puesto en la mente,
 escrito en el corazón. Así como el pueblo es interior, el santuario es interior,
@@ -488,7 +497,8 @@ así es el pacto y la escritura del mismo.
 Dado que este pacto sólo está escrito en el Espíritu y en lo que es espiritual,
 no puede ser leído en la letra.
 
-Cuarto: Adonde quiera que este nuevo pacto llegue, el otro se envejece,
+[.numbered]
+_Cuarto:_ Adonde quiera que este nuevo pacto llegue, el otro se envejece,
 sea que llegue a una persona o a un pueblo.
 Adonde quiera que la ley del Espíritu de vida se manifieste,
 la ley de la letra es sorbida en ella y desaparece,
@@ -501,9 +511,11 @@ es decir, es reconocido y recibido en Cristo, la sustancia.
 Pero los diez mandamientos, puesto que eran una sombra, pasan ante el Sol de justicia,
 así como los otros tipos y sombras de la ley.
 
+[.discourse-part]
 Objeción: Pero, ¿había algo en los diez mandamientos que era sombra?
 ¿No demandan todos ellos cosas que permanecen para siempre?
 
+[.discourse-part]
 Respuesta:
 El ministerio de Moisés (tal como estaba en la letra externa) no fue sino
 una sombra de la plenitud y perfección del ministerio del Espíritu que
@@ -545,9 +557,11 @@ los otros mandamientos eran sombras externas de inocencia y pureza interna,
 las cuales recibe el creyente internamente en su corazón por la
 poderosa operación de la ley del Espíritu de vida en él.
 
+[.discourse-part]
 Objeción: ¿Se nos permite ahora romper esas leyes?
 Si no pueden ser quebrantadas, entonces son perpetuas.
 
+[.discourse-part]
 Respuesta:
 La razón por la que no pueden ser quebrantadas no
 es porque la dispensación de ellas siga en vigor,
@@ -577,8 +591,10 @@ para la ley interior del Espíritu de vida en Cristo Jesús.
 Esto efectivamente afecta los espíritus del pueblo de Dios,
 lo que la ley de Moisés no pudo hacer de ninguna manera.
 
+[.discourse-part]
 Pregunta: ¿Cuál es la sustancia de la ley que permanece?
 
+[.discourse-part]
 Respuesta: La sustancia de la ley es el amor:
 Amar a Dios por encima de todo (por encima de todo afuera,
 y por encima de todo adentro) y amar al prójimo como a uno mismo.
@@ -594,11 +610,13 @@ antes de que el amor que cumple la ley pueda brotar.
 (Deut.
 30:6)
 
+[.discourse-part]
 Pregunta: ¿No es el propósito del cuarto mandamiento,
 "`Acuérdate del día de reposo para santificarlo,`" persuadirnos
 a dejar de lado nuestro empleo un día de siete,
 para que podamos en dicho día estar completamente entregados a esperar en el Señor?
 
+[.discourse-part]
 Respuesta:
 El alcance y propósito del cuarto mandamiento era ordenarle a los
 judíos que guardaran estrictamente el día de reposo como una señal,
@@ -617,11 +635,13 @@ La santificación ha llegado, el reposo ha llegado, el Señor del día de reposo
 ¿no pasará la señal de la santificación, la señal del reposo?
 (Éxo. 31:13)
 
+[.discourse-part]
 Pregunta: Nuestro Señor dice en Mateo 5: "`...hasta que pasen el cielo y la tierra,
 ni una jota ni una tilde pasará de la ley.`"
 Si Él aquí no se refiere a la ley de los diez mandamientos,
 ¿a cuál ley está haciendo referencia?
 
+[.discourse-part]
 Respuesta:
 Con la palabra "`ley`" está haciendo referencia a la totalidad del ministerio de Moisés,
 (ver. 18) y con la palabra "`profetas`" a la totalidad
@@ -648,7 +668,7 @@ piensen que Él había venido a destruir la ley o los profetas;
 pues Él no había venido a destruir, sino a cumplir.
 En consecuencia, vemos que Cristo hace estas dos cosas:
 
-Primero establece el ministerio de la ley y los profetas para su tiempo,
+_Primero_ establece el ministerio de la ley y los profetas para su tiempo,
 hasta que fuera cumplido por Él, la sustancia;
 por Aquel que debía cumplir toda la justicia de la ley.
 Ella debía permanecer la totalidad de su día y no fallar
@@ -657,7 +677,7 @@ en una sola tilde (como Él mismo explicó en Luc.
 (Heb.
 12:27,28)
 
-Luego toma la sustancia de la ley en Su propio ministerio, y la coloca más interna,
+_Luego_ toma la sustancia de la ley en Su propio ministerio, y la coloca más interna,
 cerca y principalmente sobre los espíritus de Sus discípulos,
 más que lo que había hecho Moisés en la letra sobre sus discípulos.
 En Mateo Él no lo explica completamente,
@@ -688,12 +708,14 @@ Es cierto que Él se sometió a la ley, pero Él seguía siendo el Señor. Hace 
 reyes y sacerdotes para Dios, a los que habiendo sido bautizados en Su muerte,
 ahora conocen Su resurrección y reinado.
 
+[.discourse-part]
 Pregunta:
 Si la venida de Cristo en la carne y Su cumplimiento de toda la justicia de la ley llevó
 a su fin la ley en la letra y se le promulgó otra ley a la casa de Cristo,
 ¿qué es, entonces, esta nueva ley?
 Y, ¿es contraria a la ley escrita?
 
+[.discourse-part]
 Respuesta: Es la ley del Espíritu, o la luz del Espíritu en el corazón,
 la cual descubre el pecado (no sólo en los actos externos, sino en su fuente,
 levantamiento,
@@ -715,11 +737,13 @@ No es contrario a la ley de Moisés, sino que reúne en sí mismo toda la sustan
 justicia y equidad de ella (como dije antes), aquello que la ley como sombra,
 representaba y le era demandado a aquel pueblo externo, o de la sombra; los judíos.
 
+[.discourse-part]
 Pregunta:
 ¿Por qué entonces el apóstol Santiago habla de transgredir la "`ley real,`" y amonesta:
 "`Así hablen ustedes y así procedan,
 como los que han de ser juzgados por la ley de la libertad`"?
 
+[.discourse-part]
 Respuesta: ¿Qué es la ley real?
 ¿Qué es la ley de la libertad?
 ¿Era la ley administrada por Moisés la ley real?
@@ -752,9 +776,11 @@ que estar atentos a ellos hasta que el día despunte y el lucero se levante.
 Entonces conoceremos un ministerio más pleno que el de profecía, es decir,
 el brillo y la aparición de Aquello que fue profetizado.
 
+[.discourse-part]
 Pregunta: El cuarto mandamiento, el que habla de guardar el día de reposo,
 ¿no debe ser guardado por todos los creyentes?
 
+[.discourse-part]
 Respuesta:
 Todos los mandamientos del pacto de Cristo deben ser guardados por los creyentes,
 según Él se los dispensa bajo Su administración en el nuevo pacto.
@@ -798,11 +824,13 @@ la sustancia).
 Porque cuando el día de Cristo amanece,
 aquellas cosas que eran sombras de ese día desaparecen.
 
+[.discourse-part]
 Objeción:
 ¿No es peligroso mantener un día de reposo espiritual y negar el
 sábado semanal en el que nuestro Señor Jesucristo reposó,
 al cual también el Señor bendijo y santificó para Adán y su posteridad?
 
+[.discourse-part]
 Respuesta: El evangelio es un estado de sustancia,
 un estado de cumplimiento de los tipos y sombras de la ley que
 lleva a los creyentes a la posesión de aquello que estaba señalado.
@@ -819,10 +847,12 @@ Pero yo conozco algo que me enseña lo contrario.
 El día ha amanecido, ¡bendito sea el Señor Dios Todopoderoso!
 El eterno día ha amanecido y las sombras de la ley han desaparecido.
 
+[.discourse-part]
 Objeción: ¿No habla Hebreos 4 de tres reposos?
 ¿El séptimo día,
 el reposo de Israel en Canaán y el reposo que queda del que habla David en el Salmo 95?
 
+[.discourse-part]
 Respuesta: Concedo eso.
 Había dos reposos bajo la ley que eran señales de uno bajo el evangelio.
 Los dos bajo la ley eran externos y naturales;
@@ -876,7 +906,7 @@ en medio de todas las debilidades y flaquezas de la carne, andar cuando Él diri
 quedarse quieto cuando Él se detiene, pelear cuando Él se prepara para la guerra,
 llevar el oprobio cuando Él permite que el enemigo prevalezca,
 esperar "`en esperanza contra esperanza`" Su alivio y victoria a su debido tiempo,
-este es el trabajo, el esfuerzo laborioso como de parto, la obra bajo el yugo de la vida,
+_este_ es el trabajo, el esfuerzo laborioso como de parto, la obra bajo el yugo de la vida,
 con la medida de gracia y poder recibida de la vida.
 Entonces, primero hay una visita desde lo alto de la aurora,
 y de esa visitación es introducida luz en el corazón,
@@ -894,8 +924,10 @@ no podrá entrar a la tierra del descanso; y cuando el Testigo eterno se despier
 el tal hallará la ausencia de la tierra del descanso
 y amargamente llorará su grave error.
 
+[.discourse-part]
 Pregunta: ¿Qué contiene el nuevo pacto o pacto del evangelio?
 
+[.discourse-part]
 Respuesta: Dios pone Su temor en el corazón, escribe Su ley en la mente,
 derrama agua pura y clara para lavar la contaminación del interior,
 circuncida la inmundicia del corazón,
@@ -999,7 +1031,6 @@ En dicha luz ustedes verán la luz de Moisés y la de los profetas,
 y no recogerán falsos significados de sus palabras,
 sino que las entenderán correctamente en el mismo santo Espíritu.
 En dicha luz ustedes disfrutarán las bienaventuranzas
-
 de las que ellos hablaron y señalaron,
 las cuales yacen en el levantamiento interior de una Semilla interior,
 y no en una conformación externa del hombre exterior,
