@@ -1,19 +1,7 @@
-== Capítulo XVI. Las Cartas de Isaac Penington Escritas entre 1658 y 1671
+== Capítulo XVI. Las Cartas de Isaac Penington / Escritas entre 1658 y 1671
 
-* * *
-
-=== A Su Padre, Sir Isaac Pennington^
-footnote:[El Padre de Isaac Penington (Sir Isaac Pennington, Padre.
-1584-1661) fue un conocido político Inglés y puritano Congregacionalista,
-establecido en la Cámara de los Comunes de 1640 a
-1653 y Alcalde de Londres de 1642 a 1643.
-Fue miembro del tribunal que condenó a Charles I de traición y lo ejecutó.
-Después se convirtió en un prominente miembro del gobierno de Oliver Cromwell.
-Con la Restauración de Charles II en 1660,
-Pennington padre fue juzgado por alta traición y encarcelado en la Torre de Londres,
-donde murió en espera de la ejecución, el 16 de diciembre de 1661.
-(Isaac Penington Jr. eliminó una "`n`" de su nombre,
-quizás para que no fuera confundido con su padre.)]^
+[.letter-heading]
+A Su Padre, Sir Isaac Pennington^
 footnote:[El Padre de Isaac Penington (Sir Isaac Pennington, Padre.
 1584-1661) fue un conocido político Inglés y puritano Congregacionalista,
 establecido en la Cámara de los Comunes de 1640 a
@@ -26,6 +14,7 @@ donde murió en espera de la ejecución, el 16 de diciembre de 1661.
 (Isaac Penington Jr. eliminó una "`n`" de su nombre,
 quizás para que no fuera confundido con su padre.)]
 
+[.salutation]
 ¡Ah, querido Padre!
 
 ¿Por qué me causa tanto dolor y llanto ante el Señor con sus duras e injustas cargas?
@@ -49,8 +38,10 @@ de la verdad y para repudiar el camino del error.
 
 Usted establece tres razones por las que no puede creer que este camino sea de Dios.
 
+[.discourse-part]
 1+++.+++ El camino de Dios es un camino de amor, paz y unidad.
 
+[.discourse-part]
 Respuesta:
 Si usted tuviera ese ojo que puede ver las cosas de Dios y se aplicara a ver con él,
 vería la paz, el amor y la unidad entre esta gente de la que otros hombres sólo hablan.
@@ -95,8 +86,10 @@ a veces sentimos la fuerza y la sabiduría,
 tal como los más celosos en los caminos de la religión
 mundana no tienen oído para oír el relato.
 
+[.discourse-part]
 2+++.+++ El camino de Dios es un camino de humildad.
 
+[.discourse-part]
 Respuesta: Si ellos no hubieran sido quebrantados y humillados por Dios,
 nunca habrían entrado en este camino,
 el cual es un camino que aborrece la arrogancia y la parte carnal del hombre.
@@ -104,8 +97,10 @@ Esta no es una humildad voluntaria,
 sino una humildad que se opone y rompe la voluntad del hombre constantemente.
 Usted juzga a distancia y con lo que no debe juzgar, sino con lo que debe ser juzgado.
 
+[.discourse-part]
 3+++.+++ Dios es un Dios de orden, no de confusión.
 
+[.discourse-part]
 Respuesta: ¡Bendito sea el Señor,
 que ha recuperado parte del orden de la iglesia verdadera a favor
 de nosotros y nos ha librado de la confusión del anticristo!
@@ -152,10 +147,16 @@ la verdadera humildad (la cual no reside en la voluntad de la criatura,
 todo lo contrario,
 la destruye) y pronto nos conoceremos y tendremos consuelo verdadero uno en el otro!
 
-I+++.+++ P. Día 14, del mes 12, de 1658
+[.signed-section-signature]
+I+++.+++ P.
 
-=== A Thomas Ellwood
+[.signed-section-context-close]
+Día 14, del mes 12, de 1658
 
+[.letter-heading]
+A Thomas Ellwood
+
+[.salutation]
 ¡Querido Thomas!
 
 Grande ha sido la bondad del Señor para contigo al sacarte de ese
@@ -179,10 +180,16 @@ prisioneros.
 
 Permanezco tuyo en la Verdad, en la que el Señor mi Dios me preserve solo y fiel.
 
-I+++.+++ P. Desde la cárcel de Aylesbury, día 14, del mes 12, 1660
+[.signed-section-signature]
+I+++.+++ P.
 
-=== A un Padre Desconocido
+[.signed-section-context-close]
+Desde la cárcel de Aylesbury, día 14, del mes 12, 1660
 
+[.letter-heading]
+A un Padre Desconocido
+
+[.salutation]
 Querido amigo,
 
 No tengo mucha libertad de escribir en la actualidad,
@@ -250,11 +257,16 @@ Así, en la sencillez de mi corazón le he contestado,
 de acuerdo al impulso y libertad que encontré allí y que no me atrevo a exceder.
 Yo, su amigo sincero, aunque exteriormente desconocido.
 
+[.signed-section-signature]
 I+++.+++ P.
+
+[.signed-section-context-close]
 Día 20, del mes 3, de 1665
 
-=== Para Aquel que le Envió un Documento de Richard Baxter
+[.letter-heading]
+Para Aquel que le Envió un Documento de Richard Baxter
 
+[.salutation]
 Querido amigo,
 
 A quien a menudo recuerdo con amor y corazón suave, deseando en Dios,
@@ -296,11 +308,19 @@ Esto describe mi amor hacia usted,
 sacado a la luz en este momento por la expresión externa del suyo al enviar ese documento;
 quien sigue siendo (desde mi primer contacto) y ha sido siempre un amigo y devoto suyo.
 
+[.signed-section-signature]
 I+++.+++ P.
+
+[.signed-section-context-close]
 Chalfonte de Pedro, día 19, del mes 6, de 1665
 
-=== Para Su Esposa (Escrita por motivo de su cuarto encarcelamiento)
+[.letter-heading]
+Para Su Esposa
 
+[.signed-section-context-open.centered]
+(Escrita por motivo de su cuarto encarcelamiento)
+
+[.salutation]
 Mi querido amor verdadero,
 
 Apenas tengo libertad para darme cuenta de lo que ha sucedido,
@@ -336,13 +356,22 @@ Mi amada, sé mi verdadera compañera de yugo,
 útil para atraer mi corazón hacia el Señor y alejarlo de todo excepto
 de lo que es santificado por la presencia y guía de Su vida.
 
+[.signed-section-closing]
 Siento y sabes que soy, muy cariñosamente tuyo.
 
+[.signed-section-signature]
 I+++.+++ P.
+
+[.signed-section-context-close]
 Día 1, del mes 7, de 1665
 
-=== A un Amigo en Londres (Escrito en ocasión de la plaga, 1665)
+[.letter-heading]
+A un Amigo en Londres
 
+[.signed-section-context-open.centered]
+(Escrito en ocasión de la plaga, 1665)
+
+[.salutation]
 ¡Oh amigo!
 
 Temible es el Señor, esto es conocido y sentido ahora más allá de lo que pueda ser dicho.
@@ -375,13 +404,19 @@ resultará de gran ventaja en su favor,
 al atraerlo más hacia un sentido y conocimiento del Único infinito,
 y sacarlo de sus pensamientos y conocimiento terrenales, los cuales no ayudarán ahora.
 
+[.signed-section-closing]
 Su amigo,
 
+[.signed-section-signature]
 I+++.+++ P.
+
+[.signed-section-context-close]
 Día 8, del mes 7, de 1665
 
-=== A Elizabeth Walmsley
+[.letter-heading]
+A Elizabeth Walmsley
 
+[.salutation]
 Querida amiga,
 
 Mi corazón se derritió sobremanera dentro de mí al leer tus preciosas y tiernas líneas.
@@ -407,11 +442,16 @@ que ella pueda ser una contigo en la Semilla y Vida de Dios.
 
 Soy tu Amigo no fingido y querido amante de la Semilla pura de vida en ti.
 
+[.signed-section-signature]
 I+++.+++ P.
+
+[.signed-section-context-close]
 Cárcel de Aylesbury, día 19, del mes 8, de 1665
 
-=== A Sus Amigos en Horton e Inmediaciones
+[.letter-heading]
+A Sus Amigos en Horton e Inmediaciones
 
+[.salutation]
 Mis Amigos,
 
 Ha habido un día nublado y oscuro,
@@ -516,10 +556,16 @@ Sigo siendo su amigo encarcelado,
 según la sabiduría de Dios y en Su complacencia pura y temor,
 aunque la sabiduría del hombre podría haber evitado fácilmente estos lazos.
 
-I+++.+++ P. Cárcel de Aylesbury, día 22, del mes 8, de 1665
+[.signed-section-signature]
+I+++.+++ P.
 
-=== Para los Amigos de la Verdad En y Cerca de los Dos Chalfonts
+[.signed-section-context-close]
+Cárcel de Aylesbury, día 22, del mes 8, de 1665
 
+[.letter-heading]
+Para los Amigos de la Verdad En y Cerca de los Dos Chalfonts
+
+[.salutation]
 Queridos amigos.
 
 Estoy separado de ustedes en cuanto a la presencia corporal,
@@ -580,10 +626,17 @@ Y si ustedes prueban alguna dulzura o frescura en ellas, inclínense ante la Fue
 y sean conscientes de Sus alabanzas brotando en medio de ustedes.
 Su amigo y hermano en la Verdad,
 
+[.signed-section-signature]
 I+++.+++ P.
-Desde mi lugar de confinamiento en Aylesbury, día 20, del mes 4, de 1666
 
-=== Para el Conde de Bridgewater^
+[.signed-section-context-close]
+Desde mi lugar de confinamiento en Aylesbury
+
+[.signed-section-context-close]
+Día 20, del mes 4, de 1666
+
+[.letter-heading]
+Para el Conde de Bridgewater^
 footnote:[El Conde de Bridgewater fue el hombre principalmente
 responsable de varios de los largos encarcelamientos de Isaac Penington.
 Debido a que Penington no se inclinó ante él,
@@ -592,15 +645,8 @@ humilde servidor,`" el Conde de Bridgewater adquirió órdenes militares
 para tener a Penington detenido y encarcelado en varias ocasiones.
 En total, Isaac Penington pasó cerca de cinco años en la cárcel,
 por lo general en Aylesbury, aunque una vez en Reading.]^
-footnote:[El Conde de Bridgewater fue el hombre principalmente
-responsable de varios de los largos encarcelamientos de Isaac Penington.
-Debido a que Penington no se inclinó ante él,
-ni se dirigió a él como "`Mi Señor,`" ni se refirió a sí mismo como "`su
-humilde servidor,`" el Conde de Bridgewater adquirió órdenes militares
-para tener a Penington detenido y encarcelado en varias ocasiones.
-En total, Isaac Penington pasó cerca de cinco años en la cárcel,
-por lo general en Aylesbury, aunque una vez en Reading.]
 
+[.salutation]
 Amigo,
 
 Es el deseo de mi corazón caminar con Dios en el verdadero temor de Su Nombre,
@@ -698,11 +744,16 @@ su pérdida sería grande e irreparable.
 Soy su amigo en estas cosas y le he escrito con amor
 verdadero y deseoso del bienestar de su alma.
 
+[.signed-section-signature]
 I+++.+++ P.
+
+[.signed-section-context-close]
 Desde la cárcel Aylesbury, día 24, del mes 6, de 1666
 
-=== Para Elizabeth Walmsley, Giles de Chalfont
+[.letter-heading]
+Para Elizabeth Walmsley, Giles de Chalfont
 
+[.salutation]
 Querida amiga,
 
 Mis pensamientos de ti me agradan.
@@ -725,10 +776,16 @@ Te encomiendo mi amor para tu hermana y para todos los Amigos cuando tengas la o
 quienes respiran con gran anhelo tras el Señor y desean caminar en rectitud
 de corazón con Él. Soy tu amigo en el afecto que es de la Verdad.
 
-I+++.+++ P. Aylesbury, día 20, del mes 4, de 1666
+[.signed-section-signature]
+I+++.+++ P.
 
-=== Para un Destinatario Desconocido
+[.signed-section-context-close]
+Aylesbury, día 20, del mes 4, de 1666
 
+[.letter-heading]
+Para un Destinatario Desconocido
+
+[.salutation]
 Amigo,
 
 La vasija o la naturaleza creada, envenenada por el pecado y la muerte,
@@ -771,12 +828,16 @@ Tu verdadero y amoroso amigo,
 que desea la correcta guía y felicidad de tu alma por medio del Señor Jesucristo
 (quien es el único Pastor y Guía hábil) así como de la mía.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 Cárcel de Aylesbury, día 20, del mes 10, de 1666
 
-=== A los Amigos en la Verdad En y Cerca de los Dos Chalfonts
+[.letter-heading]
+A los Amigos en la Verdad En y Cerca de los Dos Chalfonts
 
+[.salutation]
 Queridos amigos,
 
 Como un padre vigila a sus hijos,
@@ -836,10 +897,16 @@ lo que se han esforzado por ustedes en el Espíritu del Señor.
 
 De su hermano y compañero en la fe, paciencia y aflicciones de la Semilla,
 
-I+++.+++ P. Cárcel de Aylesbury, 25 del mes 11, de 1666.
+[.signed-section-signature]
+I+++.+++ P.
 
-=== Para los Amigos Fieles de la Verdad En y Cerca de los Dos Chalfonts
+[.signed-section-context-close]
+Cárcel de Aylesbury, 25 del mes 11, de 1666
 
+[.letter-heading]
+Para los Amigos Fieles de la Verdad En y Cerca de los Dos Chalfonts
+
+[.salutation]
 Queridos amigos,
 
 ¿Han gustado ustedes en alguna medida,
@@ -979,11 +1046,16 @@ amén!
 Escrito en el tierno afecto y movimiento de la vida pura,
 desde el lugar de mi confinamiento en Aylesbury.
 
+[.signed-section-signature]
 I+++.+++ P.
+
+[.signed-section-context-close]
 Día 1, del mes 3, de 1667
 
-=== A Mis Queridos Hijos J. J. y M. P.
+[.letter-heading]
+A Mis Queridos Hijos J. J. y M. P.
 
+[.salutation]
 Mis queridos hijos,
 
 Hay dos cosas que deseo especialmente en referencia a su aprendizaje: Una es,
@@ -1133,7 +1205,7 @@ pongan en sus mentes algunas de estas cosas en el temor y sabiduría de Dios,
 con ternura y delicadeza.
 Pero tengan cuidado de recriminarlos o exasperarlos,
 para que no se endurezcan de esta manera y el mal se levante y se fortalezca en ellos.
-Mi querida G. (sin duda, su hijastra, Gulielma, después esposa de William Penn) y Amigos,
+Mi querida G. +++[+++sin duda, su hijastra, Gulielma, después esposa de William Penn] y Amigos,
 velen sobre sus propios corazones y caminos para que puedan ser de ejemplo para ellos,
 para que así no solo lean estas cosas de mis escritos,
 sino también en su actitud hacia ellos y hacia los demás. Que el Señor bendiga su vigilancia,
@@ -1143,12 +1215,16 @@ consolado en la misericordia y bondad del Señor hacia ellos.
 
 Su padre que les desea bien y que les vaya bien tanto aquí como en el más allá.
 
+[.signed-section-signature]
 I+++.+++ P.
 
-Día 10, del mes 3, de 1667.
+[.signed-section-context-close]
+Día 10, del mes 3, de 1667
 
-=== A los Amigos en Chalfont en Buckinghamshire
+[.letter-heading]
+A los Amigos en Chalfont en Buckinghamshire
 
+[.salutation]
 ¡Oh amigos!
 
 ¡Aliméntense del árbol de la vida! ¡Aliméntense de la medida de vida y de su poder puro
@@ -1186,10 +1262,16 @@ y experimenten la victoria y el dominio sobre ello!
 Esto brotó para ustedes en la buena voluntad de su Padre,
 de la vida y del amor de su hermano en la Verdad,
 
-I+++.+++ P. Cárcel Aylesbury, día 8, del mes 5, de 1667.
+[.signed-section-signature]
+I+++.+++ P.
 
-=== Para George Fox
+[.signed-section-context-close]
+Cárcel Aylesbury, día 8, del mes 5, de 1667
 
+[.letter-heading]
+Para George Fox
+
+[.salutation]
 Estimado G. F.,
 
 Siento la tierna misericordia del Señor y una parte de ese quebrantamiento,
@@ -1219,11 +1301,16 @@ que el nombre del Señor sea exaltado y Su verdad florezca en ella.
 Estimado G. F., de hecho mi alma anhela el puro,
 pleno e imperturbable reino de la Vida en mí.
 
+[.signed-section-signature]
 I+++.+++ P.
-Cárcel de Aylesbury, día 15, del mes 5, de 1667.
 
-=== A los Amigos de los Dos Chalfonts
+[.signed-section-context-close]
+Cárcel de Aylesbury, día 15, del mes 5, de 1667
 
+[.letter-heading]
+A los Amigos de los Dos Chalfonts
+
+[.salutation]
 Queridos amigos,
 
 ¡Oh, los tesoros de la sabiduría y del conocimiento, las riquezas del amor,
@@ -1413,11 +1500,16 @@ guíe nuestros corazones cada día más y más en el viaje y hacia la posesión.
 alma puede heredar y poseer (a pesar de todos sus enemigos) lo que haya recorrido,
 y todos los días puede recorrer más y más en lo que aún queda por delante.
 
+[.signed-section-signature]
 I+++.+++ P.
+
+[.signed-section-context-close]
 Cárcel de Aylesbury, días 2 y 3, del mes 6, de 1667
 
-=== Para un Destinatario Desconocido
+[.letter-heading]
+Para un Destinatario Desconocido
 
+[.salutation]
 Querido amigo,
 
 Tú has tenido el camino de salvación fielmente testificado para ti,
@@ -1494,10 +1586,16 @@ a heredar y a regocijarte delante del Señor en tu porción.
 Soy tu amigo en la verdad que no cambia,
 sino que es pura y nos preserva puros para siempre.
 
-I+++.+++ P. Desde la cárcel de Aylesbury, día 28, del mes 7, de 1667
+[.signed-section-signature]
+I+++.+++ P.
 
-=== A Su Hermano
+[.signed-section-context-close]
+Desde la cárcel de Aylesbury, día 28, del mes 7, de 1667
 
+[.letter-heading]
+A Su Hermano
+
+[.salutation]
 Querido hermano,
 
 Esta mañana cuando salí a caminar algo fresco y vivo surgió en mi corazón para ti,
@@ -1606,11 +1704,16 @@ en su tierna misericordia, ha provisto; y tú no puedes estar a salvo sin esta.
 Soy tu querido hermano según una unidad natural,
 pero anhelo una unidad contigo en la vida pura.
 
+[.signed-section-signature]
 I+++.+++ P.
+
+[.signed-section-context-close]
 Cárcel de Aylesbury, día 7, del mes 8, de 1667
 
-=== A un Destinatario Desconocido
+[.letter-heading]
+A un Destinatario Desconocido
 
+[.salutation]
 Mi querido amigo,
 
 El camino de la redención es:
@@ -1683,10 +1786,13 @@ al sonido de la voz del Pastor cuando Él los llama.
 Sigo siendo tu verdadero, total, fiel y amoroso amigo,
 en el amor y la buena voluntad del Señor que deseo para tu alma como para la mía.
 
+[.signed-section-signature]
 I+++.+++ P.
 
-=== A un Destinatario Desconocido
+[.letter-heading]
+A un Destinatario Desconocido
 
+[.salutation]
 Querido amigo,
 
 Permíteme decirte algunas palabras, no sólo de lo que he sentido en mi corazón,
@@ -1736,11 +1842,16 @@ Pero esto es difícil de evitar en el hombre que lee en la libertad de su propio
 sin la luz del Espíritu de Dios que es el límite y el yugo de los
 verdaderos lectores y de los que entienden las Escrituras.
 
+[.signed-section-signature]
 I+++.+++ P.
+
+[.signed-section-context-close]
 Día 4, del mes 4, de 1668
 
-=== A una Pareja a Punto de Casarse
+[.letter-heading]
+A una Pareja a Punto de Casarse
 
+[.salutation]
 Queridos amigos.
 
 Ustedes están emprendiendo algo grande y pesado,
@@ -1773,11 +1884,16 @@ Esto será una fuerza para ustedes contra el tentador más tarde.
 
 En el amor verdadero a ustedes y en firmeza de corazón, de su amigo en la verdad,
 
+[.signed-section-signature]
 I+++.+++ P.
+
+[.signed-section-context-close]
 Día 4, del mes 3, de 1668
 
-=== A un Destinatario Desconocido
+[.letter-heading]
+A un Destinatario Desconocido
 
+[.salutation]
 ¡Oh amigo!
 
 ¿Aparecerá el Señor poderosamente en la tierra e Israel no lo conocerá? ¿Los
@@ -1812,11 +1928,16 @@ Y usted podrá decir en presencia del Señor: "`¡Esta es la ciudad,
 el edificio propio de Dios, cuyo fundamento fue puesto con zafiros,
 cuyos muros son salvación y sus puertas alabanza!`"
 
+[.signed-section-signature]
 I+++.+++ P.
-Día 12, del mes 3, de 1669.
 
-=== A Catherine Pordage
+[.signed-section-context-close]
+Día 12, del mes 3, de 1669
 
+[.letter-heading]
+A Catherine Pordage
+
+[.salutation]
 Amiga,
 
 Tu estado y condición han estado conmigo prácticamente, desde la última vez que te vi.
@@ -1870,10 +1991,16 @@ Por lo tanto, Juan dijo desde un verdadero y profundo entendimiento: "`No améis
 ni las cosas que están en el mundo`" (si amas las cosas del mundo, amas al mundo),
 porque "`si alguno ama al mundo, El amor del Padre no está en él.`"
 
-I+++.+++ PDía 11, del mes 1, de 1670
+[.signed-section-signature]
+I+++.+++ P.
 
-=== A Thomas Walmsley
+[.signed-section-context-close]
+Día 11, del mes 1, de 1670
 
+[.letter-heading]
+A Thomas Walmsley
+
+[.salutation]
 Querido amigo,
 
 Hay algo en mi corazón esta mañana que quiero escribirte
@@ -1942,11 +2069,16 @@ y derribando en ti bajo Sus pies lo que nada más puede derribar.
 Este es el verdadero deseo que tiene mi alma,
 tras la eterna salvación y satisfacción de la tuya.
 
+[.signed-section-signature]
 I+++.+++ P.
+
+[.signed-section-context-close]
 Día 28, del mes 1, de 1670
 
-=== A la Viuda Hemmings
+[.letter-heading]
+A la Viuda Hemmings
 
+[.salutation]
 Mi querida amiga,
 
 A quien verdaderamente amo, y cuya prosperidad en la verdad deseo sinceramente.
@@ -1995,13 +2127,19 @@ abra tu corazón y te haga crecer en unión y experiencia con Su verdad,
 para que al crecer en la verdad llegues a entenderla
 cada vez más y a estar familiarizada con ella.
 
-Soy tu amigo no fingido en la verdad que es pura.
+[.signed-section-closing]
+Soy tu amigo no fingido en la verdad que es pura,
 
+[.signed-section-signature]
 I+++.+++ P.
+
+[.signed-section-context-close]
 Cárcel de Reading, día 3, del mes 6, de 1670
 
-=== A un Destinatario Desconocido
+[.letter-heading]
+A un Destinatario Desconocido
 
+[.salutation]
 Amigo,
 
 El Señor Dios del cielo y de la tierra, que examina el corazón y prueba los pensamientos,
@@ -2071,16 +2209,21 @@ abrían las Escrituras y las cosas de Dios y calentaban sus corazones en alguna 
 tal como es conocido en la luz del Señor y por el Espíritu del Señor!
 Que el Señor abra el verdadero ojo en ellos y les dé ver con dicho ojo.
 
+[.signed-section-signature]
 I+++.+++ P.
+
+[.signed-section-context-close]
 La cárcel de Reading, día 19, del mes 7, de 1670
 
-=== A Nathaniel Stonar
+[.letter-heading]
+A Nathaniel Stonar
 
+[.salutation]
 Querido amigo,
 
 Hay una gran disputa entre nosotros y los profesantes acerca de la regla,^
 footnote:[Como se mencionó anteriormente,
-la palabra regla se usa para referirse a aquello que gobierna,
+la palabra __regla__ se usa para referirse a aquello que gobierna,
 rige o tiene verdadera autoridad en la vida del creyente.]
 la cual dicen ellos, son las Escrituras.
 Ahora bien,
@@ -2152,11 +2295,16 @@ Este es mi deseo por ti,
 que soy un verdadero y sincero amigo de tu alma y
 que de ninguna manera desea que seas engañado.
 
+[.signed-section-signature]
 I+++.+++ P.
+
+[.signed-section-context-close]
 La cárcel de Reading, día 24, del mes 7, de 1670
 
-=== A la Viuda Hemmings
+[.letter-heading]
+A la Viuda Hemmings
 
+[.salutation]
 Querida amiga,
 
 Desde la última vez que te vi,
@@ -2331,11 +2479,16 @@ que nadie conoce sino los que son enseñados por Dios.
 Te escribo en la verdadera amistad y tierno amor hacia tu alma,
 de su amigo en verdad y sinceridad,
 
+[.signed-section-signature]
 I+++.+++ P.
+
+[.signed-section-context-close]
 Día 26, del mes 8, de 1670
 
-=== A un Destinatario Desconocido
+[.letter-heading]
+A un Destinatario Desconocido
 
+[.salutation]
 Amigo,
 
 Los profesantes del cristianismo conocen desde hace mucho tiempo
@@ -2426,11 +2579,16 @@ y poder interiormente revelados y manifestados.
 Esto lo escribo en la desnudez de mi corazón,
 como a la vista del Señor y en la verdad de la amistad hacia ti.
 
+[.signed-section-signature]
 I+++.+++ P.
+
+[.signed-section-context-close]
 Día 27, del mes 9, de 1670
 
-=== Para la Viuda Hemmings
+[.letter-heading]
+Para la Viuda Hemmings
 
+[.salutation]
 Amiga,
 
 En la medida que uno llega a alguna experiencia o
@@ -2556,11 +2714,16 @@ a un fin de su propia voluntad y de su propio correr!
 y así guíe y ordene tu corazón para que puedas respirar y clamar en pos de Él,
 y ser escuchada y satisfecha por Él!
 
+[.signed-section-signature]
 I+++.+++ P.
+
+[.signed-section-context-close]
 Día 28, del mes 9, de 1670
 
-=== A Elizabeth Stonar
+[.letter-heading]
+A Elizabeth Stonar
 
+[.salutation]
 Querida amiga,
 
 Soy consciente de que el Señor te ha visitado con Su poder,
@@ -2606,13 +2769,19 @@ Porque la verdad nunca perderá terreno al ser juzgada,
 pero las tinieblas tienen miedo de la luz,
 porque tienen una consciencia secreta de que no puede permanecer delante de ella.
 
+[.signed-section-closing]
 De tu verdadero y sincero amigo de tu alma,
 
+[.signed-section-signature]
 I+++.+++ P.
+
+[.signed-section-context-close]
 Día 16, del mes 12, de 1670
 
-=== A un Destinatario Desconocido
+[.letter-heading]
+A un Destinatario Desconocido
 
+[.salutation]
 Amigo,
 
 El enemigo enciende una gran angustia en la mente al despertar
@@ -2652,10 +2821,13 @@ Cuando usted llegue a esto, llegará a su descanso, y mientras permanezca ahí,
 permanecerá en el verdadero descanso de su alma y aprenderá
 la preciosa lección de estar contento en cada estado.
 
+[.signed-section-signature]
 I+++.+++ P.
 
-=== A un Destinatario Desconocido
+[.letter-heading]
+A un Destinatario Desconocido
 
+[.salutation]
 Amigo,
 
 ¿Qué es Pablo?
@@ -2686,10 +2858,13 @@ y se mantiene fiel a la Semilla, nunca estará en peligro de dejarnos.
 Pero los que se apartan de la Semilla en sus propios
 corazones se apartarán de nosotros pronto y fácilmente.
 
+[.signed-section-signature]
 I+++.+++ P.
 
-=== A un Destinatario Desconocido
+[.letter-heading]
+A un Destinatario Desconocido
 
+[.salutation]
 Amigo,
 
 Escuche una palabra de consejo que tengo en mi corazón para usted,
@@ -2742,10 +2917,13 @@ La "`vida eterna,`" el Espíritu, el poder, la fuente de aguas vivas,
 el pozo eterno y puro, están por encima de las palabras concerniente a ello.
 El creyente debe experimentar esto en sí mismo, y de esto, él sacará agua con gozo.
 
-I+++.+++ P
+[.signed-section-signature]
+I+++.+++ P.
 
-=== Para el Amigo de Francis Fines
+[.letter-heading]
+Para el Amigo de Francis Fines
 
+[.salutation]
 Amigo,
 
 Después de un profundo ejercicio de espíritu con respecto a usted,
@@ -2789,10 +2967,13 @@ y la gloria habita en la tierra que Él ha redimido.
 Ahí la misericordia y la verdad se encuentran, y la justicia y la paz se besan.
 Sí, ahí la verdad brota de la tierra y la justicia mira desde el cielo.
 
+[.signed-section-signature]
 I+++.+++ P.
 
-=== A la Señora Conway
+[.letter-heading]
+A la Señora Conway
 
+[.salutation]
 Querida amiga,
 
 Mientras recientemente estaba retirado en espíritu y esperando en el Señor,
@@ -2870,10 +3051,13 @@ abrazar y a vestirse de la novedad de Su vida y de la santidad y justicia de ell
 
 El Señor Dios de mi vida esté con usted preservando y ordenando su corazón.
 
+[.signed-section-signature]
 I+++.+++ P.
 
-=== A un Destinatario Desconocido
+[.letter-heading]
+A un Destinatario Desconocido
 
+[.salutation]
 Amigo,
 
 Es por la infinita misericordia y compasión del Señor
@@ -2921,10 +3105,13 @@ no sea que se fortalezca y lo aleje de la vida.
 Lo que sigue es en amor para usted: Retírese de esa parte que mira hacia afuera,
 y sienta la virtud interior de eso que puede restaurarlo y conservarlo.
 
+[.signed-section-signature]
 I+++.+++ P.
 
-=== A la Viuda Hemmings
+[.letter-heading]
+A la Viuda Hemmings
 
+[.salutation]
 Mi querida amiga,
 
 A quien siempre he amado verdadera y fielmente delante de los ojos del Señor,
@@ -2964,12 +3151,16 @@ en tu corazón y afirmando tu mente en Él.
 Porque esto da victoria sobre el enemigo y sobre
 todas sus misteriosas operaciones en el corazón.
 
+[.signed-section-closing]
 Tu amigo, en el más verdadero y sincero amor,
 
+[.signed-section-signature]
 I+++.+++ P.
 
-=== Para Catherine Pordage
+[.letter-heading]
+Para Catherine Pordage
 
+[.salutation]
 Amiga,
 
 En la verdad del corazón y amor tierno hacia usted,
@@ -3012,6 +3203,11 @@ De esta manera su alma será eternamente salvada por el Médico eterno,
 quien es sabio y hábil en ministrar tanto juicio
 como misericordia a todos de acuerdo a su necesidad.
 
+[.signed-section-closing]
 Su amigo verdadero, fiel y sincero en amor y ternura,
 
-I+++.+++ PDía 25, del mes 1, de 1671
+[.signed-section-signature]
+I+++.+++ P.
+
+[.signed-section-context-close]
+Día 25, del mes 1, de 1671

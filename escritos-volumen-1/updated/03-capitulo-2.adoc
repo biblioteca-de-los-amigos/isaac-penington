@@ -1,3 +1,4 @@
+[#el-camino, short="El Camino de la Vida y de la Muerte"]
 == Capítulo II. El Camino de la Vida y de la Muerte Hecho Manifiesto y Puesto Delante de los Hombres
 
 === Prefacio
@@ -26,7 +27,7 @@ reino será cerrada sobre ustedes y no podrán entrar.
 En términos sencillos, sepárense de toda su religión,
 la que ustedes han obtenido en su propia sabiduría, la que ha crecido en la apostasía,^
 footnote:[Penington y muchos de sus contemporáneos,
-usan la palabra '`apostasía`' para referirse a la condición de la iglesia cristiana,
+usan la palabra __'`apostasía`'__ para referirse a la condición de la iglesia cristiana,
 que comenzó poco después de los primeros apóstoles, hasta la época de estos escritos.
 En sus mentes, la forma predominantemente muerta,
 externa y centrada en el hombre de la religión cristiana,
@@ -87,10 +88,12 @@ Feliz aquel que lo pierda todo para ganar esto,
 pero el que conserve lo que tiene por mucho tiempo, al final lo perderá todo.
 Por tanto,
 no sean más sabios a los ojos de la carne o de acuerdo a lo que el hombre llama sabiduría,
-sino sean verdaderamente sabios.
+sino sean _verdaderamente_ sabios.
 
-ALGUNAS POSICIONES Con Respecto a la Apostasía del Espíritu y de la Vida Cristiana
+[.old-style.bold]
+=== ALGUNAS POSICIONES / Con Respecto a la Apostasía del Espíritu y de la Vida Cristiana
 
+[.alt]
 ==== Posición I
 
 Ha habido una gran apostasía^
@@ -337,6 +340,7 @@ Así, esa enemistad contra Dios bajo la apariencia de amor y celo por Él,
 ha reinado en términos generales en los corazones de los hombres
 desde los tiempos de los apóstoles hasta este día presente.
 
+[.alt]
 ==== Posición II
 
 En esta gran apostasía el verdadero estado del cristianismo se ha perdido.
@@ -348,14 +352,18 @@ en que el estado del cristianismo se perdió,
 pero sería demasiado extenso y tedioso.
 Por lo tanto, puede que baste exponer unos pocos ejemplos importantes.
 
-1+++.+++ La verdadera regla del cristianismo se perdió. La regla que dirige,
+=== 1. La verdadera regla del cristianismo se perdió.
+
+La regla que dirige,
 guía y ordena al cristiano en toda su marcha fue apostatada y perdida.
 
+[.discourse-part]
 Pregunta: ¿Cuál es la regla^
-footnote:[La palabra regla se usa para referirse a eso que gobierna,
+footnote:[La palabra __regla__ se usa para referirse a eso que gobierna,
 rige o tiene verdadera autoridad en la vida del creyente.]
 por la que el cristiano tiene que dirigir y ordenar su curso?
 
+[.discourse-part]
 Respuesta: Ser cristiano es ser seguidor de Cristo, en consecuencia,
 se debe tener la misma regla para caminar que tuvo Cristo.
 El cristiano proviene de Cristo y tiene la misma vida en él,
@@ -469,8 +477,10 @@ Ahí vive y tiene comunión con el Padre y con el Hijo, en la luz en la que Ello
 y no mediante ninguna regla externa.
 (1 Juan 1:6-7)
 
+[.discourse-part]
 Pregunta: Pero ¿cuál es la regla ahora en la apostasía?
 
+[.discourse-part]
 Respuesta:
 Entre los católicos la regla son las Escrituras interpretadas
 por la iglesia (como ellos se llaman a sí mismos),
@@ -485,11 +495,13 @@ porque el que se pierde en el principio,
 el que comienza su religión sin la verdadera regla,
 ¿cómo podrá seguir correctamente después?
 
+[.discourse-part]
 Objeción: ¿Pero no son las Escrituras la palabra de Dios?
 ¿No debe ser la palabra de Dios la regla de un cristiano?
 Si todo el mundo fuera dejado en su propio espíritu,
 ¡cuánta confusión e incertidumbre produciría esto!
 
+[.discourse-part]
 Respuesta: Las Escrituras no son la Palabra viva,
 no son la señalada por Dios para ser la regla de un cristiano,
 pero contienen palabras habladas por el Espíritu de Dios
@@ -784,8 +796,10 @@ Ahora esto es la verdad, la vida,
 el día de reposo y la adoración del alma que es guiada
 en la verdad y preservada en la verdad.
 
+[.discourse-part]
 Pregunta: Pero ¿cómo es la adoración ahora en la apostasía?
 
+[.discourse-part]
 Respuesta: Entre los católicos es una adoración muy desagradable;
 una adoración más carnal que lo que alguna vez fue
 la adoración de la ley del antiguo pacto.
@@ -829,7 +843,7 @@ modas, costumbres o adoración del mundo?
 ¡En efecto, están tan lejos de vencer que son vencidos por todo eso!
 
 La fe de estos cristianos (así llamados) no es un misterio^
-footnote:[Penington usa la palabra misterio para referirse a las
+footnote:[Penington usa la palabra __misterio__ para referirse a las
 cosas que no pueden conocerse por medio de facultades naturales,
 sino que deben ser reveladas por el Espíritu de Dios.]
 (ellos no conocen el misterio de la fe, el cual es guardado en una consciencia pura),
@@ -885,7 +899,7 @@ y lo llevaron vivo con ellos a Nueva Inglaterra.
 Sí,
 los mismos maestros (que deberían ser modelos de amor para los
 demás) echan en la cárcel y toman los bienes de sus hermanos.
-Vean el "`Record of Sufferings for Tithes in England`"
+Vean el __"`Record of Sufferings for Tithes in England`"__
 (Registro de Sufrimientos por Diezmos en Inglaterra),
 que puede hacer que un corazón tierno sangre al leerlo,
 y que se situará como una señal de infamia en la magistratura
@@ -901,7 +915,7 @@ Estos no han visto al Padre ni al Hijo.
 "`Por esto conocerán todos que sois mis discípulos, si se aman los unos a los otros.`"
 Y por esto podrán conocer todos los hombres,
 que los que ahora pasan por cristianos no son discípulos de Cristo,
-y que no se aman unos a otros.
+porque _no_ se aman unos a otros.
 No están en la unidad de la luz y por eso no pueden amarse unos a otros.
 Su unidad consiste sólo en formas externas, en opiniones, confesiones, prácticas,
 por lo tanto,
@@ -1136,6 +1150,7 @@ se ha hecho pasar como el verdadero llamado al ministerio de Dios.
 Por lo tanto, el ministerio es también una invención del hombre, hecho por el hombre,
 que no procede del Espíritu ni es capaz de ministrar de espíritu a espíritu.
 
+[.discourse-part]
 Objeción: Pero, ¿no ha habido verdadera religión desde los días de los apóstoles?
 ¿Ni verdadera regla, verdadera adoración, verdadera fe, verdadero amor,
 verdadera esperanza, gozo o paz?
@@ -1147,6 +1162,7 @@ justicia, santificación ni redención? ¿Ni verdadera iglesia, ni verdadero min
 ¿No son ustedes mismos convertidos por él? De hecho,
 ¿no han sido muchos de ellos martirizados y testigos de la verdad?
 
+[.discourse-part]
 Respuesta: La adoración, la fe, el amor, la esperanza, el gozo, la paz,
 el arrepentimiento, la conversión, la regeneración, etc.,
 que han sido declaradas en las naciones como la verdad,

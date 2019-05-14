@@ -1,9 +1,10 @@
 == Capítulo I. Biografía de Isaac Penington
 
-Lo siguiente es un testimonio de Thomas Ellwood con respecto a Isaac Penington,
-que contiene dos relatos autobiográficos tomados de los propios escritos de Penington.
+[.blurb]
+=== Lo siguiente es un testimonio de Thomas Ellwood con respecto a Isaac Penington, que contiene dos relatos autobiográficos tomados de los propios escritos de Penington.
 
-* * *
+[.asterism]
+'''
 
 Yo +++[+++Thomas Ellwood]
 no ignoro que muchos testimonios vivos y de peso ya han sido dados
@@ -167,9 +168,13 @@ Una vez pensé en recogerlos y presentarlos,
 pero al encontrar entre sus papeles sueltos un resumen
 escrito por su propia mano más de doce años atrás,
 cuando estaba en cautiverio por amor a Cristo y enfermo cerca de la muerte,
-escogí transcribirlo aquí.`"
+escogí transcribirlo aquí.
 
+[.offset]
 El primer relato que Isaac Penington da de sus aflicciones espirituales es como sigue:
+
+[.embedded-content-document.testimony]
+--
 
 "`Este es un breve relato verdadero y fiel acerca de mí mismo,
 en referencia a mis aflicciones espirituales y a los tratos del Señor conmigo.
@@ -290,11 +295,11 @@ y no sólo sentí palabras y demostraciones afuera,
 sino también que lo que estaba muerto cobraba vida
 y que la Semilla se levantaba de manera tal,
 que mi corazón (en la certeza de la luz y en la claridad de su verdadero sentido) dijo:
-'`¡Este es Él,
+__'`¡Este es Él,
 no hay otro! ¡Este es a quien he esperado y buscado desde mi infancia!
 ¡Aquel que ha estado cerca de mí siempre y que a menudo ha engendrado
 vida en mi corazón! ¡A quien no conocía claramente,
-ni cómo recibirlo o morar con Él!`' Y entonces,
+ni cómo recibirlo o morar con Él!`'__ Y entonces,
 en esta consciencia (en el ardor y quebrantamiento de mi espíritu),
 me rendí al Señor para ser Suyo,
 tanto a la espera de una mayor revelación de Su Semilla en mí,
@@ -372,14 +377,22 @@ sino porque esta mañana sentí que se me requería,
 y en sumisión y sujeción a mi Dios me entregué a la tarea,
 dejándole el éxito y servicio de esto a Él.`"
 
+[.signed-section-signature]
 Isaac Penington
 
+[.signed-section-context-close]
 La Cárcel de Aylesbury, 15 del mes tercero, 1667
 
+--
+
+[.offset]
 Otro relato del viaje espiritual de Penington, el cual él titula,
-"`A Brief Account of My Soul`'s Travel Towards the Holy Land`"
+__"`A Brief Account of My Soul`'s Travel Towards the Holy Land`"__
 (Una Breve Reseña del Viaje de Mi Alma Hacia la Tierra Santa),
 ha sido preservado y es como sigue:
+
+[.embedded-content-document.testimony]
+--
 
 "`Desde mi infancia mi corazón estuvo dirigido hacia el Señor,
 por quien me interesé y a quien busqué desde tierna edad.
@@ -517,10 +530,10 @@ oprimido y humillado en espíritu.
 sobrias y sensatas estarán listas para preguntar,
 cómo llegué finalmente a conocer satisfactoriamente al Señor;
 o si yo Lo conozco sin ninguna duda y si estoy verdaderamente satisfecho.
-"`Sí,
+__Sí,
 efectivamente estoy satisfecho en mi corazón. Mi
 corazón está verdaderamente unido Al que anhelaba,
-en un pacto eterno de vida pura y paz.
+en un pacto eterno de vida pura y paz.__
 
 "`¿Cómo llegué a eso?
 El Señor abrió mi espíritu.
@@ -528,10 +541,10 @@ El Señor me dio la experiencia segura y perceptible de la Semilla pura,
 la cual había estado conmigo desde el principio.
 El Señor hizo que Su santo poder cayera sobre mí y me diera tal
 demostración y experiencia interior de la Semilla de vida,
-que grité en mi espíritu: '`¡Este es Él! ¡Este es Él! ¡No hay otro,
+que grité en mi espíritu: __'`¡Este es Él! ¡Este es Él! ¡No hay otro,
 nunca lo hubo! ¡Siempre estuvo cerca de mí aunque yo no lo conocía (no tan palpable
 ni tan claramente como ha sido revelado ahora en mí y para mí por el Padre)! ¡Oh,
-que ahora yo pueda estar unido a Él y que sólo Él viva en mí!`' Y así,
+que ahora yo pueda estar unido a Él y que sólo Él viva en mí!`'__ Y así,
 en la voluntad que Dios había obrado en mí (el día
 de Su poder sobre mi alma) me rendí para ser instruido,
 ejercitado y conducido por Él, y para que en la espera y experiencia de Su santa Semilla,
@@ -633,9 +646,13 @@ deseamos que en el debido tiempo del Señor reciban lo que
 responde al deseo de la mente y del alma despierta,
 y las satisface con la verdadera y preciosa sustancia para siempre.`"
 
+[.signed-section-signature]
 Isaac Penington
 
+[.signed-section-context-close]
 Impreso en 1668
+
+--
 
 A Isaac Penington no sólo se le dio creer, sino también sufrir en el nombre de Cristo.
 Sus encarcelamientos fueron muchos, y muchos de ellos prolongados,
@@ -709,7 +726,7 @@ Allí, sin ninguna causa demostrada o delito comprobado,
 lo mantuvieron preso un año y medio en cárceles tan frías,
 húmedas e insalubres que estuvo cerca de que le costara la vida,
 lo que le procuró tal enfermedad que yació débil por varios meses.
-Al fin un conocido de su esposa mediante un habeas corpus,
+Al fin un conocido de su esposa mediante un _habeas corpus_,
 lo llevó a la corte del King`'s-Bench,
 en la que (con el asombro del tribunal de que un hombre estuviera largamente
 prisionero por nada) finalmente fue liberado en el año 1668.

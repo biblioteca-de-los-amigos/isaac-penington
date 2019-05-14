@@ -1,4 +1,4 @@
-== Capítulo IV. El Hacha Está Puesta a la Raíz Del Antiguo Árbol Corrupto
+== Capítulo IV. El Hacha Está Puesta a la Raíz / del Antiguo Árbol Corrupto
 
 === Prefacio
 
@@ -79,7 +79,7 @@ Los Protestantes se oponen a los No-conformistas, Separatistas y Brownistas,
 quienes son testigos en su contra.
 Y cada secta se opone mayormente contra aquellos que son llevados más lejos de las tinieblas.
 La forma^
-footnote:[Penington a menudo usa la palabra forma para hablar de alguna expresión,
+footnote:[Penington a menudo usa la palabra __forma__ para hablar de alguna expresión,
 ceremonia, estructura o sistema físico o externo usado en la religión.]
 siempre mata la vida,
 la vida que se mueve por debajo y que una vez apareció con alguna frescura.
@@ -173,11 +173,12 @@ y de regreso a lo que estaba antes del principio.
 Por tanto, observe y considere bien qué puede hacer esta fe que es del yo del hombre,
 cuán lejos puede llegar en el cambio del hombre y producir
 una conformación a la letra externa de las Escrituras.
-Luego considere dónde queda afuera, qué no puede hacer, qué cambio no puede realizar,
+Luego considere dónde queda afuera, qué _no puede_ hacer, qué cambio no puede realizar,
 a qué no lo puede conformar.
 Para que así la verdadera diferencia pueda ser establecida en su mente y no se
 ponga un fundamento para tan grande error en un asunto de tan grande importancia.
 
+[.numbered]
 1+++.+++ Un hombre puede creer la historia de las Escrituras, sí,
 y todas las doctrinas de ellas hasta donde pueda abarcarlas con su entendimiento,
 con la fe que es del hombre.
@@ -186,6 +187,7 @@ del camino de la vida, etc.,
 la fe del hombre puede creer el relato de estas cosas
 tanto como puede creer el relato de otras cosas.
 
+[.numbered]
 2+++.+++ Habiendo creído el relato de la historia de estas cosas,
 esta fe de manera natural pone todos los poderes
 del hombre a trabajar (enciende el entendimiento,
@@ -213,6 +215,7 @@ mediante una fe natural crece y se extiende como
 un gran árbol y está muy confiado y complacido,
 sin percibir el engaño en su raíz y a lo que todo este crecimiento lo va a llevar.
 
+[.numbered]
 3+++.+++ Habiendo hecho esto con la mayor seriedad y energía,
 habrá necesariamente un gran cambio en el hombre.
 Su entendimiento estará cada vez más iluminado,
@@ -224,6 +227,7 @@ Dejen que el corazón del hombre esté en algún tipo de estudio o de conocimien
 aplicándose estrictamente a ello,
 reuniendo entendimiento en su mente y calidez en sus afectos, y sucederá lo mismo.
 
+[.numbered]
 4+++.+++ Ahora bien,
 ¡cuán fácil es para un hombre equivocarse aquí y decir que eso es la verdad!
 Primero confunde eso con la verdadera fe,
@@ -246,7 +250,7 @@ No obstante,
 el crecimiento de esta fe y la propagación de la misma en todo su conocimiento,
 celo y devoción no ha cambiado la naturaleza de aquello en todo este tiempo.
 Permanece siendo la misma que era al principio, es decir,
-sigue siendo el poder de la naturaleza del primer nacimiento.
+_sigue siendo el poder de la naturaleza del primer nacimiento._
 Todos estos frutos no son más que los frutos de la primera naturaleza,
 la cual continúa viva por debajo de todo.
 Nada de lo que se encuentra en esta falsa fe puede matar la semilla de la que crece,
@@ -292,9 +296,11 @@ de la esclava y será echada con su madre para que busque pan en otro lugar,
 pues la simiente de la esclava no comparte la herencia de Isaac,
 la semilla de la promesa.
 
+[.discourse-part]
 Pregunta: ¿Qué es entonces esta fe que es don de Dios?
 ¿En qué es distinta de la fe que es del hombre?
 
+[.discourse-part]
 Respuesta:
 Es ese poder de creer que brota de la Semilla de vida eterna y leuda el corazón,
 no con conceptos de conocimiento, sino con el poder de la vida.
@@ -349,8 +355,10 @@ la única que es capaz de recibir y retener el vino nuevo del reino.
 Porque la otra vasija, al igual que los fariseos,
 sólo puede recibir palabras acerca del reino escritas en el arcaísmo de la letra.
 
+[.centered]
 === Algunas Afirmaciones con Respecto a la Fe, su Naturaleza, su Crecimiento y su Recibimiento de Cristo.
 
+[.alt]
 ==== Afirmación I
 
 Que la verdadera fe (la fe del evangelio, la fe del elegido,
@@ -368,6 +376,7 @@ creer y aplicar las promesas,
 o creer que Cristo murió por los pecadores en general o por mí en particular;
 todo eso puede ser hecho mediante la naturaleza incrédula (como se vio en los judíos).
 
+[.alt]
 ==== Afirmación II
 
 Que la verdadera fe brota del verdadero conocimiento de la naturaleza de Dios en Cristo.
@@ -381,6 +390,7 @@ puede probar sus argumentos contra todo el mundo,
 y aún así no ha recibido el verdadero conocimiento de esas cosas,
 toda su aparente fe en ellas no puede ser verdadera.
 
+[.alt]
 ==== Afirmación III
 
 Que sólo se puede tener verdadero conocimiento por
@@ -432,6 +442,7 @@ sino que siguen pegados a la letra del evangelio (como los
 judíos estaban pegados a la letra de la ley),
 tropiezan en la presente dispensación de vida y no pueden hacer otra cosa.
 
+[.alt]
 ==== Afirmación IV
 
 Que la revelación directa de Cristo de la naturaleza
@@ -464,6 +475,7 @@ Todo el conocimiento que los hombres han reunido de las Escrituras en esa parte 
 de nada les aprovechará, sólo para estorbarlos.
 Cada edificación que la lepra del pecado ha cubierto debe ser derribada.
 
+[.alt]
 ==== Afirmación V
 
 Que esta fe (la que brota del verdadero conocimiento) es don de Dios,
@@ -486,6 +498,7 @@ para que así el don de la verdadera fe pueda ser recibido.
 Pues no hay resurrección y vida de lo segundo,
 sin la muerte de lo primero con todas sus facultades y poderes naturales.
 
+[.alt]
 ==== Afirmación VI
 
 Que sólo por esta fe que es don de arriba (no la fe que crece en
@@ -511,7 +524,7 @@ en la fuente verdadera de su propia naturaleza inmortal.
 Pero la fe del hombre nunca llega a esto, nunca recibe a Cristo,
 sólo recibe una descripción de las cosas concernientes a Él,
 y a esta fe que se afirma en la letra^
-footnote:[Siempre que Penington habla de "`la letra,`" hace referencia
+footnote:[Siempre que Penington habla de __la letra,__ hace referencia
 a las palabras literales de las Escrituras que testifican (y que
 sólo pueden testificar) de la verdadera sustancia espiritual.
 Ver Romanos 2:29; 7:6; 2 Corintios 3:6.]
@@ -530,6 +543,7 @@ aloje en su corazón. Ese es el anticristo donde quiera que se encuentre,
 y esa es su fe; grande es su conocimiento y muchos sus disfraces.
 Sin embargo, el Señor lo está buscando, Él lo desvestirá y hará aparecer su desnudez.
 
+[.alt]
 ==== Afirmación VII
 
 Que Cristo es recibido como un grano de mostaza y que todos los ojos,
@@ -561,7 +575,7 @@ donde diariamente llama a la puerta para entrar.
 No estarían contentos hasta que esta semilla de mostaza
 creciera y se hiciera un árbol grande y glorioso.
 Pero a falta de dicho ojo Lo mantienen fuera y dejan entrar al asesino pintado,^
-footnote:[Penington y sus contemporáneos con frecuencia usan la palabra pintar o pintado,
+footnote:[Penington y sus contemporáneos con frecuencia usan la palabra __pintar__ o __pintado,__
 para referirse a la cubierta falsa o al embellecimiento
 exterior de algo que es corrupto y carnal debajo.]
 el que habita en ellos y se cubre con conocimiento, celo, fe, esperanza, etc.,
@@ -594,6 +608,7 @@ porque lo siguiente es infaliblemente cierto:
 Los que nunca han recibido la Semilla de vida en sus corazones,
 nunca han recibido a Cristo.
 
+[.alt]
 ==== Afirmación VIII
 
 Que esta Semilla al ser recibida en el interior crece en su propia forma.
@@ -605,7 +620,7 @@ así es con la Semilla de Cristo en Su tierra.
 
 Ahora bien, esta nueva criatura (o el Espíritu de vida en esta criatura,
 el cual está en unión con ella), es la regla del cristiano.^
-footnote:[La palabra regla es usada para referirse a lo que gobierna,
+footnote:[La palabra __regla__ es usada para referirse a lo que gobierna,
 rige o tiene autoridad en la vida del creyente.]
 (Gal.
 6:15-16; 1 Juan 2:27; Heb.
@@ -622,6 +637,7 @@ por tanto, no es cristiano, sino que ha robado el nombre de cristiano de la letr
 pues no ha recibido nunca la naturaleza del Espíritu,
 la única a la que le pertenece el nombre.
 
+[.alt]
 ==== Afirmación IX
 
 El que tiene a Cristo o la Semilla de vida eterna formada en él,
@@ -638,6 +654,7 @@ ninguna de las cuales puede abrir.
 Él no tiene la llave del verdadero conocimiento, por tanto, queda fuera de él,
 y sólo puede entrar al tipo de entendimiento que la llave equivocada puede abrir.
 
+[.alt]
 ==== Afirmación X
 
 El que ha recibido el nuevo pacto en su corazón,
@@ -708,11 +725,14 @@ en la parte de la que mana la vida.
 
 Oigan y consideren esto que está registrado en Apocalipsis 22:18-19:
 
+[quote.scripture]
+____
 "`Si alguno añadiere a estas cosas,
 Dios traerá sobre él las plagas que están escritas en este libro.
 Y si alguno quitare de las palabras del libro de esta profecía,
 Dios quitará su parte del libro de la vida,
 y de la santa ciudad y de las cosas que están escritas en este libro.`"
+____
 
 Grandes son las plagas escritas en este libro,
 incluido el derramamiento de la ira pura y eterna,
@@ -725,7 +745,7 @@ enfrentar todas las plagas mencionadas aquí y perder todas las bienaventuranzas
 El Señor dice que esto es lo que le acontecerá al que añada a las cosas
 escritas ahí o quite de las palabras de esa profecía. Por lo tanto,
 en el temor de aquel que ha dicho esto (y que con seguridad hará cumplir su promesa),
-que todos escudriñen y consideren quién es el añadidor y quien es el quitador.
+que todos escudriñen y consideren _quién es el añadidor y quien es el quitador._
 
 Consideren ahora,
 ¿no es cierto que el que le da otro significado a cualquier escritura
@@ -769,11 +789,13 @@ mismo es quien todo el tiempo ha estado en el error,
 en la herejía y contra la verdad,
 siendo un extraño para el Espíritu en cuya presencia y vida la verdad crece.
 
+[.discourse-part]
 Pregunta: Pero,
 ¿cómo podemos evitar añadirle a las cosas o quitar de las palabras de la profecía,
 o de otras escrituras, para no toparnos con el peso de esta maldición,
 o perder la bendición?
 
+[.discourse-part]
 Respuesta: 1. Esperen la llave del conocimiento, la cual es don gratuito de Dios.
 No vayan con una llave falsa a las Escrituras de Verdad,
 porque ella no las abrirá. El hombre se apresura a conocer el significado
@@ -800,6 +822,7 @@ que está obrando actualmente en el corazón.]
 (en el silencio de la parte que está adelante y corriendo
 al frente) hasta que la llave sea dada!
 
+[.numbered]
 2+++.+++ No corran en su propio entendimiento, ni en su propia voluntad,
 buscando el significado de las Escrituras,
 porque de esta manera ustedes alimentan con las Escrituras
@@ -809,6 +832,7 @@ esperen continuamente la aparición y el movimiento del Usuario de la llave,
 y Él cerrará sus entendimientos y sus voluntades constantemente,
 y los dejará entrar a la vida tanto de las profecías como de las doctrinas.
 
+[.numbered]
 3+++.+++ No injerten ningún fruto del árbol de la vida en el árbol del conocimiento,
 porque no crecerá ahí. Puede que crezca una apariencia o semejanza del verdadero fruto,
 pero el fruto mismo no lo hará. En otras palabras,
@@ -819,6 +843,7 @@ No reserven maná para alimentarse de él en el viejo almacén,
 (no sea que la parte carnal corra allí cuando el apetito carnal se despierte tras comida),
 antes bien reciban todos los días el pan de la mano de la vida.
 
+[.numbered]
 4+++.+++ Hay un conocimiento de las cosas por el Espíritu
 que revela las palabras que hablan de ellas,
 o por profecías interiores y directas que provienen de la Palabra de vida en el corazón.
@@ -835,6 +860,7 @@ entonces, tendrán el conocimiento que proviene de la naturaleza de la cosa mism
 Este es más profundo e interior que todo el conocimiento
 que pueda tenerse de las palabras referentes a la cosa.
 
+[.numbered]
 5+++.+++ Cuando sientan esas cosas,
 busquen la preservación de las mismas en la fuente de vida de ellas.
 Dejen que la raíz los sostenga y sostenga todo el conocimiento que tienen,
@@ -877,10 +903,12 @@ sujetos a ser sacudidos por cualquier viento de la
 razón que sea más fuerte que el de ellos.
 Tal uso torcido de las Escrituras es para su propia destrucción.
 
+[.discourse-part]
 Pregunta:
 ¿No es la oración un medio por el que uno puede evitar
 lo falso y tomar posesión de lo verdadero?
 
+[.discourse-part]
 Respuesta: Cierto; hay una oración que es un medio, y hay una oración que no es un medio.
 Hay una oración que es una ordenanza, y hay una oración que es un invento.
 Hay una oración que es el aliento del verdadero Hijo,

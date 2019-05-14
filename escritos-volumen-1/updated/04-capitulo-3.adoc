@@ -1,6 +1,8 @@
-== Capítulo III. Algunos Principios que Guían Hacia Afuera de la Apostasíay que Introducen en el Verdadero Espíritu y Vida Cristiana
+[#ch3, short="Algunos Principios que Guían Hacia Afuera de la Apostasía"]
+== Capítulo III. Algunos Principios que Guían Hacia Afuera de la Apostasía y que Introducen en el Verdadero Espíritu y Vida Cristiana
 
-=== 1. No hay salvación salvo por el verdadero conocimiento de Cristo.
+[.numbered]
+__1. No hay salvación salvo por el verdadero conocimiento de Cristo.__
 
 El conocimiento de Cristo no es literal, tradicional o carnal,
 ni puede ser recibido por el entendimiento natural;
@@ -18,7 +20,10 @@ Un hombre debe conocer a Cristo en el Espíritu, la vida y el poder en el que É
 si realmente espera ser salvado por Él. (2 Cor.
 5:16-17)
 
-=== 2. Cristo salva mediante el nuevo pacto; no por medio de algo adquirido por la mente en el arcaísmo de la letra, sino mediante la vida nueva que es engendrada.
+[.numbered]
+__2. Cristo salva mediante el nuevo pacto;
+no por medio de algo adquirido por la mente en el arcaísmo de la letra,
+sino mediante la vida nueva que es engendrada.__
 
 Hay dos pactos de los que se hacen mención en las Escrituras,
 uno es llamado antiguo y el otro nuevo.
@@ -31,7 +36,8 @@ pero el hombre que queda en estado de separación y alejamiento de Dios perece.
 Por lo tanto, el que no es dirigido por Cristo a dicho pacto,
 no está en estado de salvación.
 
-=== 3. El nuevo pacto es escrito en el corazón.
+[.numbered]
+__3. El nuevo pacto es escrito en el corazón.__
 
 La única forma de entrar en el nuevo pacto,
 del cual Cristo es el Sumo Sacerdote y Mediador,
@@ -64,7 +70,9 @@ Noten:
 Incluso el más pequeño en este pacto tiene la ley tan escrita en
 su corazón que no necesita buscar conocimiento en ningún otro lugar.
 
-=== 4. Solo el Espíritu de Dios puede escribir el pacto en el corazón, o solo Cristo escribe el pacto por medio de su Espíritu.
+[.numbered]
+__4. Solo el Espíritu de Dios puede escribir el pacto en el corazón,
+o solo Cristo escribe el pacto por medio de su Espíritu.__
 
 El hombre con toda su sabiduría no puede lograr esto;
 fue expulsado de Dios y no puede encontrar el camino de regreso
@@ -87,7 +95,8 @@ con Él. "`Y pondré dentro de ustedes mi Espíritu.`"
 36:27) Esto es parte del pacto; es más,
 es la parte a través de la cual se realiza todo el resto.
 
-=== 5. Por lo tanto, el primer paso correcto en la religión es conocer al Espíritu de Dios.
+[.numbered]
+__5. Por lo tanto, el primer paso correcto en la religión es conocer al Espíritu de Dios.__
 
 No hay verdadero progreso en la verdadera religión hasta que el hombre entre en el pacto,
 y no hay entrada al pacto sino por el Espíritu.
@@ -117,7 +126,8 @@ si en la religión nada puede ser hecho (y ser aceptado por Dios) sin el Espíri
 entonces el Espíritu es lo primero de lo que tiene
 que ocuparse el que es verdaderamente religioso.
 
-=== 6. La primera manera en que conocemos al Espíritu de Dios es como convencedor de pecado.
+[.numbered]
+__6. La primera manera en que conocemos al Espíritu de Dios es como convencedor de pecado.__
 
 Esta es la verdadera entrada.
 Esta es la llave que abre la puerta a la vida eterna; el que pueda aceptar esto, acéptelo.
@@ -129,7 +139,7 @@ la obra por medio de la que Él se abre camino hacia la escritura de Su ley en e
 Cuando Cristo prometió al Consolador, al Espíritu de verdad, dijo con respecto a Él,
 "`...convencerá al mundo de pecado`" (Juan 16:8). Ahora bien,
 aquellos que han sido creados de nuevo en Cristo y se han
-vuelto sus discípulos reciben consuelo del Espíritu,
+vuelto sus discípulos reciben _consuelo_ del Espíritu,
 pero, ¿qué es el Espíritu para el mundo incrédulo?
 O,
 ¿cómo podrían ellos sentir alguna operación de Él? Él es para ellos un convencedor
@@ -148,7 +158,10 @@ debe ser de Dios.
 Conocer esto, y ser unido a ello, resulta en la unión de la criatura con Dios.
 Este es el verdadero comienzo de la vida eterna.
 
-=== 7. La manera en que el Espíritu de Dios convence de pecado, es haciendo brillar Su luz en la consciencia^
+[.numbered]
+__7. La manera en que el Espíritu de Dios convence de pecado,
+es haciendo brillar Su luz en la consciencia
+o en el hombre interior.__^
 footnote:[Es importante notar que tanto la mente como la
 consciencia del incrédulo están naturalmente corrompidas.
 Pablo escribe en Tito 1:15, "`Todas las cosas son puras para los puros,
@@ -157,19 +170,7 @@ pues hasta su mente y su conciencia están corrompidas.`"
 Por lo tanto,
 no es la consciencia misma la que es o la que posee
 luz divina (como muchos falsamente asumen),
-no; Cristo hace brillar Su Luz en la consciencia,
-y eso es lo que lleva al hombre al conocimiento de la verdad, y cuando obedece,
-a la transformación del alma.]
-o en el hombre interior.^
-footnote:[Es importante notar que tanto la mente como la
-consciencia del incrédulo están naturalmente corrompidas.
-Pablo escribe en Tito 1:15, "`Todas las cosas son puras para los puros,
-mas para los corrompidos e incrédulos nada les es puro;
-pues hasta su mente y su conciencia están corrompidas.`"
-Por lo tanto,
-no es la consciencia misma la que es o la que posee
-luz divina (como muchos falsamente asumen),
-no; Cristo hace brillar Su Luz en la consciencia,
+no; Cristo hace brillar Su Luz __en la consciencia,__
 y eso es lo que lleva al hombre al conocimiento de la verdad, y cuando obedece,
 a la transformación del alma.]
 
@@ -207,7 +208,8 @@ y permanecer ahí. Entonces realmente conocerá la vida, la verdadera comida de 
 la verdadera adoración,
 el servicio a partir de dicha vida y la recompensa que pertenece a todo esto.
 
-=== 8. Esta luz que convence de pecado brilla en cada consciencia.
+[.numbered]
+__8. Esta luz que convence de pecado brilla en cada consciencia.__
 
 "`Oh hombre, él te ha declarado lo que es bueno`" (Miq.
 6:8). "`La vida`" que estaba en Cristo era "`la luz de los hombres`"
@@ -232,7 +234,9 @@ la asfixia y la ahoga.
 No se vuelve a la luz para que los razonamientos de su mente
 no sean sometidos por ella y sujetos a ella.
 
-=== 9. El verdadero camino a la vida eterna consiste en creer en la luz del Espíritu que brilla en la consciencia.
+[.numbered]
+__9. El verdadero camino a la vida eterna consiste en creer
+en la luz del Espíritu que brilla en la consciencia.__
 
 El hombre está en tinieblas, dichas tinieblas lo mantienen en la muerte.
 No hay manera de que salga de la muerte si no sale de las tinieblas,
@@ -268,7 +272,9 @@ el poder empieza a obrar, y mata al enemigo en el corazón; y habiéndolo hecho,
 cesa la guerra y sólo hay paz.
 Luego, la verdadera paz que sobrepasa el entendimiento llena y refresca el corazón.
 
-=== 10. Creer en la luz del Espíritu que brilla en la consciencia une el alma a Dios y le abre el manantial de vida.
+[.numbered]
+__10. Creer en la luz del Espíritu que brilla en la consciencia une el alma a Dios
+y le abre el manantial de vida.__
 
 Creer en las tinieblas (que es incredulidad para con Dios)
 separa el alma de Dios y le cierra el manantial de vida.
@@ -298,9 +304,11 @@ las tinieblas son descubiertas y el reino de las tinieblas asaltado.
 
 === Algunas Objeciones y Respuestas
 
-Objeción 1: Este es un nuevo camino, una nueva luz.
+[.discourse-part]
+__Objeción 1:__ Este es un nuevo camino, una nueva luz.
 Nosotros ya conocíamos la religión antes de que esto surgiera y vamos a seguir con ella.
 
+[.discourse-part]
 Respuesta:
 Es efectivamente nuevo para los que han permanecido mucho
 tiempo en la apostasía y han establecido otra luz,
@@ -326,9 +334,11 @@ Por consiguiente, esta luz no es nueva en sí misma,
 el cual ha permanecido mucho tiempo escondido en la región
 de tinieblas y muerte y no ha conocido la luz de la vida.
 
-Objeción 2:
+[.discourse-part]
+__Objeción 2:__
 Esta es una luz natural o la luz de la naturaleza y consciencia del viejo Adán.
 
+[.discourse-part]
 Respuesta: En cierto sentido es una luz natural,
 es de la naturaleza de Aquel de quien proviene; la naturaleza de Dios y de Su Cristo.
 No es de la naturaleza del Adán corrupto,
@@ -358,8 +368,10 @@ en la fuerza de la sabiduría caída. Y ahora, habiendo establecido esta como su
 es obligado a llamar a la verdadera luz tinieblas,
 tal como hicieron los fariseos con Cristo.
 
-Objeción 3: Esta luz hace las Escrituras vacías e inútiles.
+[.discourse-part]
+__Objeción 3:__ Esta luz hace las Escrituras vacías e inútiles.
 
+[.discourse-part]
 Respuesta: No es así. La luz vino del Espíritu que dio las Escrituras,
 y es de la misma naturaleza de la luz que brillaba en los que dieron las Escrituras.
 Dice lo mismo que dicen las Escrituras, guía a lo mismo,
@@ -420,8 +432,10 @@ y a ver y a medir los espíritus de los engañadores.
 Pero el que está en el engaño, en las imaginaciones y fuera del verdadero conocimiento,
 no puede discernir el engaño de su propio espíritu ni el de los espíritus engañadores.
 
-Objeción 4: Esta luz enseña cosas contrarias a las Escrituras.
+[.discourse-part]
+__Objeción 4:__ Esta luz enseña cosas contrarias a las Escrituras.
 
+[.discourse-part]
 Respuesta: La luz que viene del mismo Espíritu del que vinieron las Escrituras,
 no puede enseñar cosas contrarias a las Escrituras.
 Pero el hombre,
@@ -434,12 +448,14 @@ La verdad, sin embargo, es una en sí misma,
 y concuerda con todo lo que es cierto en este siglo o en siglos anteriores,
 y únicamente difiere de aquello que no es cierto.
 
-Objeción 5:
+[.discourse-part]
+__Objeción 5:__
 Esto establece el libre albedrío. Cuando a las personas se les exhorta a abrazar la luz,
 y a dejar entrar la luz, claman diciendo: "`¿Depende del hombre creer?
 ¿Depende del hombre recibir la luz?
 ¿Tiene el hombre libre albedrío?`"
 
+[.discourse-part]
 Respuesta: En cuanto al discurso del libre albedrío,
 ustedes no saben de qué están hablando.
 La voluntad, junto con la libertad de la misma,
@@ -464,7 +480,8 @@ Y ahora, ustedes, cuyos corazones han sido tocados y convencidos de la verdad,
 y tienen un deseo encendido en pos del Dios vivo, y hambre y sed tras Su justicia,
 tomen nota de estas tres cosas que tengo en mi corazón a manera de consejo:
 
-=== 1. Conozcan y tomen su cruz, la cruz de Cristo, la cruz de Cristo cada día.
+[.numbered]
+__1. Conozcan y tomen su cruz, la cruz de Cristo, la cruz de Cristo cada día.__
 
 La cruz de Cristo contradice lo natural y es poder de Dios para liberar de lo natural.
 ¿Cómo debe ser crucificado y muerto el entendimiento terrenal, la voluntad terrenal,
@@ -496,9 +513,11 @@ más bien tomen la cruz cada día en todo, hasta que lo terrenal sea muerto,
 hasta que la sabiduría y la fuerza de la carne sean totalmente sometidas,
 entonces la sabiduría y el poder de Dios llegarán a ser naturales.
 
-=== 2. Mantengan el sentido, el sentimiento y la experiencia, y tengan cuidado con el entendimiento, la imaginación y el pensamiento de la mente.
+[.numbered]
+__2. Mantengan el sentido, el sentimiento y la experiencia,
+y tengan cuidado con el entendimiento, la imaginación y el pensamiento de la mente.
 La mente no es útil para Dios,
-ni lleva fruto para Dios hasta que sea hecha nuevamente y sea nuevamente moldeada.
+ni lleva fruto para Dios hasta que sea hecha nuevamente y sea nuevamente moldeada.__
 
 La única Semilla de vida yace en el invisible hombre interior
 del corazón entre una multitud de semillas de muerte,
@@ -530,7 +549,11 @@ más bien retírense con el Señor al lugar de descanso.
 Puede que estas palabras sean duras ahora,
 pero en adelante (conforme las experimenten) las conocerán.
 
-=== 3. Esperen pacientemente al Señor. No se apresuren en pos de la vida y la salvación en la voluntad de la carne, y dejen que el Señor escoja Su propio tiempo para el derramamiento de Su misericordia y bendición.
+[.numbered]
+__3. Esperen pacientemente al Señor.
+No se apresuren en pos de la vida y la salvación en la voluntad de la carne,
+y dejen que el Señor escoja Su propio tiempo para el derramamiento
+de Su misericordia y bendición.__
 
 El alma debe conocer y sentir cuán malo y amargo es el haber abandonado al Señor,
 fuente viva de viva misericordia,
