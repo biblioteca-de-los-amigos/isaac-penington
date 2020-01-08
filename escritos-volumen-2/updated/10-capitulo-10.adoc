@@ -1,4 +1,4 @@
-== Capítulo 10 La Ministración del Espíritu y Poder
+== Capítulo 10. La Ministración del Espíritu y Poder
 
 Hay "`cámaras de imágenes pintadas`" en muchas personas, y fortalezas, razonamientos,
 imaginaciones y pensamientos altivos,
@@ -116,19 +116,23 @@ luz para que el alma las siguiera) se perdieron,
 y el alma perdió por este medio la mano que fue extendida
 (en el amor tierno del Señor) para ayudarla y salvarla.
 
+[.discourse-part]
 Pregunta: Sin embargo, algunos pueden preguntar:
 ¿Qué han aprendido ustedes del Señor más que nosotros, o más de lo que sabían antes,
 cuando caminaban entre nosotros y practicaban las ordenanzas que nosotros practicamos?
 ¿Acaso no tenemos nosotros buenas instrucciones de las Escrituras?
 
+[.discourse-part]
 Respuesta: Mencionaré tres cosas (además de muchas otras que podrían ser mencionadas),
 que el Señor nos ha enseñado desde que Su Espíritu
 y poder nos ha aparecido y sacado de las tinieblas.
 Son las siguientes: Él nos ha enseñado a creer, Él nos ha enseñado a obedecer,
 Él nos ha enseñado a orarle en el nombre de Su Hijo.
 
+[.discourse-part]
 Objeción: ¿Ustedes no aprendieron estas cosas antes?
 
+[.discourse-part]
 Respuesta: No, no como el Señor nos las ha enseñado ahora.
 Es cierto que había algo de la verdadera fe procedente de la verdadera Semilla en nosotros,
 algo de la verdadera obediencia y algunas respiraciones puras al Padre,
@@ -152,9 +156,11 @@ el Espíritu celestial, el más excelente Espíritu) pudimos orar al Padre; prim
 suspirando y gimiendo ante Él, y después,
 derramando nuestras peticiones y súplicas a Él con acción de gracias.
 
+[.discourse-part]
 Pregunta: ¿Cómo les enseñó el Señor a creer?
 O, ¿qué les enseñó a creer ahora más que antes?
 
+[.discourse-part]
 Respuesta: Está escrito en los profetas:
 "`Todos tus hijos serán enseñados del Señor.`" En el nuevo pacto está prometido:
 "`Todos me conocerán, desde el menor de ellos hasta el mayor.`"
@@ -177,8 +183,10 @@ y un solo poder de vida que hemos recibido del Hijo y del Padre,
 a través del cual creemos y echamos mano del poder y fuerza puros y eternos del Altísimo,
 que redime y salva el alma.
 
+[.discourse-part]
 Pregunta: ¿Cómo les enseñó el Señor a obedecer?
 
+[.discourse-part]
 Respuesta: En realidad,
 el Señor nos ha enseñado obediencia de una forma como nunca antes habíamos aprendido:
 Puso Sus leyes en nuestras mentes, las escribió en nuestros corazones,
@@ -193,9 +201,11 @@ Egipto espiritual por medio de Su brazo extendido y poder puro,
 revelados internamente en nosotros, como fueron revelados externamente para los judíos,
 a quienes Dios redimió del Egipto externo.
 
+[.discourse-part]
 Pregunta: ¿Cómo los enseñó Dios a orar?
 De seguro ustedes nunca aprendieron el Padrenuestro, pues no practican eso entre ustedes.
 
+[.discourse-part]
 Respuesta: Cuando Dios nos introdujo a una condición verdaderamente consciente,
 llegamos a sentir nuestra pobreza y la necesidad de nuestras almas,
 interna y espiritualmente.
@@ -276,7 +286,7 @@ la Semilla que ciertamente obtendrá la promesa en ustedes,
 en la medida que sus mentes se unan a ella y lleguen
 al verdadero sentido y sujeción bajo ella!
 
-Con Respecto al Estado del Evangelio
+=== Con Respecto al Estado del Evangelio
 
 El evangelio es la ministración del nuevo pacto,
 o la ministración espiritual de la sustancia de todo lo que estaba en sombra bajo la ley.

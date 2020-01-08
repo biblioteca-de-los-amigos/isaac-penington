@@ -1,8 +1,10 @@
-== Capítulo 4 La Verdad Desnuda Ofrecida a Modo de Preguntas y Respuestas
+== Capítulo 4. La Verdad Desnuda / Ofrecida a Modo de Preguntas y Respuestas
 
+[.discourse-part]
 Pregunta: ¿Qué hace la luz internamente en los corazones de los que la reciben,
 creen en ella y se rinden a ella?
 
+[.discourse-part]
 Respuesta:
 Hace todo lo que es necesario hacer desde la salida del
 alma del Egipto espiritual hasta la tierra de reposo,
@@ -59,10 +61,13 @@ de esta luz del Espíritu Santo de Dios,
 y de Su verdad enviada, manifestada y revelada en su interior,
 tal como se ve en el Salmo 51:6, y de nuevo en su vehemente oración en el Salmo 43:3-4,
 
-"`Envía tu luz y tu verdad; éstas me guiarán; me conducirán a tu santo monte,
+[quote.scripture]
+____
+Envía tu luz y tu verdad; éstas me guiarán; me conducirán a tu santo monte,
 y a tus moradas.
 Entraré al altar de Dios, al Dios de mi alegría y de mi gozo; y te alabaré con arpa,
-oh Dios, Dios mío.`"
+oh Dios, Dios mío.
+____
 
 Cuando la luz brilla y la verdad brota en el corazón,
 en definitiva guían Al que es verdadero, guían a la colina santa del Señor,
@@ -103,9 +108,11 @@ Y al ser cambiados por ella (en la naturaleza de esta) llegan a ser luz en el Se
 y deben caminar en la luz como Dios está en la luz.
 (1 Juan 1:7)
 
+[.discourse-part]
 Pregunta:
 ¿Cómo llega a ser iluminada la mente y la candela del Señor establecida en el alma?
 
+[.discourse-part]
 Respuesta: Al hacer Dios que Su candela brille ahí,
 y que la mente se vuelva a ella y se rinda para ser ejercitada por ella.
 
@@ -143,10 +150,12 @@ De modo que la ciudad enaltecida, la enaltecida edificación de la sabiduría ca
 y de pecado e iniquidad en el corazón,
 será humillada y hollada por los pies de la Semilla.
 
+[.discourse-part]
 Pregunta: ¿Por qué se reduce la luz o la candela del Señor en algunos,
 hasta que eventualmente se extingue o se apaga?
 ¿Cómo ocurre esto?
 
+[.discourse-part]
 Respuesta: Porque la descuidan, desprecian y sofocan,
 al prestarles oídos y darles paso a los movimientos y tentaciones del espíritu contrario.
 Porque tal como el Espíritu del bien detiene y expulsa el mal cuando entra,
@@ -198,7 +207,7 @@ aún no pueden creer que esa luz sea una medida de la gracia y verdad que viene 
 y que en ella la suficiencia y poder de Dios son revelados contra la fuerza
 y poder de Satanás. Pero que consideren seriamente lo siguiente:
 
-En primer lugar, quiénes son los que han testificado y testifican de esta luz.
+_En primer lugar,_ quiénes son los que han testificado y testifican de esta luz.
 Son personas que generalmente han sido profundamente ejercitadas en la religión,
 personas que han leído las Escrituras con mucha diligencia y oración,
 esperando que Dios les conceda el verdadero, cierto y claro entendimiento de las mismas.
@@ -208,7 +217,7 @@ pero que nunca encontraron la respuesta al clamor de sus almas,
 ni (de manera satisfactoria) ese nacimiento que respiraba
 en ellos en pos del Señor noche y día.
 
-En segundo lugar, consideren el múltiple testimonio de estas personas.
+_En segundo lugar,_ consideren el múltiple testimonio de estas personas.
 Primero, que fueron vueltas por el Señor a esta luz (es decir,
 por Su Espíritu Santo y el resplandor y brote de Su Semilla preciosa en ellas),
 y se les mostró que dicha luz era de Dios.
@@ -237,7 +246,7 @@ o para orar, o para cosechar algún beneficio verdadero de las Escrituras,
 era a través del movimiento de esta luz en ellas, por la cual Dios incluso entonces,
 y en alguna medida, alumbraba y vivificaba sus mentes.
 
-En tercer lugar, consideren de nuevo, si la luz del Espíritu de Cristo,
+_En tercer lugar,_ consideren de nuevo, si la luz del Espíritu de Cristo,
 o la gracia y verdad que vienen por medio de Jesucristo,
 no tiene esta propiedad de descubrir, convencer y reprender el pecado.
 No hay duda de que la ley del Espíritu de vida en Cristo Jesús,
@@ -250,7 +259,7 @@ no debe ser conocido por esto también, es decir,
 por convencer al mundo de pecado y reprenderlo internamente,
 y por consolar a los santos en su viaje de salida del pecado y Sus batallas contra este.
 
-En cuarto lugar,
+_En cuarto lugar,_
 consideren si hay algo que pueda convencer de pecado además
 de la luz del Santo Espíritu de Dios brillando en el corazón.
 La ley externa puede hacer una declaración externa de pecado,
@@ -278,13 +287,13 @@ Todo lo contrario, crean toda clase de cubiertas y excusas para esconderse detr�
 a menos que la luz interior y el Espíritu del Señor escudriñen
 sus corazones y les ponga estas cosas de manifiesto.
 
-En quinto lugar, consideren el peso de las siguientes dos escrituras,
+_En quinto lugar,_ consideren el peso de las siguientes dos escrituras,
 y no conciban otro significado para ustedes,
 ni quiten el significado e intención del Santo Espíritu de Dios en ellas.
 La primera es del apóstol Pablo en Efesios 5:13-14, "`Mas todas las cosas,
 cuando son puestas en evidencia por la luz, son hechas manifiestas;
 porque la luz es lo que manifiesta todo.
-Por lo cual dice: Despiértate, tú que duermes&hellip;,`" etc.
+Por lo cual dice: Despiértate, tú que duermes,`" etc.
 A todo hombre le es mandado despertar,
 porque todo hombre tiene alguna proporción de ese don en él, que si lo escucha,
 lo reprenderá, levantará, despertará,
@@ -317,7 +326,7 @@ reprendiéndolo y condenándolo por ello,
 es de una naturaleza diferente a la de la carne (la que alberga el pecado),
 y contraria a esta.
 
-En sexto lugar,
+_En sexto lugar,_
 consideren el gran amor de Dios por la humanidad y el gran cuidado que tiene de ella.
 Primero, con respecto a sus cuerpos.
 ¡Cuánto provee Él para los cuerpos de toda la humanidad!
@@ -382,7 +391,7 @@ Pero el otro nacimiento (que es engendrado y nace
 de Dios) sabrá y diariamente experimentará eso,
 como la sabiduría y poder de Dios para salvación.
 
-Algunas Aclaraciones a Modo de Preguntas y Respuestas
+=== Algunas Aclaraciones a Modo de Preguntas y Respuestas
 
 El verdadero conocimiento y la verdadera experiencia,
 especialmente con respecto a las cosas necesarias, son de gran importancia para el alma,
@@ -421,7 +430,7 @@ los que deseen vivir con Dios para siempre y no caer
 de la presencia y gloria de Su poder,
 pongan atención a las siguientes tres cosas:
 
-En primer lugar, presten atención a las visitas internas de Dios,
+_En primer lugar,_ presten atención a las visitas internas de Dios,
 y a Su deseo de hacer un cambio real en ustedes.
 No me refiero a un cambio de una idea a otra en sus mentes,
 sino a un cambio de una naturaleza y espíritu a otra Naturaleza y Espíritu en sus corazones.
@@ -443,12 +452,12 @@ para que así como el comienzo es puro, el crecimiento también lo sea.
 Ahora bien, después de que el Padre los haya visitado,
 engendrado algo en ustedes y leudado en alguna medida para que haya verdadera vida,
 verdadero sentido, verdadera hambre, verdaderas respiraciones,
-entonces (en segundo lugar),
+entonces (_en segundo lugar_),
 estén vigilantes y esperen hasta aprender del verdadero Maestro,
 cómo llegar a las verdaderas aguas,
 para que beban de ellas y no de un charco sucio de su propia formación o de la de otros.
 
-Finalmente, después de que Dios haya hecho Su pacto con ustedes, les haya hablado paz,
+_Finalmente,_ después de que Dios haya hecho Su pacto con ustedes, les haya hablado paz,
 les haya dado algo del poder, la justicia y el gozo del reino,
 y haya establecido el santo cerco y muro de salvación alrededor de ustedes,
 cuiden de no ir tras ninguna lujuria, ningún deseo de la carne,
@@ -457,8 +466,10 @@ Manténganse dentro de los límites sagrados,
 no toquen nada muerto ni impuro para que no sean contaminados,
 ni se aparten gradualmente de Aquel que es puro.
 
+[.discourse-part]
 Pregunta: ¿El Espíritu iluminador y santificador es uno y el mismo Espíritu o no?
 
+[.discourse-part]
 Respuesta:
 El Espíritu que ilumina y el Espíritu que santifica es uno y el mismo Espíritu,
 y la iluminación del Espíritu es para santificación. La
@@ -473,8 +484,10 @@ ni le llevan sus corazones y obras.
 Por eso la luz se mantiene sólo como la que los reprende y condena,
 y no como la que los justifica y santifica.
 
+[.discourse-part]
 Pregunta: ¿Cómo escribe Dios Su ley en el corazón?
 
+[.discourse-part]
 Respuesta: Por medio de Su Espíritu y poder obrando ahí,
 mediante los cuales crea un nuevo corazón y escribe la nueva ley, es decir,
 la ley del Espíritu de vida en Cristo Jesús. Está escrito:
@@ -496,8 +509,10 @@ Cada movimiento y persuasión de Su Espíritu es, entonces,
 una ley para los que han nacido del Espíritu y han sido enseñados
 por Dios a ver y a caminar según el Espíritu vivificador.
 
+[.discourse-part]
 Pregunta: ¿Qué es la verdadera iglesia evangélica?
 
+[.discourse-part]
 Respuesta:
 Es la compañía de los verdaderos creyentes en el Espíritu y poder del Señor Jesucristo.
 Es la compañía de los verdaderos judíos, judíos internos, judíos en Espíritu,
@@ -514,8 +529,10 @@ Porque los que son añadidos por el Espíritu de Dios
 y poder a esta iglesia y permanecen en ella,
 ciertamente serán salvos.
 
+[.discourse-part]
 Pregunta: ¿Cuál es el camino seguro e infalible de la salvación?
 
+[.discourse-part]
 Respuesta: Es un camino nuevo y vivo; es tal camino,
 que sólo los vivos pueden caminar en él. Es un camino santo, en el que sólo los limpios,
 rescatados y redimidos del Señor pueden dar un paso en él. El camino,
@@ -528,8 +545,10 @@ el Espíritu del Señor Jesús, la verdad tal como está en Él, Su sabiduría, 
 El que permanece en Él, permanece en el camino.
 El que camina en Él, camina en el camino.
 
+[.discourse-part]
 Pregunta: ¿Cómo salva Cristo el alma?
 
+[.discourse-part]
 Respuesta: Visitando internamente, tocando la puerta internamente,
 haciendo que la luz de la vida brille internamente;
 alumbrando y vivificando internamente, y quebrantando la fuerza del enemigo internamente;
@@ -543,8 +562,10 @@ sino de la naturaleza de luz en el Señor, y camina en la luz como Él está en 
 Y Él lo preserva y lo salva cada día más,
 por medio de un mayor brillo y obra de la luz y vida en él.
 
+[.discourse-part]
 Pregunta: ¿Qué es la regeneración o el nuevo nacimiento?
 
+[.discourse-part]
 Respuesta: Es un cambio interno, por medio del Espíritu y poder del Dios vivo,
 en Su propia naturaleza.
 Es un ser engendrado por Su Espíritu, nacido de Su Espíritu;
@@ -555,8 +576,10 @@ por el mismo poder con el que levantó a nuestro Señor Jesucristo de la tumba,
 en los corazones de los que Él visita, quienes son conscientes,
 reciben y se sujetan a Su vida, luz y poder interior.
 
+[.discourse-part]
 Pregunta: ¿Qué es la verdadera santidad?
 
+[.discourse-part]
 Respuesta: Es esa naturaleza santa y esas acciones santas, que surgen de la raíz santa;
 todo lo demás no es más que imitación de la santidad, no es la verdadera santidad.
 El árbol debe ser hecho bueno primero,
@@ -567,6 +590,7 @@ excepto en los árboles de la plantación de Dios,
 en las ramas que son injertadas por Él en la verdadera vid y en el árbol de olivo,
 cuya fuerza de virtud y santidad radica en la savia que reciben de Él día a día.
 
+[.discourse-part]
 Pregunta: ¿Cuáles son mayores,
 las obras que hizo Cristo externamente en los cuerpos
 de los hombres en los días de Su carne,
@@ -576,13 +600,16 @@ Porque Cristo dijo que los que creyeran en Él harían la obras que Él hizo,
 e incluso mayores, debido a que Él iba al Padre.
 (Juan 14:12)
 
+[.discourse-part]
 Respuesta: Sin ninguna duda, es mayor alcanzar el alma,
 vivificarla y sacarla de la tumba de muerte.
 Curar la ceguera, la sordera, la dureza y la enfermedad del alma es mayor que lo externo;
 de hecho, esto fue testificado por lo externo.
 
+[.discourse-part]
 Pregunta: ¿Qué es el yugo o la cruz de Cristo?
 
+[.discourse-part]
 Respuesta: Es interna, porque lo que se crucifica es principalmente interno.
 Es ese don de Dios, esa luz de Su Espíritu que es contraria a las tinieblas,
 contraria a todo lo que es corrupto, que desea y pelea contra eso.
@@ -596,8 +623,10 @@ donde es libre para la santidad y la justicia, y a la vez,
 es atada y encadenada en cuanto a toda libertad para la carne,
 y en cuanto a todo tipo de impureza e injusticia.
 
+[.discourse-part]
 Pregunta: ¿Cómo puede un hombre "`hacer firme su llamado y elección`"? (2 Pedro 1:10)
 
+[.discourse-part]
 Respuesta: Al hacer firme el don de Dios para él; es decir,
 asegurando la Semilla para él,
 en la que está el llamado y la elección. Porque lo que Dios elige es la Semilla,
@@ -621,8 +650,10 @@ y hallarán que ambos están sellados y seguros para ustedes en esa verdad,
 en esa luz celestial y en esa Semilla santa que provino de Dios y es de Él,
 la que Él se deleita en reconocer y jamás rechazará.
 
+[.discourse-part]
 Pregunta: ¿Qué es la verdadera oración?
 
+[.discourse-part]
 Respuesta: La oración es la respiración que brota del verdadero nacimiento,
 del sentido vivo que Dios da al verdadero nacimiento.
 Hay un Espíritu de oración y súplica dado por Dios a Sus hijos para luchar y
@@ -632,8 +663,10 @@ sino en el mejor de los casos, es una imitación de la verdadera.
 "`Pues qué hemos de pedir como conviene, no lo sabemos,
 pero el Espíritu mismo intercede por nosotros con gemidos indecibles.`"
 
+[.discourse-part]
 Pregunta: ¿Qué es el verdadero arrepentimiento?
 
+[.discourse-part]
 Respuesta: Es el arrepentimiento que da Cristo,
 a quien Dios ha exaltado para que sea Príncipe y
 Salvador y dé arrepentimiento y perdón de pecados.
@@ -650,8 +683,10 @@ causa de la naturaleza corrupta y por todas las obras muertas de la carne,
 y un volverse de ellas y un deseo de no entrometerse más con ellas.
 Este es el arrepentimiento que es don del Señor Jesucristo.
 
+[.discourse-part]
 Pregunta: ¿Qué es la verdadera fe?
 
+[.discourse-part]
 Respuesta: Las Escrituras hablan de una nueva creación en Cristo.
 En realidad todos los verdaderos creyentes lo son, y tienen la habilidad, la facultad,
 la potestad de creer que vienen de Aquel que los crea de nuevo.
@@ -666,8 +701,10 @@ purifica el corazón, da entrada a Dios e interés en Su poder y promesas,
 da victoria sobre la naturaleza mundana y sobre todos los enemigos del alma.
 ¡Bendito sea el Señor por otorgar e incrementar esta fe en los corazones de Sus hijos!
 
+[.discourse-part]
 Pregunta: ¿Qué es la obediencia?
 
+[.discourse-part]
 Respuesta:
 La verdadera obediencia es la que fluye del verdadero
 entendimiento de la voluntad de Dios,
@@ -699,8 +736,10 @@ sea unido a ese poder y sienta ese poder obrando en él. Aquí, en el nacimiento
 la verdadera fe y obediencia llegan a ser tan naturales,
 como lo son la incredulidad y la desobediencia para el nacimiento de la carne.
 
+[.discourse-part]
 Pregunta: ¿Qué son las buenas obras?
 
+[.discourse-part]
 Respuesta: Las buenas obras son las que fluyen del buen Espíritu de Dios,
 las obras que son hechas en Dios.
 Las obras del nuevo nacimiento, de la nueva criatura, son buenas obras;
@@ -734,8 +773,10 @@ El camino y las obras del hombre errado a menudo son correctas a sus propios ojo
 pero bendito aquel cuyo camino y obras son buenas y correctas ante los ojos del Señor,
 ante el juicio de Su luz y Espíritu escrutador e infalible.
 
+[.discourse-part]
 Pregunta: ¿Cuál es el verdadero amor?
 
+[.discourse-part]
 Respuesta: El amor que se levanta de la naturaleza que Dios engendra,
 y de la circuncisión de corazón que Él hace quitándolo de la otra naturaleza.
 El amor es altamente elogiado y admirado, y hay muchos que lo pretenden,
@@ -755,8 +796,10 @@ la cual es de su sangre (porque "`de una sangre ha
 hecho todo el linaje de los hombres`") según la carne,
 o según una consideración natural.
 
+[.discourse-part]
 Pregunta: ¿Cuál es el conocimiento del nuevo pacto?
 
+[.discourse-part]
 Respuesta: Es el conocimiento que da Dios al nuevo nacimiento,
 pues a este pertenece el nuevo pacto y el conocimiento del mismo.
 Porque el conocimiento del reino de Dios es dado
@@ -786,8 +829,10 @@ no tienen el conocimiento del nuevo pacto, el conocimiento de la cosa misma,
 sino únicamente un conocimiento externo,
 al que se aferra y comprende el primer nacimiento.
 
+[.discourse-part]
 Pregunta: ¿Qué es el temor del nuevo pacto?
 
+[.discourse-part]
 Respuesta: Es el temor que Dios pone en los corazones de Sus hijos,
 que limpia sus corazones y evita que se alejen de Él. Hay una gran diferencia
 entre el temor que puede ser aprendido de los preceptos en el exterior,
@@ -802,8 +847,10 @@ El que quiera tener este temor, debe conocer el lugar de la sabiduría y esperar
 y cuando lo tenga, pronto el temor comenzará a hacerlo sabio para con la salvación,
 y lo enseñará a separarse del mal que es causa de destrucción. (Job 28:28)
 
+[.discourse-part]
 Pregunta: ¿Qué es la verdadera esperanza?
 
+[.discourse-part]
 Respuesta: Es fijar la mente en el Señor,
 es que el nacimiento celestial se fije en su Padre.
 Ahora bien, nosotros debemos distinguir entre esperanza y esperanza.
@@ -838,8 +885,10 @@ Porque la luz es sembrada para los justos y el gozo para los rectos,
 aún en sus condiciones más oscuras, tristes y angustiosas,
 en todas las cuales el Señor está cerca y todavía queda motivo para esperar en Él.
 
+[.discourse-part]
 Pregunta: ¿Cuál es el verdadero gozo?
 
+[.discourse-part]
 Respuesta: Es el gozo que fluye de la presencia de Dios,
 de la obra de Su poder en el corazón y de la segura expectativa
 que da Él de plena herencia y gloria de vida eterna.
@@ -879,8 +928,10 @@ y los que entran en la manifestación de ella, entran en la unión santa,
 en la comunión santa con el Padre y con el Hijo,
 donde está el gozo y donde el gozo es completo.
 
+[.discourse-part]
 Pregunta: ¿Cuál es la correcta pobreza de espíritu y la verdadera humildad?
 
+[.discourse-part]
 Respuesta: La verdadera pobreza de espíritu y humildad,
 brotan de la misma raíz de donde se levantan la fe, el amor, la paz,
 el gozo y las otras cosas celestiales, y son de la misma naturaleza.
@@ -907,7 +958,7 @@ Así el Señor de vida es el único exaltado,
 y la criatura es mantenida humilde delante de Él y baja para siempre, y es nada,
 excepto cuando el Señor se complace en llenarla.
 
-Conclusión
+=== Conclusión
 
 Los que deseen conocer, experimentar, disfrutar y ser testigos de estas cosas,
 deben ocuparse de aquella Semilla en la que todas estas están envueltas,

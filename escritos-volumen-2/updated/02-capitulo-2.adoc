@@ -1,4 +1,4 @@
-== Capítulo 2 Algunas Piedras de Tropiezo Eliminadas del Camino del Sencillo de Corazón
+== Capítulo 2. Algunas Piedras de Tropiezo Eliminadas / del Camino del Sencillo de Corazón
 
 El Padre, en quien está toda la virtud y el poder de redención,
 envió a Su Hijo a reunir a las ovejas esparcidas y perdidas de la casa de Israel,
@@ -8,18 +8,23 @@ El Padre, quien lo envió a predicar el evangelio,
 lo ungió y lo llenó de Su Espíritu para que pudiera predicar el evangelio,
 según la escritura de Isaías 61:1 - 3.
 
+[quote.scripture]
+____
 El Espíritu de Jehová el Señor está sobre mí, porque me ungió Jehová;
 me ha enviado a predicar buenas nuevas a los abatidos,
 a vendar a los quebrantados de corazón, a publicar libertad a los cautivos,
 y a los presos apertura de la cárcel; a proclamar el año de la buena voluntad de Jehová,
 y...a consolar a todos los enlutados; etc.`"
+____
 
+[.discourse-part]
 Pregunta: ¿Pero cómo llegaron a encontrar estos mansos, estos quebrantados de corazón,
 estos cautivos,
 estos encerrados en prisión y estos enlutados la redención
 y las bendiciones que Cristo les predicó? O,
 ¿de qué manera llegaron a recibir y a participar de estas bendiciones provenientes de Él?
 
+[.discourse-part]
 Respuesta: Por fe.
 Esto es lo que mostraron todas las sanidades externas que Él hizo,
 al ser concedidas según la fe.
@@ -30,9 +35,11 @@ hágase contigo como quieres.`") De esta misma manera son
 otorgadas y recibidas por el alma todas Sus sanidades internas,
 es decir, mediante la fe.
 
+[.discourse-part]
 Pregunta: Pero, ¿cómo llegaron ellos a tener fe?
 O, ¿cómo puede alguien tener fe en el poder redentor?
 
+[.discourse-part]
 Respuesta:
 Les es otorgada por Dios en el sentido o la consciencia que proviene de
 Él. Su Palabra sale de Su boca y hay un testigo de Él en el corazón. Cuando
@@ -48,9 +55,11 @@ Es así como la fe tiene una obra,
 una obra que va desde el principio que el corazón se vuelve a Dios hasta el final,
 y el que permanece en la fe hasta el final encuentra la obra consumada.
 
+[.discourse-part]
 Objeción:
 Pero esta fe es otorgada sólo a unos pocos que Dios ha elegido y no a todos los hombres.
 
+[.discourse-part]
 Respuesta: Dios ha enviado Su evangelio para que sea predicado a toda criatura.
 Su Palabra es capaz de alcanzar al Testigo y de obrar
 este sentido o consciencia en cada criatura.
@@ -61,9 +70,11 @@ escuchen la Palabra y mantengan sus mentes ahí en el Señor,
 Él les hablará paz y los mantendrá en paz, sacándolos cada día y cada vez más,
 del alcance y del poder de eso que los perturba.
 
+[.discourse-part]
 Pregunta: ¿Descansa todo el nuevo pacto sobre Dios y no requiere nada de la criatura?
 O, ¿requiere Dios algo de la criatura en el nuevo pacto?
 
+[.discourse-part]
 Respuesta: Considérenlo bien.
 En el nuevo pacto Dios requiere de la criatura lo que Él también da.
 ¿Acaso no requiere Él la fe y el ejercicio de esa fe,
@@ -83,6 +94,7 @@ según su buena voluntad.`"
 al crecer en la vida y habilidad que son de Dios,
 puede hacer todas las cosas a través de Cristo que la fortalece.
 
+[.discourse-part]
 Pregunta: ¿Por qué se dice que Cristo fue ungido para predicar el evangelio a los pobres,
 mansos, quebrantados de corazón, cautivos, encarcelados y enlutados?
 ¿No dio Dios a Su Hijo en amor a todos?
@@ -90,6 +102,7 @@ mansos, quebrantados de corazón, cautivos, encarcelados y enlutados?
 ¿No fue ungido para predicar el evangelio a todos?
 ¿Por qué entonces está limitado y restringido aquí a algunos?
 
+[.discourse-part]
 Respuesta: Es cierto,
 Dios tiene un interés general por toda la humanidad en la dádiva y unción de Su Hijo.
 Aún así, hay algunos que están en mejor capacidad de recibir, es decir,
@@ -186,7 +199,7 @@ tanto de judíos como de gentiles.
 Y cuando es escuchada, Ella escribe la ley del Espíritu de vida en el corazón,
 tanto de judíos como de gentiles.
 Conforme ellos se convierten en hijos, el Espíritu del Padre es derramado,
-el Espíritu de adopción que clama Abba Padre tanto en judíos como en gentiles.
+el Espíritu de adopción que clama _Abba Padre_ tanto en judíos como en gentiles.
 
 Ahora bien,
 la misericordia del Señor perdura para siempre hacia la Semilla de los justos,
@@ -198,7 +211,7 @@ y el poder y la misericordia están cerca de él para
 ayudarlo a viajar de la muerte a la vida.
 ¡Feliz aquel que es enseñado por Dios para hacer uso de ese día!
 
-Con Respecto a la Elección y a la Condenación
+=== Con Respecto a la Elección y a la Condenación
 
 Que ningún hombre se confunda acerca del misterio de la elección y la condenación,
 el cual no puede ser entendido por los que están
@@ -231,11 +244,13 @@ será aceptada por Él;
 y la que reciba la semilla maligna y en ella obre maldad e injusticia,
 será rechazada con esa semilla.
 
+[.discourse-part]
 Objeción:
 Pero yo pensaba que el hombre y sus obras habían
 sido completamente excluidas por el pacto de gracia,
 pero parece que este toma en consideración ambas cosas.
 
+[.discourse-part]
 Respuesta: El hombre está completamente excluido del pacto de gracia por sí mismo,
 mientras esté en sí mismo, en su propia capacidad,
 separado de la novedad de vida y de la capacidad que son del nuevo pacto.
@@ -308,9 +323,11 @@ porque Dios, que da el conocimiento,
 las esconde de esa parte y las entrega al nacimiento
 inocente y simple de Su propio Espíritu.
 
+[.discourse-part]
 Objeción: Pero cuando el Padre atrae, ¿puede alguien resistirse o sostenerse?
 ¿No hace el poder del Señor que cualquiera hacia quien Él ejerza Su poder, se disponga?
 
+[.discourse-part]
 Respuesta:
 El poder de Dios es grande y tiene dominio sobre todo espíritu malo que tienta,
 sobre toda la corrupción, apostasía y retirada del corazón;
@@ -326,11 +343,13 @@ sino que también la lleva a cabo en el día de Su poder, dando no sólo el quer
 sino también el hacer lo que es correcto y agradable a Sus ojos.
 Pero aún, esto es en y de acuerdo a Su propio modo y pacto.
 
+[.discourse-part]
 Objeción: Si Dios extiende Su poder para salvar y el diablo interrumpe y detiene Su obra,
 entonces parece que el diablo es más fuerte que Dios.
 ¿Es el diablo más fuerte que Dios?
 Si no lo es, ¿cómo puede él oponerse y resistir a Dios en la obra de Su poder?
 
+[.discourse-part]
 Respuesta: No, el diablo no es más fuerte que Dios; aunque es muy fuerte.
 Pero si el corazón deja entrar al enemigo,
 aflige al Espíritu y hace retroceder Su poder en
@@ -396,7 +415,7 @@ el Sol del mundo interior se levanta muy alto y aparece brillantemente en muchas
 los que son espiritualmente ciegos no pueden discernirlo,
 ni cosechar los beneficios de Su luz, ni participar de la salud en sus alas.
 
-Una Exhortación a los Desolados y Angustiados
+=== Una Exhortación a los Desolados y Angustiados
 
 Ahora es el tiempo aceptable, ahora es el día de salvación. Ahora se levanta la vida,
 ahora brilla la luz para guiar de las tinieblas y muerte a la tierra de los vivos.
@@ -476,7 +495,7 @@ O, ¿es Su venida interna y espiritual en diez mil de Sus santos?
 (Judas 1:14)^
 footnote:[La mayoría de las versiones traducen este pasaje: "`He aquí,
 el Señor viene con decenas de millares de sus santos.`"
-(RVG) Pero la palabra en el original griego es en y no con.]
+(RVG) Pero la palabra en el original griego es __en__ y no __con__.]
 ¿No vio Enoc que Él iba a venir de esta manera para juzgar al mundo?
 ¿No viene Él "`para ser glorificado en sus santos`"? (2
 Tesalonicenses 1:10) ¿No deben ellos juzgar al mundo;
@@ -510,7 +529,7 @@ y no hay ninguna otra.
 ¡Bendito para siempre Aquel que la ha hecho tan manifiesta y clara en este nuestro día,
 y benditos los que la ven y entran en la vida por ella!
 
-La Visita del Amor Tierno y Recto
+=== La Visita del Amor Tierno y Recto
 
 El asunto principal en la verdadera religión es recibir a la Semilla de vida de Dios,
 por la que la mente puede ser cambiada,
@@ -596,6 +615,7 @@ el alma experimenta varios estados en sus viajes
 verdaderos y discernibles hacia la tierra santa.
 Como por ejemplo:
 
+[.numbered]
 1+++.+++ Hay un estado de oscuridad y esclavitud egipcia,
 en el que el poder de la muerte reina y gobierna en el corazón,
 sometiéndolo al pecado y a la muerte.
@@ -603,6 +623,7 @@ Aquí el alma está en la tumba y bajo muerte, cautiverio y esclavitud,
 incluso en medio de todas sus profesiones de religión, conversación de Dios y de Cristo,
 lectura de las Escrituras, observación de ordenanzas y deberes, etc.
 
+[.numbered]
 2+++.+++ Hay un estado de desierto,
 en el que la fuerza del cautiverio es en alguna medida rota,
 el corazón es atraído a ocuparse de las guías de vida y
@@ -623,6 +644,7 @@ Aquí hay lamentos, gemidos y clamores al Señor noche y día,
 tanto por la violencia y multitud de enemigos, como por la rebelión,
 desconfianza e incredulidad del corazón.
 
+[.numbered]
 3+++.+++ Hay un estado de reposo, un estado de paz, un estado de vida, un estado de poder,
 un estado de gracia, un estado de dominio, en la vida y a través del poder del Señor,
 en el que la ley de vida es manifestada en dominio
@@ -661,7 +683,7 @@ la tumba a través de la Semilla inmortal de Dios,
 y que toda su sabiduría y conocimiento (incluso el
 de las cosas de Dios) sean llevados a la muerte!
 
-Con Respecto a las Ordenanzas
+=== Con Respecto a las Ordenanzas
 
 Ahora, al parecer,
 el gran asunto que ustedes tienen en contra de nosotros con respecto
@@ -669,7 +691,8 @@ a las ordenanzas tiene que ver con el bautismo en agua,
 con partir el pan externo y beber el vino externo.
 Concerniente a esto tengo dos o tres pesadas interrogantes para considerar seriamente:
 
-Interrogante 1: ¿Eran estas cosas en sí mismas las cosas del reino,
+[.discourse-part]
+__Interrogante 1:__ ¿Eran estas cosas en sí mismas las cosas del reino,
 o eran representaciones de algo relacionado con el reino,
 como lo eran las sombras bajo la ley?
 Por tanto,
@@ -689,7 +712,7 @@ el del Espíritu Santo y fuego).
 Aún así, el apóstol bendijo a Dios porque no había hecho uso de este,
 y dijo que él no había sido enviado a bautizar.
 ¿Con qué no había sido enviado a bautizar?
-Bueno, no con agua, no con el bautismo de Juan.
+Bueno, __no con agua,__ no con el bautismo de Juan.
 Él fue enviado a bautizar con el bautismo de Cristo, es decir, a bautizar en el nombre,
 en el Espíritu, en el poder (y también lo fueron todos los apóstoles),
 así como también a predicar el evangelio.
@@ -716,7 +739,8 @@ ellos en su día y nosotros en nuestro día (¡bendito
 sea el nombre del Señor nuestro Dios!),
 comemos y bebemos el pan y el vino celestiales del reino con Cristo.
 
-Interrogante 2: ¿No se ha abusado mucho de estas cosas externas,
+[.discourse-part]
+__Interrogante 2:__ ¿No se ha abusado mucho de estas cosas externas,
 y no se ha aparecido el espíritu anticristiano en ellas y las ha magnificado?
 Y ciertamente, cuando son magnificadas por ese espíritu no son de Cristo ni para Cristo.
 
@@ -725,7 +749,8 @@ Consideren bien qué era ese patio exterior que Dios les dio a los gentiles,
 Consideren si ellas son requeridas por el Señor de los judíos internos,
 los que son de la circuncisión en el corazón y han llegado a heredar la sustancia.
 
-Interrogante 3: ¿Tienen alguna virtud estas cosas en sí mismas, sin que Dios las requiera?
+[.discourse-part]
+__Interrogante 3:__ ¿Tienen alguna virtud estas cosas en sí mismas, sin que Dios las requiera?
 ¿Puede el agua externa lavar el alma?
 ¿Pueden el pan y el vino externos alimentarla o refrescarla?
 Es cierto que si Dios requiere que un hombre lave su cuerpo con agua, debe sujetarse,
@@ -745,7 +770,8 @@ Al seguir al Señor en concordancia a como Él nos ha guiado y ha requerido de n
 hemos hallado reconciliación, vida, reposo, paz y gozo con nuestro Padre,
 y refrescamiento puro proveniente de Él.
 
-Interrogante 4: Con respecto a los deberes,
+[.discourse-part]
+__Interrogante 4:__ Con respecto a los deberes,
 estos son los dos grandes deberes que se nos han enseñado:
 Amar al Señor nuestro Dios con todo nuestro corazón, alma y espíritu,
 y amar a nuestro prójimo como a nosotros mismos.
@@ -867,7 +893,7 @@ y no sólo sentirá la tierra,
 sino también los mismos cielos derretidos delante de Él y acabados,
 y que nada queda sino la luz pura y la vida del Cordero?
 
-Con Respecto al Reposo del Evangelio
+=== Con Respecto al Reposo del Evangelio
 
 ¿Qué es el reposo del evangelio?
 ¿Qué es el día de reposo del evangelio?

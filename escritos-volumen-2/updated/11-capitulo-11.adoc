@@ -1,7 +1,9 @@
-== Capítulo 11 El Bautismo de Cristo
+== Capítulo 11. El Bautismo de Cristo
 
-"`El que creyere y fuere bautizado, será salvo;mas el que no creyere, será condenado.`"
-Marcos 16:16
+[quote.scripture, , Marcos 16:16]
+____
+El que creyere y fuere bautizado, será salvo;mas el que no creyere, será condenado.
+____
 
 Esta es una escritura muy importante y es necesario que todo cristiano la entienda correctamente,
 para que así pueda creer y ser bautizado,
@@ -30,17 +32,20 @@ Pero el que no cree permanece en el estado inmundo y sucio en el que no hay,
 ni puede haber salvación, sino juicio y condenación, muerte y destrucción para siempre.
 Consideren ahora:
 
-"`...cuando una vez esperaba la paciencia de Dios en los días de Noé,
+[quote.scripture, , 1 Pedro 3:20-21]
+____
+...cuando una vez esperaba la paciencia de Dios en los días de Noé,
 mientras se preparaba el arca, en la cual pocas personas, es decir, ocho,
 fueron salvadas por agua.
 El bautismo que corresponde a esto ahora nos salva
 (no quitando las inmundicias de la carne,
-sino como testimonio de una buena conciencia hacia Dios) por la resurrección de Jesucristo.`"^
+sino como testimonio de una buena conciencia hacia Dios) por la resurrección de Jesucristo.^
 footnote:[1 Pedro 3: ver. 20 (RV1960) y ver. 21 (RVG)]
+____
 
 El apóstol Pedro muestra cuál es el bautismo que salva,
 ese que es "`antitipo,`" o que interna y espiritualmente cumple el testimonio
-del arca de Noé. La palabra en griego es "`antitypous,`" la cual significa antitipo,
+del arca de Noé. La palabra en griego es _"`antitypous,`"_ la cual significa antitipo,
 o aquello que cumple el tipo;
 es la sustancia que viene en lugar de la figura o de la sombra.
 Y así es más apropiada y naturalmente traducida (como lo dice la traducción antigua):
@@ -110,7 +115,7 @@ Ahora consideren las palabras en el temor y peso del Espíritu de Dios.
 
 Se dice, '`vayan y enseñen, bautizando,`' pero no se dice, bautizando con agua,
 sino '`bautizando en el nombre,`' o más bien (como lo tiene el griego),
-'`bautizando dentro del nombre del Padre, y del Hijo y del Espíritu Santo.`'
+'`bautizando __dentro del__ nombre del Padre, y del Hijo y del Espíritu Santo.`'
 
 Ahora bien, bautizar con agua es una cosa, y bautizar dentro del nombre es otra,
 como todos los que experimentan el bautismo espiritual lo saben.
@@ -153,12 +158,14 @@ Pero el bautismo de agua es claramente de una naturaleza externa
 y natural que puede ser sacudida (así como también la circuncisión),
 y debía ser sacudida a su debido tiempo, para que quedara lo que no podía ser conmovido.
 
+[.discourse-part]
 Objeción:
 Contra esto es objetado que el bautismo del Espíritu no puede ser
 el bautismo del que se hace referencia en este lugar,
 porque el bautismo del que se habla es ordenado,
 pero el bautismo del Espíritu nunca fue ordenado.
 
+[.discourse-part]
 Respuesta: Esto es evidentemente un gran error.
 ¿Nunca fue ordenado el lavamiento interno del corazón?
 El evangelio es la ministración de las cosas internas,
@@ -223,10 +230,12 @@ De lo contrario,
 los hombres no pueden evitar malentenderlas y torcerlas para su propio y gran peligro,
 o para ruina y destrucción de sus almas.
 
+[.discourse-part]
 Objeción: El bautismo del Espíritu no puede ser pretendido en Mateo 28:19,
 porque este bautismo debe ser administrado por hombres,
 pero el bautismo del Espíritu nunca fue administrado por hombres, sino por Jesucristo.
 
+[.discourse-part]
 Respuesta: El apóstol dice que Dios los "`hizo ministros competentes de un nuevo pacto,
 no de la letra, sino del espíritu; porque la letra mata,
 mas el espíritu vivifica`" (2 Corintios 3:6). Ahora consideren,
@@ -286,9 +295,11 @@ y es la sustancia de la figura o sombra que estaba
 antes de la figura del bautismo y de la circuncisión,
 y permanece cuando estos se han ido.
 
+[.discourse-part]
 Objeción: El bautismo en la comisión era para todas las naciones,
 pero el bautismo del Espíritu únicamente cayó sobre unos pocos al principio.
 
+[.discourse-part]
 Respuesta: La promesa de recibir el Espíritu se basa en creer,
 y se extiende a todos los que creen.
 "`El que cree en mí, como dice la Escritura, de su interior correrán ríos de agua viva.
@@ -308,12 +319,15 @@ Esta es la sustancia de la figura, cuya sustancia pertenece al estado del evange
 a pesar de que Dios también hizo uso de algunas figuras en el comienzo del día del evangelio,
 e incluso, inclinó sus corazones entonces para hacer uso de ellas.
 
+[.discourse-part]
 Objeción: El bautismo mencionado en la comisión en Mateo 28,
 no puede ser el bautismo del Espíritu porque debe
 ser administrado en el nombre del Espíritu.
 
+[.discourse-part]
 Respuesta:
-La palabra en griego no es '`en`' que significa "`en,`" sino '`eis`' que significa "`dentro.`"
+La palabra en griego no es _'`en`'_ que significa _"`en,`"_
+sino _'`eis`'_ que significa _"`dentro.`"_
 De manera que el bautismo ordenado aquí es bautizar dentro del nombre,
 dentro del nombre del Padre, dentro del nombre del Hijo, dentro del nombre del Espíritu,
 al volverlos de las tinieblas a la luz, del poder de Satanás a Dios.
@@ -369,10 +383,12 @@ y sin embargo, lo desdeñan,
 lo critican y lo persiguen en la aparición del mismo Espíritu, vida y poder,
 tal como aparece ahora en Sus santos.
 
+[.discourse-part]
 Pregunta: ¿Qué es lo que debe ser lavado en el estado del evangelio?
 ¿El hombre exterior o el interior?
 Y, ¿con qué se debe lavar el hombre interior?
 
+[.discourse-part]
 Respuesta: Consideren la siguiente escritura seriamente,
 y ojalá el Señor les dé el verdadero entendimiento:
 "`En aquel tiempo habrá manantial abierto para la
@@ -420,8 +436,10 @@ sino de Dios.`' Los judíos alababan a los circuncidados
 externamente y ustedes alaban a los bautizados externamente,
 pero Dios alaba a los circuncidados y lavados internamente.
 
+[.discourse-part]
 Objeción: Pero el bautismo del Espíritu es una promesa, no un deber.
 
+[.discourse-part]
 Respuesta: Que el bautismo del Espíritu es una promesa, lo concedo,
 pero también es un deber recibir la promesa y rendirse
 para ser bautizado por Él. Porque Juan dijo:
@@ -452,15 +470,18 @@ ni el bautismo de Juan (los cuales eran siervos),
 sino el Espíritu y poder de Su Padre,
 con los que Él circuncida y bautiza interna y espiritualmente.
 
-El Testimonio del Espíritu de Dios
+=== El Testimonio del Espíritu de Dios
 
-"`Señor, abre mis labios, y publicará mi boca tu alabanza.
+[quote.scripture, , Salmo 51:15-17]
+____
+Señor, abre mis labios, y publicará mi boca tu alabanza.
 Porque no quieres sacrificio, que yo lo daría; no quieres holocausto.
 Los sacrificios de Dios son el espíritu quebrantado;
-al corazón contrito y humillado no despreciarás tú, oh Dios.`"
-Salmo 51:15-17
+al corazón contrito y humillado no despreciarás tú, oh Dios.
+____
 
-Interrogante 1:
+[.discourse-part]
+__Interrogante 1:__
 ¿Qué regla tenía David de la ley de Moisés para decir que Dios no deseaba sacrificios,
 ni se deleitaba en los holocaustos?
 ¿Acaso no deseaba y requería Dios que Su pueblo realizara estas cosas estando bajo la ley?
@@ -471,14 +492,16 @@ cuando ellos las cumplían correctamente en fe y obediencia a Él?
 en verdad y a partir del verdadero Espíritu,
 que Dios no deseaba ni se deleitaba en esas cosas?
 
-Interrogante 2:
+[.discourse-part]
+__Interrogante 2:__
 ¿No debía probar David si el Espíritu que hablaba estas cosas en él era o no de Dios?
 ¿Debía él recibir de cualquier espíritu,
 un testimonio tan directamente contrario en apariencia a
 los anteriores testimonios de Dios en las Sagradas Escrituras,
 sin la plena y segura evidencia y demostración de que era el Espíritu de Dios?
 
-Interrogante 3: ¿Cómo debía probar David si ese Espíritu era o no de Dios?
+[.discourse-part]
+__Interrogante 3:__ ¿Cómo debía probar David si ese Espíritu era o no de Dios?
 ¿Debía probar si hablaba de acuerdo al testimonio y ley de Moisés,
 lo cual ciertamente era de Dios y fue dado por Dios como ley y
 gobierno a los judíos? Si David lo hubiera probado de esta manera,
@@ -499,7 +522,8 @@ era y no era aceptable a los ojos del Señor. Y así dice:
 aunque el lenguaje de la ley de Moisés habla de otra manera, donde la circuncisión,
 sacrificios y tales cosas externas se declaran como de gran valor para el Señor.
 
-Interrogante 4: Ahora bien,
+[.discourse-part]
+__Interrogante 4:__ Ahora bien,
 ¿acaso no puede decirle el mismo Espíritu (o los hijos de
 Dios en el mismo Espíritu) al Señor en nuestro día,
 con respecto a cosas de la misma naturaleza externa: '`Tú no deseas esas cosas externas,

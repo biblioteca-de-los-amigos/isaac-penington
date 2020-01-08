@@ -1,6 +1,6 @@
-== Capítulo 8 El Testimonio de la Verdad
+== Capítulo 8. El Testimonio de la Verdad
 
-Con Respecto a la Verdadera Iglesia y Ministerio
+=== Con Respecto a la Verdadera Iglesia y Ministerio
 
 Hay un gran ruido en el mundo acerca de la iglesia y el ministerio.
 Muchos afirman qué es, muchos dudan y preguntan sobre eso,
@@ -56,6 +56,7 @@ reciben poder de Él y permanecen y ministran en dicho poder.
 Por tanto, tres cosas se requieren de un verdadero ministro,
 sin las cuales no puede ser recto o ejecutar su oficio correctamente:
 
+[.numbered]
 1+++.+++ Deben ser llamados por Dios.
 El ministro bajo la ley estaba autorizado por su llamado y nombramiento de Dios.
 Cristo mismo no tomó el honor por Sí mismo,
@@ -63,6 +64,7 @@ sino que fue llamado por Dios para este sacerdocio, tal como Aarón lo fue para 
 Así también los apóstoles y ministros, en su declaración del evangelio,
 fueron llamados y nombrados por Cristo.
 
+[.numbered]
 2+++.+++ Deben recibir capacidad y poder de Dios.
 Los ancianos que debían ayudar a Moisés tenían que recibir de su Espíritu.
 Bajo la ley, los sacerdotes debían ser ungidos con aceite literal externo,
@@ -79,6 +81,7 @@ Sólo hasta que recibieron el Espíritu y poder,
 fueron hechos ministros competentes del nuevo pacto, no de la letra,
 sino del Espíritu y poder.
 
+[.numbered]
 3+++.+++ Deben permanecer en el poder, mantenerse en el poder, sentir el movimiento,
 virtud y asistencia del poder en toda su obra y servicio.
 No deben derribar, ni edificar,
@@ -120,11 +123,13 @@ y oír la voz de Dios en Su verdadero ministerio,
 primero debe tomar la cruz contra esa parte en él que no es de Dios,
 y recibir de Dios el ojo que ve y el oído que oye.
 
+[.discourse-part]
 Objeción: Se objeta contra nosotros, que esto que testificamos,
 expresamos y practicamos es un nuevo camino surgido últimamente,
 que no se había conocido,
 ni del que se había escuchado en el mundo hasta hace algunos años.
 
+[.discourse-part]
 Respuesta: Cuando la luz eterna resplandece de las tinieblas es, en efecto,
 nueva para los que estaban agobiados y sepultados en las tinieblas de la noche,
 y por tanto, nunca la habían visto, ni habían oído de ella antes.
@@ -207,7 +212,7 @@ ni de llorar por ustedes.
 Oh, ¿cuándo se van a volver?
 ¿Cuándo van a oír? ¿Cuándo van a esperar sentir la vida en el Espíritu?
 
-Una Palabra de Advertencia
+=== Una Palabra de Advertencia
 
 La siguiente es una advertencia para los que son
 tocados por el poder de la Verdad en algún momento,
@@ -288,13 +293,16 @@ esperen la demostración de Su Espíritu.
 Aprendan a distinguir internamente entre las enseñanzas de Su Espíritu
 y las enseñanzas de otro espíritu a partir de la letra.
 
+[.discourse-part]
 Pregunta: Pero, ¿cómo puedo yo, que soy débil y estoy lleno de dudas y temores,
 mantenerme en el sentido de la verdad y tener la certeza de que no soy engañado?
 
+[.discourse-part]
 Respuesta: Para ustedes,
 que se hacen esta pregunta en la rectitud y sencillez de sus corazones,
 tengo algo que decirles:
 
+[.numbered]
 1+++.+++ Consideren cómo fueron tocados, cómo fueron alcanzados;
 examinen cuál oído fue abierto en ustedes,
 y respiren al Señor que mantenga ese oído abierto en ustedes y el otro cerrado.
@@ -310,11 +318,13 @@ y lo que se levanta en ustedes contra la verdad?
 ¡Teman delante del Señor! ¡Vigilen y oren, para que cuando el tentador venga,
 no entren con él en la tentación y pierdan así su unión y crecimiento en lo que es invaluable!
 
+[.numbered]
 2+++.+++ Mantengan su ojo y corazón en el valor inapreciable de lo que sintieron.
 ¡Oh, recuerden cuán fresco, cuán cálido y cuán vivo era, cómo llegó, cómo venció,
 cómo derritió! El recuerdo de esto (aferrado en la mente) será una fortaleza
 contra las tentaciones y sutiles estratagemas del enemigo.
 
+[.numbered]
 3+++.+++ No se inmiscuyan en las cosas que el enemigo arroja en sus mentes.
 No consideren si son ciertas o no.
 El que considera una tentación (en muchos casos) la ha dejado entrar y ya está vencido.
@@ -328,6 +338,7 @@ y si corren más allá de su medida y buscan comprobar en
 sus mentes las cosas que están más allá de su alcance,
 con seguridad correrán hacia la trampa.
 
+[.numbered]
 4+++.+++ El discernimiento de estas cosas en el momento no sería de gran ventaja para ustedes,
 como podrían estar creyendo.
 ¿Por qué? Porque el enemigo tiene muchas tentaciones
@@ -343,6 +354,7 @@ y al permanecer ahí están fuera del alcance del enemigo.
 Pero al ser atraídos por el enemigo a considerar las cosas que están fuera de su alcance,
 se exponen a sus trampas.
 
+[.numbered]
 5+++.+++ Consideren lo que se les prohibió o lo que se les requirió,
 en el tiempo cuando sentían la calidez de Dios.
 Porque en la experiencia de la calidez de Dios,
@@ -371,6 +383,7 @@ sino que se complacieron en la injusticia y persistieron en el disfrute
 del espíritu del mundo (tanto en sí mismos como en los demás),
 cuando fueron llamados por el Señor a dejarlo y salir de él.
 
+[.numbered]
 6+++.+++ Esperen las renovaciones de vida y el verdadero entendimiento en ustedes,
 que vienen de Dios.
 Esperen otra visita, esperen otro toque y demostración de Su Espíritu.
@@ -474,8 +487,9 @@ en espíritu delante de la menor y más pequeña aparición de Jesús;
 delante del más bajo grado y medida de Aquel,
 cuya vida es Rey y Señor sobre la muerte para siempre.
 
-Una Objeción Contra la Luz
+=== Una Objeción Contra la Luz
 
+[.discourse-part]
 Objeción: Muchos creen, y en dicha creencia objetan contra nosotros,
 que lo que nosotros llamamos luz o semilla no es
 más que la consciencia natural del hombre.^
@@ -486,12 +500,13 @@ no era más que la consciencia natural.
 Sin embargo,
 los cuáqueros entendían la clara distinción que hay entre la consciencia
 natural (una facultad del alma creada) y la eterna luz de Cristo que brilla,
-convence y enseña desde dentro de la consciencia.
+convence y enseña desde __dentro de__ la consciencia.
 Para un trato exhaustivo de esta objeción,
 ver '`La Quinta y Sexta Proposición,`' sección 16,
-de Apología de la Verdadera Divinidad Cristiana, de Robert Barclay.
+de __Apología de la Verdadera Divinidad Cristiana__, de Robert Barclay.
 (Disponible a través de Quaker Heritage Press impreso y en línea).]
 
+[.discourse-part]
 Respuesta: Yo puedo admitir que lo que nosotros llamamos luz, en un sentido, es natural,
 pero no en el sentido que ellos piensan.
 La luz, en realidad, es una semilla de la naturaleza de Dios, de la naturaleza de Cristo,
@@ -519,12 +534,15 @@ Sí, podríamos decir mucho más con respecto a esta luz,
 pero su propio testimonio resuelve plenamente el asunto para total satisfacción del alma,
 donde quiera que este sea escuchado y sentido.
 
-Algunas Preguntas y Respuestas con Respecto al Nuevo Pacto,
+[.offset]
+*Algunas Preguntas y Respuestas con Respecto al Nuevo Pacto,*
 para exponer la naturaleza y forma de este,
 tal como es por experiencia sentido en el corazón y testificado en las Sagradas Escrituras.
 
+[.discourse-part]
 Pregunta: ¿Qué es el nuevo pacto?
 
+[.discourse-part]
 Respuesta: Es un nuevo acuerdo entre Dios y el alma,
 diferente del acuerdo anterior que había entre Dios y el
 pueblo de los judíos. Es un pacto precioso y glorioso,
@@ -550,17 +568,21 @@ En este pacto hay perdón de la iniquidad y olvido de los pecados,
 con la destrucción y desarraigo de lo que causaba el pecado,
 y la curación de la apostasía del alma.
 
+[.discourse-part]
 Pregunta: ¿Cómo es hecho este pacto con el alma?
 
+[.discourse-part]
 Respuesta: En Cristo, la Semilla; Él es todo en este pacto.
 Él es la luz del pacto, Él es la vida del pacto, Él es el poder del pacto,
 Él es la justicia y santificación del pacto.
 Al entrar en Él, el alma entra a este pacto, al permanecer en Él,
 el alma permanece en este pacto, al crecer en Él, el alma crece en este pacto.
 
+[.discourse-part]
 Pregunta: ¿Es este un pacto absolutamente gratis?
 O, ¿hay términos o condiciones que se requieren del alma en este?
 
+[.discourse-part]
 Respuesta: Es absolutamente gratis en su propia naturaleza.
 Viene del amor gratuito de Dios, contiene el amor gratuito de Dios,
 es ofrecido gratuitamente a todos los que se les ofrece,
@@ -575,11 +597,13 @@ en él. Las Escrituras testifican de esto abundantemente,
 junto con las experiencias de aquellos que conocen
 y sienten la naturaleza y virtud del pacto.
 
+[.discourse-part]
 Pregunta: ¿Qué se requiere en este pacto según las Escrituras,
 y según las experiencias de los que entran en él
 y cosechan los frutos y beneficios de este?
 
-Respuesta: 1. Se requiere que cuando el Señor llame, que cuando el Señor vivifique,
+[.discourse-part]
+__Respuesta: 1.__ Se requiere que cuando el Señor llame, que cuando el Señor vivifique,
 que cuando el Señor toque el corazón, abra el oído y dé la facultad y habilidad de oír,
 entonces sea oído diligentemente.
 El oído que Dios ha abierto debe ser mantenido abierto para Él,
@@ -600,6 +624,7 @@ donde se proclama el pacto gratuito, y sin embargo, hay algo que se requiere:
 Inclinad vuestro oído, y venid a mí; oíd, y vivirá vuestra alma;
 y haré con vosotros pacto eterno, las misericordias firmes a David.`"
 
+[.numbered]
 2+++.+++ Se requiere arrepentimiento;
 se requiere volverse de la naturaleza y espíritu viejos e inmundos y no tocarlos más,
 y asirse a eso que tiene poder contra estos y preserva de estos.
@@ -608,6 +633,7 @@ como también testifican los antiguos, según 2 Corintios 6:17-18,
 "`...y no toquéis lo inmundo; y yo os recibiré, y seré para vosotros por Padre,
 y vosotros me seréis hijos e hijas, dice el Señor Todopoderoso.`"
 
+[.numbered]
 3+++.+++ Se requiere fe, creer el testimonio de la verdad y recibir el bautismo del Espíritu.
 Aquel que quiera entrar en este pacto,
 debe creer el testimonio del evangelio (el registro de Dios con respecto
@@ -616,6 +642,7 @@ bautizado, renovado y cambiado por Él. El que hace esto será salvo,
 tal como lo prometió Cristo (Marcos 16). Y nadie será salvo de otra manera,
 como lo prometió Aquel que tiene el poder de la vida y de la salvación.
 
+[.numbered]
 4+++.+++ Se requiere obediencia al evangelio,
 sujeción a Cristo en el gobierno de Su Espíritu y guardar Sus mandamientos.
 Pues tal como el primer pacto requería la obediencia propia al mismo,
@@ -639,17 +666,21 @@ Sin embargo, les ordenó que permanecieran en Su amor y les dijo cómo debían h
 "`Si guardareis mis mandamientos, permaneceréis en mi amor;
 así como yo he guardado los mandamientos de mi Padre, y permanezco en su amor.`"
 
+[.discourse-part]
 Pregunta: Pero, ¿cómo podrá realizar el alma todas estas cosas?
 ¿Son demandadas al alma para que las realice en su propia fuerza,
 o se encarga Dios de realizarlas y obrarlas en ella?
 
+[.discourse-part]
 Respuesta: Absolutamente no en la fuerza,
 voluntad o sabiduría del alma (pues estas cosas están
 eternamente excluidas de este pacto),
 sino en la fuerza, vida y poder que fluyen de Dios en el pacto.
 
+[.discourse-part]
 Pregunta: Entonces, ¿cómo recibirá el alma esta fuerza, vida y poder?
 
+[.discourse-part]
 Respuesta: Abrazándolo conforme llega, asiéndose a ello, anhelándolo,
 llorando y esperándolo pacientemente.
 No despreciando lo pequeño, ni buscando más antes de que lo pequeño sea recibido,
@@ -684,8 +715,10 @@ y la hiciera apta para sus entendimientos, entonces la recibirían.`' No, no;
 ellos deben inclinarse ante Cristo, ante Su nombre, ante Su poder, Su voluntad,
 Su manera de manifestar Su verdad, porque Él no se inclinará ante los de ellos.
 
+[.discourse-part]
 Pregunta: ¿Cuáles son los pecados contra este pacto y qué efectos tienen?
 
+[.discourse-part]
 Respuesta:
 Los pecados contra el pacto son principalmente incredulidad
 en el poder y desobediencia a dicho poder,
@@ -696,9 +729,11 @@ al pacto de Moisés. El quebrantamiento del pacto aquí,
 es decir, el volverse de Dios (por causa de un corazón incrédulo),
 es más peligroso que el quebrantamiento al primer pacto.
 
+[.discourse-part]
 Pregunta: Pero, ¿puede ser quebrantado este pacto?
 ¿No se ha encargado Dios de todo en él?
 
+[.discourse-part]
 Respuesta: Este pacto es un acuerdo entre Dios y el alma,
 en el que le son requeridas cosas al alma,
 a través de la vida y fuerza que fluyen de este.
@@ -752,11 +787,13 @@ que Su poder se manifieste, y de este modo,
 los introduzca y preserve en Su pacto según Su buena voluntad.
 Amén.
 
+[.discourse-part]
 Pregunta: ¿Cuál es la casa de Israel y la de Judá,
 con quienes este nuevo pacto debe ser hecho?
 ¿Es el Israel y Judá según la carne, es decir, el Israel y Judá según el antiguo pacto,
 o según el nuevo pacto?
 
+[.discourse-part]
 Respuesta: Cuando el antiguo pacto pasó,
 el reconocimiento de Israel y Judá según la carne también pasó. El nuevo
 pacto está adaptado y hecho con el nuevo Israel y Judá. Así que ahora,
@@ -768,11 +805,13 @@ y levanta otra distinción interna en ambos,
 de modo que las promesas y bendiciones no son para uno u otro en el antiguo estado,
 sino para ambos conforme son reunidos y brotan en la nueva Semilla.
 
+[.discourse-part]
 Pregunta: ¿Es este pacto sin falta?
 ¿Repara los defectos que encontró Dios en el primer pacto?
 ¿Preserva este pacto de manera más firme en Él que el otro?
 ¿Acaso no es posible apostatar de él?
 
+[.discourse-part]
 Respuesta: Sí, es sin falta.
 Repara los defectos del otro.
 Preserva más firmemente en Dios.
@@ -792,9 +831,11 @@ Pero si algún hombre retrocede del Señor, de Su Espíritu,
 y regresa al camino de muerte con el otro espíritu,
 el alma del Señor no se agradará de él.
 
+[.discourse-part]
 Objeción: Entonces este pacto es como el primero,
 depende de la criatura y es tan defectuoso como lo era el otro.
 
+[.discourse-part]
 Respuesta: No, este pacto no depende de la criatura, sino del amor,
 misericordia y poder de Dios que no tienen límites en este pacto.
 Depende de la Semilla de Su vida,
@@ -835,8 +876,10 @@ y dentro de los límites del pacto,
 de la misma manera que el tentador está arrastrándolo a pecar contra el pacto,
 y por tanto, arrastrándolo a la muerte.
 
+[.discourse-part]
 Pregunta: ¿Qué promete hacer Dios por la nueva casa de Israel y Judá en este nuevo pacto?
 
+[.discourse-part]
 Respuesta: Promete poner Sus leyes en sus mentes y escribirlas en sus corazones.
 (¡Oh, feliz aquel que experimenta estas leyes, esta mente,
 este corazón y esta manera de escritura!) Él promete
@@ -847,16 +890,18 @@ Promete quitar lo que puede obstaculizar las cosas buenas del pacto,
 porque Él será misericordioso a sus injusticias y no se
 acordará nunca más de sus pecados ni iniquidades.
 
-La Razón del Mal Entendimiento de las Escrituras
+=== La Razón del Mal Entendimiento de las Escrituras
 
+[.discourse-part]
 Pregunta:
 ¿Cuál es el fundamento del mal entendimiento y tergiversación
 de las Escrituras por parte de los hombres?
 
+[.discourse-part]
 Respuesta:
-1+++.+++ La falta de familiaridad con el Espíritu de Dios
+__1+++.+++ La falta de familiaridad con el Espíritu de Dios
 y de la forma correcta de esperar en Él,
-para recibir el verdadero entendimiento de ellas.
+para recibir el verdadero entendimiento de ellas.__
 Es posible que los hombres vayan tan lejos como para saber y confesar
 que el Espíritu del Señor es el único que revela las cosas de Dios,
 y el único intérprete correcto de Sus propias palabras, y sin embargo,
@@ -876,17 +921,19 @@ de Dios y las del espíritu del enemigo en él,
 y así, (en la luz del Señor) saber cuando habla el Señor,
 y también cuando se esfuerza por hablar como el Señor el misterioso espíritu de engaño.
 
-2+++.+++ La falta de familiaridad con la verdad de Dios en el amor, vida y poder de esta.
+[.numbered]
+2+++.+++ __La falta de familiaridad con la verdad de Dios en el amor, vida y poder de esta.__
 Porque para el que conoce la verdad y ha recibido
 de Dios la cosa de la que hablan las Escrituras,
 ¡cuán fácil le resulta entender las palabras que hablan de dicha cosa!
 Pero aquel que tiene conocimiento de la cosa únicamente a partir de palabras,
 ¡cuán fácil le resulta malentender las palabras!
 
-3+++.+++ Las opiniones, entendimientos,
+[.numbered]
+3+++.+++ __Las opiniones, entendimientos,
 formas y prácticas que los hombres han adoptado en
 las tinieblas y con las que sus mentes están involucradas,
-son un gran obstáculo para la correcta comprensión de las Escrituras.
+son un gran obstáculo para la correcta comprensión de las Escrituras.__
 Porque ha habido un día nublado y oscuro, o una gran noche de tinieblas sobre la tierra,
 en donde la luz que conduce al reposo del alma no
 ha brillado claramente en los espíritus de los hombres.
@@ -899,21 +946,25 @@ algunos en una colina y otros en otra, diciendo:
 pues está contaminado,`" no pueden oír. ¿Por qué? Porque ya han
 creído lo contrario y piensan que han encontrado su reposo.
 
-Algunas Preguntas con Respecto al Engaño y a los Engañadores
+=== Algunas Preguntas con Respecto al Engaño y a los Engañadores
 
 En la verdad no hay engaño; los que están en la verdad están fuera del engaño,
 y al permanecer en ella, están fuera del alcance de los engañadores.
 Pero los que están fuera de la verdad ya están en el engaño,
 y día a día son más propensos a ser más engañados y a ayudar a engañar a otros.
 
+[.discourse-part]
 Pregunta: ¿Qué es el engaño y quiénes son los engañadores?
 
+[.discourse-part]
 Respuesta: Eso que parece la verdad, pero no lo es,
 es el engaño. Y aquellos que tienen apariencia de piedad, pero no tienen el Espíritu,
 vida y poder de esta, son los engañadores.
 
+[.discourse-part]
 Pregunta: ¿Quiénes son los más susceptibles al engaño?
 
+[.discourse-part]
 Respuesta: El simple, el despreocupado, el descuidado, el crédulo;
 los que no esperan en el Señor en la luz, poder y demostración de Su Espíritu.
 Estos (a través de buenas palabras,
@@ -921,26 +972,34 @@ discursos agradables y apariencia de las cosas) son
 fácilmente apartados de la verdad misma,
 y llevados a una semejanza o parecido de esta.
 
+[.discourse-part]
 Pregunta: ¿En qué tiempo ocurre el engaño?
 
+[.discourse-part]
 Respuesta: Durante la noche; durante el tiempo nublado y oscuro;
 cuando el enemigo ha levantado su bruma y neblina en las mentes de los hombres.
 Él engaña sus corazones durante este tiempo.
 
+[.discourse-part]
 Pregunta: Y ahora, ¿es de noche o de día?
 
+[.discourse-part]
 Respuesta: Es de noche para algunos y de día para otros.
 Donde se ha levantado la luz,
 ahí es de día. Donde la noche cubre y posee las mentes de los hombres, ahí es de noche.
 
+[.discourse-part]
 Pregunta: ¿Cómo puede saber un hombre si es de noche o de día para él?
 
+[.discourse-part]
 Respuesta: Cuando al esperar siente algo de la vida de Dios levantarse en él,
 se vuelve y escucha Su testimonio.
 
+[.discourse-part]
 Pregunta:
 ¿Cómo puede salir un hombre de la oscuridad de la noche a la luz y brillo del día?
 
+[.discourse-part]
 Respuesta:
 Uniéndose a los primeros destellos y brotes de la luz en
 él. La más pequeña luz de la verdad tiene la misma naturaleza,
@@ -962,8 +1021,10 @@ la luz brotará en ustedes más y más cada día,
 hasta que haya sacado sus espíritus de la negrura, oscuridad y engaño de la noche,
 y los haya reunido en la belleza, brillo y verdad del día.
 
+[.discourse-part]
 Pregunta: ¿Cómo puede ser guardado un hombre del engaño y de los engañadores?
 
+[.discourse-part]
 Respuesta: Al permanecer en eso que se lo revela y lo protege de ellos.
 Al morar en esa luz, en esa vida, en ese poder y en esa verdad, a la que no pueden entrar.
 Porque en Dios, en Su Semilla, en Su naturaleza, el maligno no puede encontrar nada,
@@ -973,13 +1034,14 @@ se sale de la luz, se sale de la Semilla, se sale del poder que preserva,
 se sale de la santa unción que mantiene el ojo abierto,
 y fácilmente tropieza y se enreda en el engaño de la injusticia.
 
-Una Pregunta con Respecto a los Milagros Respondidos
+=== Una Pregunta con Respecto a los Milagros Respondidos
 
+[.discourse-part]
 Pregunta: Si esta es una nueva dispensación de la vida y poder de Dios, es decir,
 de la predicación del evangelio eterno otra vez después de la apostasía,
 ¿por qué dicha predicación no es acompañada ahora con milagros externos,
 como lo fue anteriormente?
-Digo milagros externos, porque en realidad está acompañado con milagros internos.
+Digo milagros _externos,_ porque en realidad está acompañado con milagros internos.
 Pues el cojo que no podía poner un pie en el camino de vida, ahora camina;
 los ojos que estaban ciegos han sido abiertos, y ahora ven;
 los oídos que estaban sordos han sido destapados, y ahora oyen;
@@ -997,6 +1059,7 @@ espere en ellos, y sea hecho partícipe de la salud y salvación internas.
 Sin embargo, viendo que a Cristo le plació exponer Su poder externamente,
 con el fin de señalar y dar testimonio de lo interno, ¿por qué no lo hace ahora?
 
+[.discourse-part]
 Respuesta: Porque la naturaleza de la presente dispensación no lo requiere.
 Pues la presente dispensación de vida es,
 llevar a los hombres a la Semilla de Vida que está dentro de ellos (la
@@ -1064,7 +1127,7 @@ más allá de la satisfacción que los milagros pueden ofrecer.
 Él está fuera del estado y mente que piden una señal
 o que buscan confirmación por medio de una señal.
 
-Un Breve Comentario con Respecto a las Reuniones en Silencio
+=== Un Breve Comentario con Respecto a las Reuniones en Silencio
 
 Esto es un gran misterio que está escondido del ojo del hombre,
 que ha huido de la vida interior hacia las observaciones externas.

@@ -1,6 +1,6 @@
-== Capítulo 7 A los Judíos Según la Carne y Según el Espíritu
+== Capítulo 7. A los Judíos Según la Carne y Según el Espíritu
 
-Primero: A la Semilla de Abraham Según la Carne
+=== Primero: A la Semilla de Abraham Según la Carne
 
 ¡Oh, la gloria de tu estado externo,
 tú que eras el pueblo al que una vez Dios escogió y amó,
@@ -222,7 +222,8 @@ Ahora a ustedes judíos de la línea externa de Abraham,
 y por lo que he orado vehementemente al Señor),
 hay unas cuantas preguntas de peso en mi corazón:
 
-,`'Pregunta 1: ¿Cómo llegó a clamar David en pos del Dios vivo,
+[.discourse-part]
+__Pregunta 1:__ ¿Cómo llegó a clamar David en pos del Dios vivo,
 "`como el ciervo brama por las corrientes de las aguas`"? ¿Acaso
 no era por la virtud vivificante de esta Palabra interna,
 a la que Moisés, el hombre de Dios, había dirigido la mente?
@@ -234,7 +235,8 @@ el cual no es externo, transitorio, ni de una naturaleza perecedera, sino intern
 espiritual y eterno (como David bien lo sabía y habló conscientemente,
 ver Salmo 145 y otros lugares).
 
-Pregunta 2: ¿Cuáles son las aguas a las que toda alma sedienta está invitada?
+[.discourse-part]
+__Pregunta 2:__ ¿Cuáles son las aguas a las que toda alma sedienta está invitada?
 (Isaías 55) ¿Acaso no son las aguas del Mesías? ¿Acaso no son las aguas que fluyen de
 los pozos de salvación? (Isaías 12) ¿No tiene que sacar el Israel espiritual agua espiritual
 de los pozos del Salvador en los días del Mesías? ¿Qué es venir a estas aguas?
@@ -250,7 +252,8 @@ Líder y Comandante internamente en sus corazones,
 para que puedan ser preservados en el pacto y disfrutar las bendiciones del mismo.
 Vean Isaías 55.
 
-Pregunta 3: ¿No vino el Mesías en el tiempo establecido,
+[.discourse-part]
+__Pregunta 3:__ ¿No vino el Mesías en el tiempo establecido,
 en el tiempo establecido por el Espíritu Santo de profecía? ¿No
 vino en un cuerpo preparado para hacer la voluntad de Dios?
 ¿No hizo Él Su voluntad?
@@ -261,7 +264,8 @@ Y después de obedecer a Su Padre, ¿no fue cortado, aunque no por Sí mismo?
 ¡Considérenlo!
 Lean Daniel 9:24 hasta el final del capítulo, y que el que lea, entienda.
 
-Pregunta 4:
+[.discourse-part]
+__Pregunta 4:__
 ¿Cuál era esa maldición y sobre quien cayó? "`Que la mesa
 delante de ellos se convierta en lazo,`" etc.
 (Salmo 69) ¿No fue sobre los que le dieron a beber al Mesías hiel y vinagre,
@@ -275,13 +279,15 @@ por el amanecer del glorioso día del Mesías? Aquí existe un judaísmo,
 existe una circuncisión, existe un Día de reposo, existe un reposo, etc.,
 para el pueblo interno y espiritual, que permanecerán y nunca serán abolidos.
 
-Pregunta 5: ¿Cuál fue ese pueblo y nación con la que Dios los provocó a celos?
+[.discourse-part]
+__Pregunta 5:__ ¿Cuál fue ese pueblo y nación con la que Dios los provocó a celos?
 (Deuteronomio 32) ¿Acaso no fue el pueblo espiritual, la santa nación interna,
 el verdadero judío, a quien Dios tomó de entre los gentiles?
 ¿No fueron aquellos en quienes Él apareció y para quienes era Dios y Padre,
 cuando apartó y abandonó a los judíos externos y dejó que fueran desolados?
 
-Pregunta 6: ¿Quiénes son los que tendrán hambre cuando los siervos de Dios coman,
+[.discourse-part]
+__Pregunta 6:__ ¿Quiénes son los que tendrán hambre cuando los siervos de Dios coman,
 y sed cuando los siervos de Dios beban, y vergüenza cuando Sus siervos se regocijen?
 ¿No están las almas de ustedes hambrientas y sedientas por falta de sustento espiritual,
 con el que el Dios vivo satisface a Sus siervos en Su santa montaña interna?
@@ -297,7 +303,8 @@ Vean Isaías 66. Consideren, cómo durante todo su día Dios les extendió Sus m
 y ustedes fueron rebeldes y no quisieron oír. Pero ya ha llegado la noche sobre ustedes,
 y su visitación, como pueblo, hace mucho tiempo que terminó. Vean Lucas 19:44
 
-Pregunta 7: Ahora que el pueblo interno y el pacto interno, el nuevo pacto,
+[.discourse-part]
+__Pregunta 7:__ Ahora que el pueblo interno y el pacto interno, el nuevo pacto,
 han sido manifestados,
 ¿alguna vez serán ustedes reconocidos o considerados de nuevo como el pueblo externo,
 de acuerdo a su pacto externo?
@@ -318,10 +325,13 @@ y que el prolongado cautiverio externo y desolación
 puedan al fin terminar en libertad y redención interna!
 Amén.
 
-Segundo: A la Semilla Espiritual de Abraham
+=== Segundo: A la Semilla Espiritual de Abraham
 
-"`No será quitado el cetro de Judá, ni el legislador de entre sus pies,
-hasta que venga Siloh; y a él se congregarán los pueblos`"--Génesis 49:10.
+[quote.scripture, , Génesis. 49:10]
+____
+No será quitado el cetro de Judá, ni el legislador de entre sus pies,
+hasta que venga Siloh; y a él se congregarán los pueblos.
+____
 
 El anciano Jacob, en el espíritu de profecía, vio que Judá iba a tener el cetro,
 el poder real, y que no se iba a apartar de este,
@@ -348,8 +358,10 @@ y Su reino jamás será destruido.
 Su padre y reinará sobre la casa de Jacob para siempre,
 y Su reino no tendrá fin.
 
+[.discourse-part]
 Pregunta: Pero, ¿quiénes son las personas que '`se congregarán a Él`'?
 
+[.discourse-part]
 Respuesta:
 Las personas que oigan Su voz y vengan a Su llamado recibirán la instrucción de sabiduría,
 y sentirán la atracción del poder y de la virtud del Padre en el día de Su poder.
@@ -359,8 +371,10 @@ Todo el que es enseñado y aprende del Padre,
 viene al Hijo, viene al Mesías, viene a Siloh, a la Palabra eterna,
 a la Palabra de vida en el corazón.
 
+[.discourse-part]
 Pregunta: ¿Fueron excluidos entonces los judíos de esta congregación?
 
+[.discourse-part]
 Respuesta: No, ellos debían '`congregarse a Siloh,`' al igual que otros.
 En realidad, el Señor les tenía una especial consideración,
 pues el evangelio les fue predicado primero a ellos.
@@ -380,9 +394,11 @@ sino únicamente un remanente de la nación. Así que, cuando estos fueron reuni
 el resto fue desechado,
 la bandera fue llevada entre los gentiles y la gran reunión fue entre ellos.
 
+[.discourse-part]
 Pregunta:
 ¿Cómo es manifiesto que la gran '`congregación a Siloh`' iba a ser entre los gentiles?
 
+[.discourse-part]
 Respuesta: Por muchas expresas profecías de las Escrituras y promesas al Mesías,
 que declaran que Él debía tener a los gentiles por herencia
 y posesión. Cuando Dios estableció a Su rey,
@@ -555,7 +571,7 @@ o apagar lo que enciende la llama pura de amor y vida en nuestros corazones!
 ¡Cómo podría uno de Sus queridos y tiernos hijos estar dispuesto a afligirlo,
 manifestando descuido y desobediencia hacia El que nos da a beber del río de Su placer!
 
-Unas Palabras para Inglaterra, Mi País de Origen
+=== Unas Palabras para Inglaterra, Mi País de Origen
 
 ¡Oh, tierra de mi nacimiento! ¡Oh, mis queridos compatriotas!
 El poder puro del Señor está sobre mí y los manantiales de vida están abiertos en mí,
@@ -660,13 +676,15 @@ y la sentirán ser una raíz de vida, un tesoro de vida, un pozo de vida,
 del que el agua viva brotará para vida eterna en ustedes diariamente.
 Amén.
 
-La Verdadera Iglesia y Ministerio Bajo el Evangelio
+=== La Verdadera Iglesia y Ministerio Bajo el Evangelio
 
+[.discourse-part]
 Pregunta: ¿Cuál es la verdadera iglesia, o la iglesia del evangelio,
 o la iglesia de acuerdo al nuevo pacto?
 (Porque había un antiguo pacto y una iglesia de acuerdo a este, bajo la ley;
 y hay un nuevo pacto y una iglesia de acuerdo a este, bajo el evangelio).
 
+[.discourse-part]
 Respuesta: Para responder esto, vamos a indagar y a considerar qué es el nuevo pacto,
 y luego aflorará más fácilmente, qué es la iglesia de acuerdo al nuevo pacto.
 
@@ -711,10 +729,12 @@ Es la iglesia que tiene el arca interna (Apocalipsis 11:19), la presencia intern
 el maná interno, etc.,
 tal como la iglesia externa de los judíos tenía estas cosas externamente.
 
+[.discourse-part]
 Pregunta:
 ¿Cuál es el verdadero ministerio del evangelio y
 quiénes son los verdaderos ministros del evangelio?
 
+[.discourse-part]
 Respuesta: Son aquellos a quienes Cristo envía en el Espíritu y poder de Su Padre,
 a reunir y a edificar esta iglesia del nuevo pacto.
 A Cristo se le había entregado todo el poder en el
@@ -778,9 +798,11 @@ Sólo el Señor puede edificarlas por medio de la operación de este Espíritu y
 Y los que son verdaderos ministros del evangelio,
 deben esperar diariamente que este poder venga de Dios, para poder ministrar en él.
 
+[.discourse-part]
 Pregunta: ¿Cuál es la manutención de los ministros de Cristo,
 o cuál debe ser la manutención de los verdaderos ministros bajo el evangelio?
 
+[.discourse-part]
 Respuesta: Cristo, quien los ha enviado a ministrar en Su nombre, ha provisto para ellos;
 y los que son Sus verdaderos ministros están satisfechos con lo que Él les ha provisto.
 (Mateo 10:10) Estos son cuidadosos de no hacer que el evangelio,
@@ -791,7 +813,7 @@ alimentar a otros con el pan de vida de Él. No está interesado
 en lo que obtendrá de los hombres por hacerlo,
 porque dichos ministros no codician el oro, la plata, etc., del hombre.
 
-El Evangelio Eterno
+=== El Evangelio Eterno
 
 El bendito mensaje que los apóstoles (enviados por Cristo a predicar
 el evangelio) oyeron de Cristo y debían declarar a otros era:
