@@ -1,4 +1,4 @@
-== Capítulo 3 Una Defensa de la Verdad Santa y del Pueblo Santo de Dios
+== Capítulo 3. Una Defensa de la Verdad Santa y del Pueblo Santo de Dios
 
 Lo siguiente es la respuesta a los pasajes principales
 de una carta que recibí y que respondí,
@@ -8,9 +8,11 @@ sin haber quebrantado ninguna ley o dado razón de mi parte).
 Estoy comprometido en espíritu a dar una respuesta a esto,
 y a ofrecerles a otros lo que el Señor me ha dado.
 
+[.discourse-part]
 Objeción: Él objeta en su carta,
 que nosotros negamos la redención por la sangre de Cristo.
 
+[.discourse-part]
 Respuesta: ¡Oh! ¿Cómo justificará él esta acusación ante Dios?
 ¡Porque nadie reconoce tan correcta y plenamente
 la redención mediante la sangre de Cristo,
@@ -23,11 +25,13 @@ sangre en el pacto eterno y en la luz que es eterna,
 fuera de la cual, los hombres sólo tienen una idea de ella,
 pero no la experimentan o conocen verdaderamente.
 
+[.discourse-part]
 Objeción:
 Él alega que la justificación es un acto único de
 gracia que Dios pasa gratuitamente sobre el hombre,
 acto que lo declara justo.
 
+[.discourse-part]
 Respuesta: El que verdaderamente experimenta la salvación en Cristo Jesús,
 la experimenta como un acto continuo de gracia.
 La gracia aparece al alma, la gracia enseña, la gracia capacita,
@@ -48,8 +52,10 @@ canción en la tierra de santidad y redención:
 "`¡Oh, alaben al Señor!
 Porque Él es bueno y Su misericordia es para siempre!`"
 
+[.discourse-part]
 Objeción: Él pregunta: "`¿Esperan ustedes cumplir la ley mediante su obediencia?`"
 
+[.discourse-part]
 Respuesta: Nosotros no consideramos que la ley de Moisés, que fue dada al judío externo,
 sea la dispensación del nuevo pacto, o la ley del Espíritu de vida en Cristo Jesús. Pero,
 es cierto que la justicia de la ley es cumplida en aquellos que están en el nuevo pacto,
@@ -88,10 +94,12 @@ los que experimentan la desaparición de las cosas viejas y la nueva creación e
 ¡Oh, si él pudiera mirar y ver cómo ha torcido esas escrituras (Salmo 85:9-11;
 Isaías 4:2; Efesios 2:6) según sus propias imaginaciones!
 
+[.discourse-part]
 Objeción:
 Él alega que nosotros consideramos toda religión y profesión cristiana en el mundo,
 por debajo de nosotros y carnal.
 
+[.discourse-part]
 Respuesta: Ciertamente nosotros magnificamos la verdad, la vida, la unción,
 la aparición espiritual e interna de nuestro Señor Jesucristo,
 a la cual hemos sido vueltos.
@@ -114,6 +122,7 @@ en este día. ¡Gloria a Aquel que nos ha llamado y escogido,
 y nos ha hecho (en una verdadera y preciosa medida
 y grado de Su propia vida pura) fieles en esto!
 
+[.discourse-part]
 Objeción: Entonces él objeta como sigue:
 "`En lugar de palmearnos en la espalda y ministrarnos en nuestro viaje,
 ustedes obstruyen nuestra marcha y caen sobre nuestra retaguardia.
@@ -123,6 +132,7 @@ la esperanza de la segunda aparición y reino de Cristo,
 no admitiendo ningún otro Salvador o ningún otro reino,
 además de la Semilla o luz en ustedes mismos.`"
 
+[.discourse-part]
 Respuesta: "`Dios es luz, y no hay ningunas tinieblas en él`" (1 Juan 1:5);
 este es el mensaje del evangelio.
 Cristo, que es uno con el Padre,
@@ -173,8 +183,10 @@ también experimenta a Cristo dentro y sentado en Su trono.
 y vinieran a este reino, mediante la guía del Espíritu de Dios,
 donde la gloria es revelada.
 
+[.discourse-part]
 Objeción: Él dice que Cristo va a aparecer sin relación con el pecado para salvación.
 
+[.discourse-part]
 Respuesta: Se lo concedo,
 pero ¿cuándo y cómo? ¿No aparece Él internamente sin relación con el pecado para salvación,
 a los que han esperado, se han apresurado y llegado al día interior?
@@ -182,10 +194,12 @@ a los que han esperado, se han apresurado y llegado al día interior?
 en el día de Su propio Espíritu?
 ¿No es sacada a la luz la gloriosa salvación del evangelio en el día del evangelio?
 
+[.discourse-part]
 Objeción: Él añade, "`¿Están los logros de ustedes más allá de los de Pablo,
 quien encontró que en él (es decir, en su carne) no moraba el bien,
 y que el deseo de su carne era contra el Espíritu para que no pudiera hacer lo que quería?`"
 
+[.discourse-part]
 Respuesta: Por un tiempo Pablo experimentó dicho estado, en el que se sentía carnal,
 vendido al pecado.
 En ese estado él no encontraba cómo hacer lo que era bueno, sino lo que odiaba;
@@ -262,11 +276,13 @@ de modo que la abundancia no podía enaltecerlo,
 ni ninguna necesidad abatirlo o hacer que se quejara o desconfiara,
 ¿qué le hacía falta de ese estado perfecto?
 
+[.discourse-part]
 Objeción: Él afirma:
 "`De ustedes se han levantado hombres que han alzado audazmente
 el estándar contra las verdades selladas y experimentadas del evangelio,
 más que cualquier otro de los que yo haya leído u oído.`"
 
+[.discourse-part]
 Respuesta:
 Nosotros somos un pueblo (muchos de nosotros) que ha atravesado
 grandes angustias por falta del Señor nuestro Dios,
@@ -403,7 +419,7 @@ que están sin el Espíritu y vida de las Escrituras, no; nunca lo fueron,
 ni nunca serán reconocidos por Él.
 
 Venga y aprenda de Dios a distinguir por medio de Su vida, por Su unción,
-por la regla eterna e infalible, y no por palabras sin vida.
+por la regla eterna e infalible, y no por _palabras sin vida._
 Aquí es donde ha estado el gran error y la gran equivocación
 por todas las edades y generaciones.
 El gran engaño ha estado por mucho tiempo (y sigue estándolo),
@@ -421,12 +437,13 @@ las cuales imaginaron y concibieron a partir de las Escrituras,
 pero no juzgaron con el juicio verdadero y justo,
 el que sólo los hijos de la verdadera sabiduría pueden.
 
-El Amanecer del Día Espiritual
+=== El Amanecer del Día Espiritual
 
 Hay cuatro o cinco cosas muy preciosas que fueron generalmente
 experimentadas entre los verdaderos cristianos,
 en los días de los apóstoles, las cuales están mencionadas juntas en Hebreos 6:4-5.
 
+[.numbered.emphasized]
 Primera: Ellos fueron verdaderamente iluminados.
 
 Los ministros del evangelio fueron enviados por Cristo,
@@ -438,6 +455,7 @@ a la luz del Santo Espíritu de Dios.
 La iglesia fue iluminada por Él y recibió poder a través de Él,
 así llegaron a ser hijos de la luz y a caminar en la luz como Dios está en luz.
 
+[.numbered.emphasized]
 Segunda: Ellos gustaron del don celestial.
 
 ¿Cuál es el don celestial que Cristo les da a los
@@ -450,6 +468,7 @@ de la vida que fue manifestada en el cuerpo de carne de nuestro Señor Jesucrist
 (1 Juan 1:2) A los que se vuelven de las tinieblas a Su luz,
 Él les da a degustar la misma vida.
 
+[.numbered.emphasized]
 Tercera: Ellos fueron hechos partícipes del Espíritu Santo.
 
 El evangelio es el día en que la semilla espiritual brota,
@@ -459,12 +478,14 @@ Puesto que los verdaderos creyentes en Cristo son hijos,
 Dios envió al Espíritu de Su Hijo a los corazones de ellos para que clame: "`Abba,
 Padre.`"
 
+[.numbered.emphasized]
 Cuarta: Ellos gustaron de la buena Palabra de Dios.
 
 Es decir, de esa Palabra que estaba en el principio del mundo,
 la que es injertada en los corazones de los que verdaderamente creen;
 la Palabra capaz de salvar el alma.
 
+[.numbered.emphasized]
 Quinta: Ellos gustaron los poderes del siglo venidero.
 
 El poder de la vida indestructible, del que Cristo es Ministro,

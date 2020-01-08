@@ -1,13 +1,15 @@
-== Capítulo 6 Un Llamado al Verdadero Cristianismo
+== Capítulo 6. Un Llamado al Verdadero Cristianismo
 
 Somos un pueblo que Dios ha reunido,
 que largamente habíamos esperado Su aparición y sufrido
 grande aflicción por la falta de ella;
 al menos muchos de nosotros.
 
+[.discourse-part]
 Pregunta: Pero algunos preguntan,
 ¿qué aparición del gran Dios y Salvador les hacía falta a ustedes?
 
+[.discourse-part]
 Respuesta:
 Nos faltaba que la presencia y el poder de Su Espíritu
 fueran internamente manifestados en nuestros espíritus.
@@ -20,15 +22,19 @@ carecíamos del conocimiento del reino celestial y de la entrada a este,
 y del dominio y reinado santos del Señor de vida sobre la carne,
 el pecado y la muerte en nosotros.
 
+[.discourse-part]
 Pregunta: ¿Cómo les apareció Dios?
 
+[.discourse-part]
 Respuesta: El Sol de justicia se levantó en nosotros, la Aurora de lo alto,
 la Estrella de la mañana nos visitó a tal punto,
 que realmente vimos y sentimos la luz y el resplandor del día interior en nuestros espíritus,
 como alguna vez sentimos las tinieblas de la noche interior.
 
+[.discourse-part]
 Pregunta: ¿Cómo los reunió Dios?
 
+[.discourse-part]
 Respuesta: Mediante la voz de Su Hijo, por medio del brazo de Su Hijo,
 por la virtud de la luz y vida de Su Hijo internamente
 revelada y obrando en nuestros corazones.
@@ -214,10 +220,12 @@ Sin embargo, todavía era un velo y el misterio estaba detrás de ella,
 pero el ojo de vida mira el misterio a través del velo y lo atraviesa (por decirlo así),
 para que se pueda contemplar su gloria en el interior.
 
-El Camino de Paz
+=== El Camino de Paz
 
-"`Y no conocieron camino de paz.`"
-Romanos 3:17
+[quote.scripture]
+____
+Y no conocieron camino de paz. --Romanos 3:17
+____
 
 Hay un camino de paz, de verdadera paz con Dios,
 quien es adversario de todo lo que es impío e injusto.
@@ -249,10 +257,12 @@ tanto en apariencia externa como en su propia estimación,
 pero están sobre el mismo terreno que los gentiles,
 y no conocen más del camino de paz que los otros.
 
+[.discourse-part]
 Pregunta: Pero, ¿cuál es el camino de paz, que ni el profano,
 ni ningún tipo de profesante fuera de la vida y del poder,
 nunca conocieron ni pueden conocer?
 
+[.discourse-part]
 Respuesta: Es un camino interno, un camino para los judíos internos,
 en el que los internamente renovados y circuncidados caminan.
 Es un camino santo o santificado para que los santificados caminen.
@@ -290,7 +300,7 @@ están la vida y la paz, el reposo y el gozo para siempre.
 ¡Qué el Señor en Su tierna misericordia les dé a los hombres un sentido de esto,
 y guíe a los hombres a esto más y más! Amén.
 
-El Fin de Todo
+=== El Fin de Todo
 
 Hay un nacimiento que no nace de carne, ni de voluntad de carne,
 ni de voluntad de hombre, sino de Dios.
@@ -387,7 +397,7 @@ más eficaz y operativa (internamente purificadora, santificadora, sí,
 y justificadora también) de lo que nadie sabe,
 sino aquellos que han nacido de Dios y son mantenidos vivos por Él.
 
-Los Hechos y Sufrimientos del Pueblo Despreciado Llamado Cuáqueros
+=== Los Hechos y Sufrimientos del Pueblo Despreciado Llamado Cuáqueros
 
 Primero,
 muchos consideran que los actos de ellos provienen de un
@@ -487,7 +497,7 @@ sino experimenten y sean testigos del nuevo corazón, del corazón limpio,
 del corazón puro, en el que Dios mora, sí,
 y experimenten el ojo que ve Al que es invisible!
 
-Un Llamado al Verdadero Cristianismo
+=== Un Llamado al Verdadero Cristianismo
 
 Es fácil profesar a Cristo, pero ser un verdadero cristiano es algo muy precioso,
 y muchas tribulaciones y profundas aflicciones se deben atravesar antes de alcanzarlo.

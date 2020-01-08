@@ -1,11 +1,13 @@
-== Capítulo 9 La Vida e Inmortalidad Sacadas a la Luz Por el Evangelio
+== Capítulo 9. La Vida e Inmortalidad Sacadas a la Luz Por el Evangelio
 
-Dos Preguntas con Respecto a la Enseñanza de Dios
+=== Dos Preguntas con Respecto a la Enseñanza de Dios
 
+[.discourse-part]
 Pregunta: ¿Cuál es la razón por la que otros no pueden aprender,
 ni sujetarse a las mismas verdades espirituales que Dios nos manifiesta a nosotros,
 y a las que sujeta nuestros espíritus?
 
+[.discourse-part]
 Respuesta:
 La razón es porque no aprenden de la misma manera que Dios nos enseña a nosotros.
 Y así,
@@ -14,8 +16,10 @@ aprendizaje, etc., y que estudien duro para saber más,
 no entran en la forma correcta en la que el Espíritu de Dios enseña,
 y nunca llegan a aprender la verdad.
 
+[.discourse-part]
 Pregunta: ¿Cuál es la manera por la que Dios les enseña a ustedes?
 
+[.discourse-part]
 Respuesta: Esta es la manera por la que Dios nos enseña:
 Nos da un entendimiento para conocer Al que es verdadero,
 y abre un oído en nosotros para que oigamos Su voz.
@@ -89,11 +93,13 @@ coman abundantemente de las grosuras de Su casa, beban de los ríos de Su placer
 y no deambulen de arriba para abajo en sus propios pensamientos,
 entendimientos y conceptos estériles sobre las Escrituras!
 
-La Triple Aparición de Cristo
+=== La Triple Aparición de Cristo
 
+[.offset]
 A saber: Bajo la Ley, en el Cuerpo de Carne, en Su Espíritu y Poder
 
-1+++.+++ Su aparición bajo la ley.
+[.numbered]
+1+++.+++ _Su aparición bajo la ley._
 Cristo apareció varias veces bajo la ley.
 Algunas veces lo hizo como un ángel, en otras a semejanza de un hombre (como a Abraham,
 Jacob, Moisés, Josué, etc.). También,
@@ -242,11 +248,12 @@ sal, el Espíritu, las frescas respiraciones de vida, inocencia, mansedumbre, te
 celo, fe, amor, etc.,
 que producen la más placentera fragancia en la nariz del Señor. ¡Oh,
 cuán precioso es leer las figuras de las cosas celestiales con verdadero
-entendimiento! ¡Pero leer a través de las figuras (con el ojo de vida,
+entendimiento! ¡Pero leer _a través de_ las figuras (con el ojo de vida,
 con el ojo del Espíritu) la sustancia invisible, esto es en verdad, dulce,
 precioso y celestial!
 
-2+++.+++ Su aparición en el cuerpo de carne.
+[.numbered]
+2+++.+++ _Su aparición en el cuerpo de carne._
 Cuando el tiempo de las sombras se acercó al final y la plenitud del tiempo llegó,
 Aquel que había aparecido en diversos tipos y sombras vino del Padre,
 se despojó a Sí mismo, y se vistió a semejanza de hombre al participar de carne y sangre.
@@ -278,7 +285,8 @@ a la derecha de la Majestad en las alturas,
 tras ser exaltado por encima de todos los principados, potestades y dominios,
 tanto de este mundo como del mundo por venir.
 
-3+++.+++ Su aparición en el Espíritu.
+[.numbered]
+3+++.+++ _Su aparición en el Espíritu._
 La tercera aparición de Cristo, fue Su aparición en el Espíritu, es decir,
 Su aparición pura, interna y celestial en los corazones de Sus hijos,
 a la que las dos apariciones externas le dieron paso.
@@ -324,7 +332,7 @@ se adentraron en una mente altiva y no guardaron su posición en la fe,
 amor y obediencia de la verdad,
 sino que sostuvieron una apariencia de piedad fuera del poder.
 
-Con Respecto al Monte Sinaí y al Monte Sión
+=== Con Respecto al Monte Sinaí y al Monte Sión
 
 ¿No era Sinaí la montaña que podía ser tocada, una montaña terrenal,
 de la que vino la administración de la ley externa, o letra, que condujo a esclavitud,
@@ -422,7 +430,7 @@ ha creado a Jerusalén alegría y a su pueblo gozo,
 y ellos se alegrarán y regocijarán en Él por los siglos de los siglos.
 Amén.
 
-El Templo y los Sacrificios Bajo el Evangelio
+=== El Templo y los Sacrificios Bajo el Evangelio
 
 El templo de Dios bajo el evangelio es la luz de Su Hijo, el Espíritu de Su Hijo,
 las almas de los que son renovados y edificados como
@@ -479,7 +487,7 @@ Efesios 2:21-22; Hebreos 3:6; Apocalipsis 21:22; Juan 4:23; Salmo 90:1. Luego,
 para los sacrificios, Salmo 1:14-15; 51:16-17; 141:2; Malaquías 1:11; Hebreos 10:8-9;
 Romanos 12:1; 1 Corintios 6:19-20; 1 Pedro 2:5; Hebreos 13:15; Filipenses 4:18.
 
-Con Respecto a la Elección de Dios
+=== Con Respecto a la Elección de Dios
 
 Bien, con respecto a la elección de Dios, observen:
 que es en Cristo y no fuera de Él. Pues la intención de Dios fue honrar a Su Hijo,
@@ -578,13 +586,17 @@ Ya que la luz del sol del día eterno de Dios y el sonido de Su Espíritu,
 verdaderamente visitan al hombre en tinieblas, se extienden por toda la tierra,
 y Su voz alcanza hasta los confines del mundo.
 
+[.discourse-part]
 Pregunta: ¿Cómo puede un hombre asegurar su llamado y elección?
 
+[.discourse-part]
 Respuesta: Asegurando a Cristo en él, Aquel en donde están el llamado y la elección;
 porque el Señor escoge sólo en Él, y rechaza o reprueba sólo fuera de Él.
 
+[.discourse-part]
 Pregunta: ¿Cómo puedo asegurar a Cristo para mí?
 
+[.discourse-part]
 Respuesta: Recibiéndolo, rindiéndote a Él, separándote de todo por Él,
 esperando en Él en el camino y la senda de vida,
 hasta que sientas quebrantado en ti ese poder que te separaba de Él. Porque entonces,
@@ -640,18 +652,20 @@ Pues el conocimiento que Dios le ha dado a Su pueblo,
 está por encima de todo conocimiento que pueda ser escudriñado,
 reunido o comprendido por todos los hombres sobre la tierra.
 
-Una Breve Explicación del Misterio de los Seis Días de Trabajo y del Séptimo Día,
-el Día de Reposo
+=== Una Breve Explicación del Misterio de los Seis Días de Trabajo y del Séptimo Día, el Día de Reposo
 
 Para que lo contemplen aquellos cuyos ojos han sido abiertos por la Unción pura,
 y no están tan sumergidos en sus conceptos y razonamientos
 acerca del entendimiento de la letra,
 como lo están la mayoría de los profesantes de esta era.
 
-"`Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar.
+[quote.scripture, , Mateo 11:28-30]
+____
+Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar.
 Llevad mi yugo sobre vosotros, y aprended de mí, que soy manso y humilde de corazón;
 y hallaréis descanso para vuestras almas; porque mi yugo es fácil,
-y ligera mi carga`" Mateo 11:28-30.
+y ligera mi carga.
+____
 
 Al que escucha el alegre sonido del poder vivo llamándolo
 por medio de la voz de Su luz eterna,

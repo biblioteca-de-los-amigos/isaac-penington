@@ -1,8 +1,10 @@
-== Capítulo I Conocimiento Espiritual
+== Capítulo I. Conocimiento Espiritual
 
-Y esta es la vida eterna: que te conozcan a ti, el único Dios verdadero, y a Jesucristo,
-a quien has enviado.
-Juan 17:3
+[quote.scripture, , Juan 17:3]
+____
+Y esta es la vida eterna: que te conozcan a ti, el único Dios verdadero,
+y a Jesucristo, a quien has enviado.
+____
 
 Yo busqué y viajé (desde mi infancia) en pos del
 verdadero conocimiento de Dios y de Su Cristo,
@@ -71,7 +73,7 @@ y donde el fruto de la plantación de Dios (el vino del reino) es bebido; es dec
 bebido de nuevo en el reino con el Padre y el Hijo en el Espíritu,
 quienes son Uno y todo ahí.
 
-Una Pregunta a los Profesantes del Cristianismo
+=== Una Pregunta a los Profesantes del Cristianismo
 
 La pregunta no es si ellos conocen lo que se dice de Cristo en las Escrituras,
 sino si lo conocen salvadoramente, verdaderamente, vívidamente y poderosamente.
@@ -99,7 +101,7 @@ el Santo de Dios,`" así ha usado para su beneficio
 Él no se opone a esta aparición externa, ni al conocimiento de los hombres,
 ni al entendimiento de las Escrituras que los confirman en este.
 Pero del conocimiento salvador, del conocimiento verdadero, del conocimiento vivo,
-del poderoso conocimiento de la verdad, a ese se opone siempre,
+del poderoso conocimiento de la verdad, __a ese__ se opone siempre,
 pues es el único que revierte y destruye su reinado
 en el hombre y lo saca de su alcance.
 
@@ -235,7 +237,7 @@ para que nazcan de la verdad,
 la conozcan y la reciban como está en Jesús y como
 es sentida en el Espíritu y en su propio poder puro!
 
-Cristo Conocido Externamente e Internamente
+=== Cristo Conocido Externamente e Internamente
 
 Ahora, un poco más,
 para quitar los escrúpulos y prejuicios de las mentes de aquellos
@@ -254,12 +256,14 @@ que ellos enseñaban a Cristo sólo como una vida interior
 o una luz que obraba en el corazón,
 pero negaban o rechazaban la obra externa de Cristo consumada en Su cuerpo natural.)]
 
+[.numbered]
 1+++.+++ Nosotros efectivamente reconocemos que la Palabra de Dios (el
 unigénito del Padre) tomó un cuerpo de carne de la virgen María;
 Él era de la simiente de David, según las Escrituras,
 e hizo la voluntad del Padre en dicho cuerpo,
 en obediencia santa a Él tanto en la vida como en la muerte.
 
+[.numbered]
 2+++.+++ Que Él ofreció la carne y la sangre de ese cuerpo (aunque no sólo eso,
 porque también derramó Su alma, derramó Su vida) como sacrificio u ofrenda por el pecado,
 un sacrificio para el Padre, y en él gustó la muerte por todos los hombres.
@@ -268,6 +272,7 @@ que los pecados de los creyentes son perdonados,
 para que Dios pueda ser el justo y el justificador del que cree en Jesús,
 o es de la fe de Jesús.
 
+[.numbered]
 3+++.+++ Nosotros reconocemos lo que es atribuido al cuerpo de Cristo en su debido lugar,
 según lo que las Escrituras le atribuyen,
 lo cual es a través y por causa de eso que habitaba y actuaba en este,
@@ -414,7 +419,7 @@ Fue necesario que lo tomara sólo para cumplir la voluntad de Dios en dicho cuer
 y para que lo ofreciera como sacrificio en Su propia vida y Espíritu al Padre.
 ¡Esto lo creemos firmemente!
 Y sin embargo, no podemos dejar de añadir, que la virtud, el valor, el mérito,
-la excelencia de lo que fue hecho por Él en el cuerpo no fue del cuerpo,
+la excelencia de lo que fue hecho por Él __en__ el cuerpo no fue __del__ cuerpo,
 sino que estaba en Él antes del tiempo, en el tiempo,
 y estará después del tiempo y para siempre.
 Sí, es Él a quien correctamente le pertenecen el nombre Jesús y Cristo,
@@ -441,7 +446,7 @@ De esta manera se exponen y se colocan bajo el juicio justo de la verdad misma, 
 la del Hijo y la de la luz de Su día,
 la cual tiene poder del Padre para juzgar toda falsa apariencia, engaño y engañador.
 
-Rechazando la Aparición Interna de Cristo
+=== Rechazando la Aparición Interna de Cristo
 
 Le ha placido al Señor,
 que así como manifestó a Su Cristo gloriosamente antes de la apostasía,
@@ -573,7 +578,7 @@ Isaac y Jacob en el reino que no puede ser sacudido.
 Este reino fue recibido por los cristianos anteriormente
 (antes de la apostasía) y ahora es recibido otra vez.
 
-El Cristo Que Murió en Jerusalén
+=== El Cristo Que Murió en Jerusalén
 
 Nosotros, los comúnmente llamados Cuáqueros,
 somos un pueblo a quien el Señor ha sacado del estado errante, de muchas profesiones,
@@ -600,14 +605,16 @@ profesándolo sólo en palabras, pero negándolo en realidad y sustancia.
 Para aclarar este asunto,
 nosotros hemos solemnemente profesado ante los ojos del Señor Dios, estas dos cosas:
 
-Primero,
+[.numbered]
+__Primero,__
 que nosotros realmente reconocemos en nuestros corazones
 a ese Cristo que vino en el cumplimiento del tiempo,
 en ese cuerpo preparado, para hacer la voluntad del Padre (Su venida al mundo, doctrina,
 milagros, sufrimientos, muerte, resurrección, etc.),
 tal como está expresado en la letra de las Escrituras.
 
-Segundo, que no reconocemos a otro Cristo más que a ese,
+[.numbered]
+__Segundo,__ que no reconocemos a otro Cristo más que a ese,
 ni predicamos ninguna otra cosa como el Cristo,
 además de Aquel que apareció entonces y se manifestó en carne.
 
@@ -695,7 +702,7 @@ pero no satisface al alma que ha nacido según el Espíritu,
 la cual sigue clamando (donde el alma está despierta) tras la verdad, sustancia,
 vida y virtud que provienen del Espíritu de Dios.
 
-Un Guía Fiel en el Camino de la Verdad
+=== Un Guía Fiel en el Camino de la Verdad
 
 Algo debe descender de Dios al corazón del hombre
 para que cambie su corazón y lo redima para Dios,
@@ -710,8 +717,10 @@ para Dios y rompe el poder del maligno en el corazón,
 primero expulsándolo,
 y luego tomando posesión de la vasija y llenándola del tesoro santo.
 
+[.discourse-part]
 Pregunta: Pero, ¿cómo puede un hombre encontrarse con algo así?
 
+[.discourse-part]
 Respuesta: La Escritura, que da un testimonio fiel acerca de la verdad, dice que Cristo,
 la Palabra de fe que los apóstoles predicaron, está cerca.
 Por tanto, un hombre no necesita decir: "`¿Quién subirá o bajará para traerla?`"
@@ -719,8 +728,10 @@ Porque, "`Cerca de ti está la palabra,
 en tu boca y en tu corazón.`" Esta es esa Palabra que reconcilia con Dios,
 que corta y mata la enemistad mediante el poder de la cruz y levanta la Semilla.
 
+[.discourse-part]
 Pregunta: Pero, ¿cómo la conoceré y la recibiré?
 
+[.discourse-part]
 Respuesta: Hay una Semilla dada al corazón que es contraria al pecado,
 que descubre el pecado, que testifica contra el pecado y que aleja la mente de él,
 y que equipa con una habilidad nueva y santa a los que esperan en el Señor en ella.
@@ -762,9 +773,11 @@ Este es el camino de la vida en breve,
 y feliz aquel que experimenta Al que lo guía en este y fielmente Lo sigue hasta el final.
 Pero hay otra pregunta que brota en mi corazón que dice:
 
+[.discourse-part]
 Pregunta:
 ¿Cómo puede un hombre llegar a tener sus pecados lavados por la sangre de Cristo?
 
+[.discourse-part]
 Respuesta: Al entrar en la luz y caminar en la luz que descubre la sangre,
 el único lugar donde es rociada por Dios y sentida por el alma,
 él puede recibir la limpieza que es por medio de ella.
@@ -785,8 +798,10 @@ Padre y con Su Hijo Jesucristo y tendrán comunión con ellos,
 y serán lavados (tanto con agua como con sangre)
 y guardados limpios y puros ante los ojos de Dios.
 
+[.discourse-part]
 Pregunta: Pero, ¿cómo llego a entrar en la luz y cómo puedo caminar en ella?
 
+[.discourse-part]
 Respuesta: Cristo es la luz.
 Él es la luz del mundo, la luz de los hombres, la luz de la vida.
 Ustedes no necesitan decir en sus corazones:
@@ -873,9 +888,11 @@ para que ustedes que desean ser del Señor puedan
 recibir ayuda y fuerza de Él para ser fieles,
 para que en Su fuerza puedan vencer todo lo que se interpone entre ustedes y la vida.
 
-Algunas afirmaciones Con Respecto a la Semilla y al Camino de la Vida
+=== Algunas afirmaciones Con Respecto a la Semilla y al Camino de la Vida
 
-=== 1. Que es una tarea grande y difícil llegar a la capacidad de conocer y recibir la verdad.
+[.numbered.emphasized]
+1+++.+++ Que es una tarea grande y difícil llegar a la capacidad
+de conocer y recibir la verdad.
 
 No es cosa difícil tomar cualquier religión que el hombre encuentre en el mundo.
 Leer las Escrituras y creer lo que está relatado ahí (según
@@ -888,7 +905,10 @@ puede llegar hasta aquí. Pero nada de esto administra
 la verdadera capacidad de conocer y recibir la verdad,
 y aquel que desee encontrarla deberá ir más allá de esto.
 
-=== 2. Que lo que da la verdadera capacidad es la Semilla de vida que proviene de Dios, únicamente ahí y en ningún otro lugar, el hombre puede encontrarla y recibir la verdad.
+[.numbered.emphasized]
+2+++.+++ Que lo que da la verdadera capacidad es la Semilla de vida que proviene de Dios,
+únicamente ahí y en ningún otro lugar,
+el hombre puede encontrarla y recibir la verdad.
 
 Esta semilla es la Semilla del reino, o la levadura celestial,
 con la que la mente debe ser en alguna medida leudada,
@@ -896,7 +916,8 @@ antes de que pueda llegar a la verdadera capacidad de entendimiento y recibir la
 En esta levadura debe permanecer y crecer,
 si quiere permanecer y crecer en el verdadero conocimiento.
 
-=== 3. Que de esa Semilla y en esa Semilla son dadas todas las cosas.
+[.numbered.emphasized]
+3+++.+++ Que de esa Semilla y en esa Semilla son dadas todas las cosas.
 
 No sólo son dados y recibidos la verdadera luz y
 conocimiento del Señor Jesucristo en esta Semilla,
@@ -905,7 +926,8 @@ la verdadera justificación, la verdadera paz, el verdadero gozo, etc.
 Y lo que no se reciba ni se sostenga aquí, no es de la verdad,
 sino una prenda de la propia formación del hombre y no la cubierta del Espíritu.
 
-=== 4. Que el Espíritu mismo siembra esta Semilla y es recibido en esta Semilla.
+[.numbered.emphasized]
+4+++.+++ Que el Espíritu mismo siembra esta Semilla y es recibido en esta Semilla.
 
 El que recibe esta Semilla y nace de esta Semilla, recibe y nace del Espíritu.
 El que no la recibe ni nace de ella, tampoco ha recibido ni ha nacido del Espíritu,
@@ -913,7 +935,8 @@ sino que permanece en la imaginación y arrogancia
 acerca de las cosas de Dios y no está en la verdad,
 según está en Jesús.
 
-=== 5. Que en esta Semilla es hecho el nuevo pacto con el alma y se entra en él.
+[.numbered.emphasized]
+5+++.+++ Que en esta Semilla es hecho el nuevo pacto con el alma y se entra en él.
 
 El que recibe esta Semilla de la mano de Dios,
 recibe la vida y entra en el pacto de vida,
@@ -933,7 +956,9 @@ puede decir como Cristo dijo (por el mismo poder y Espíritu de Cristo que obra 
 mi gran deleite.
 En verdad, tu ley está escrita en medio de mi corazón!`"
 
-=== 6. Que entre aquellos que son reunidos en esta Semilla y permanecen en la experiencia, luz y vida de dicha Semilla, hay gran amor y unidad.
+[.numbered.emphasized]
+6+++.+++ Que entre aquellos que son reunidos en esta Semilla y permanecen en la experiencia,
+luz y vida de dicha Semilla, hay gran amor y unidad.
 
 Ellos son de una mente, un corazón, un alma, un espíritu, una vida,
 reunidos en una demostración de la verdad.
@@ -943,7 +968,10 @@ en las profesiones y andanzas terrenales,
 pero está excluido de la Semilla de verdad y de aquellos
 que están reunidos y permanecen en ella.
 
-=== 7. Que todos los que no están reunidos en esta Semilla, ni caminan o viven en ella, todavía están en las tinieblas y se apartan del poder puro de Dios.
+[.numbered.emphasized]
+7+++.+++ Que todos los que no están reunidos en esta Semilla,
+ni caminan o viven en ella,
+todavía están en las tinieblas y se apartan del poder puro de Dios.
 
 Estos se paran y caminan en lugares resbalosos, y aunque su camino pueda parecer recto,
 y su estado y condición seguros (con respecto a Dios) ante sus propios ojos y juicio,
@@ -959,7 +987,9 @@ sólo aquello que es verdad tendrá la gloria y alabanza de ser considerado así
 ¿qué será de esos que confundieron la verdad y no están vestidos con la
 vestidura pura de boda (la vida y justicia sin mancha del Hijo)?
 
-=== 8. Que para los que ven en la luz de esta Semilla, es descubierta la montaña de la casa del Señor.
+[.numbered.emphasized]
+8+++.+++ Que para los que ven en la luz de esta Semilla,
+es descubierta la montaña de la casa del Señor.
 
 Los que permanecen y crecen en la montaña de la casa del Señor,
 la conocen y la experimentan establecida por encima de todas
@@ -976,7 +1006,10 @@ en lo cual se alimentan con el alma y le dan al alma
 favor y habilidad para alimentarse con Ellos.
 Porque en esta comida está la vida, fuerza, justicia y gozo del reino dado y recibido.
 
-=== 9. Que es esta misma Semilla en el corazón la que descubre la iniquidad, la reprende, testifica contra ella y lucha con la mente para volverla de ella y para esperar la vida y el poder que vienen de lo alto.
+[.numbered.emphasized]
+9+++.+++ Que es esta misma Semilla en el corazón la que descubre la iniquidad,
+la reprende, testifica contra ella y lucha con la mente para volverla de ella
+y para esperar la vida y el poder que vienen de lo alto.
 
 En esa Semilla está la naturaleza divina, es decir, la naturaleza del Espíritu de Dios,
 la que siempre ha estado contra el pecado y siempre lo estará.
@@ -994,7 +1027,9 @@ De modo que, esto es lo principal en la religión:
 Conocer a Cristo revelado en el alma como el estandarte contra la corrupción,
 y ser reunido bajo Su bandera, la cual es la cruz.
 
-=== 10. Que el modo verdadero y cierto del conocimiento de las cosas de Dios, está en la fe y obediencia a esta Semilla.
+[.numbered.emphasized]
+10+++.+++ Que el modo verdadero y cierto del conocimiento de las cosas de Dios,
+está en la fe y obediencia a esta Semilla.
 
 No es mediante el razonamiento y la consideración de las
 cosas en la mente (según la manera de los hombres),

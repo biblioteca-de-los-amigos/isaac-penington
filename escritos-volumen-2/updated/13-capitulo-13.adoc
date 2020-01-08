@@ -1,6 +1,6 @@
-== Capítulo 13 Las Enseñanzas de Dios y la Ley de Cristo
+== Capítulo 13. Las Enseñanzas de Dios y la Ley de Cristo
 
-Prefacio
+=== Prefacio
 
 Cristo, quien vino del Padre y conocía el camino de la verdad y vida eterna,
 y debía guiar a los hombres al Padre (al ser el único camino a Él),
@@ -54,7 +54,7 @@ Este, lectores, es el objetivo de mi declaración de las cosas que siguen,
 no sólo para que tengan conceptos acerca de estas, sino para que puedan, en verdad,
 llegar a ser partícipes de la cosa misma.
 
-Con Respecto a las Enseñanzas de Dios
+=== Con Respecto a las Enseñanzas de Dios
 
 Cristo dijo: "`Escrito está en los profetas: Y serán todos enseñados por Dios.
 Así que, todo aquel que oyó al Padre, y aprendió de él,
@@ -190,10 +190,10 @@ los hombres necesariamente deben perecer.
 No puede ser de otra manera, pues sólo el verdadero conocimiento salva, y por lo tanto,
 los que no lo tienen deben perecer.
 
-Con Respecto a la Ley de Cristo
+=== Con Respecto a la Ley de Cristo
 
-"`Y las costas esperarán su ley.`"
-Isaías 42:4.
+[.offset]
+__"`Y las costas esperarán su ley.`"__ --Isaías 42:4
 
 ¿Cuál es esa ley que las costas debían y deben esperar?
 ¿No es la gracia y la verdad que vienen por medio de Jesucristo, es decir,
@@ -254,11 +254,13 @@ pero después brilla más y más fuera de las tinieblas (según se cree, se reci
 se obedece y se camina en ella) hasta que el día es perfecto.
 (Ver Proverbios 4:18-19)
 
+[.discourse-part]
 Pregunta: ¿Pero cómo puedo esperar, llegar a conocer y recibir esta ley?
 Yo no pertenezco a los judíos naturales, sino a las costas de los gentiles.
 ¿Cómo puedo encontrar y recibir la ley de vida que viene de Cristo,
 o la gracia y verdad que vienen por medio de Él?
 
+[.discourse-part]
 Respuesta: La manera de recibirla es,
 ocupándose diligentemente de eso que ilumina y renueva la mente,
 saca de la naturaleza y espíritu de este mundo, y de los caminos, adoración,
@@ -300,7 +302,7 @@ Pero sin esta ley, sin esta luz,
 sin el escrito interno del Espíritu de Dios en sus corazones,
 no pueden ser judíos internos, ni hijos del nuevo pacto.
 
-De la Gracia del Evangelio
+=== De la Gracia del Evangelio
 
 Los profetas de antaño '`profetizaron de los sufrimientos de Cristo
 y la gloria que los seguiría`" (1 Pedro 1:10-11). Ahora,
@@ -424,13 +426,15 @@ En esta gracia llegarán a conocer, en verdadera experiencia y con todo el peso 
 lo que significa la escritura: "`Porque el pecado no se enseñoreará de vosotros;
 porque no estáis debajo de la ley, sino debajo de la gracia`" (Romanos 6:14).
 
-Respuesta a la Pregunta Sobre la Santidad Real
+=== Respuesta a la Pregunta Sobre la Santidad Real
 
+[.discourse-part]
 Pregunta:
 ¿Acaso no deben ser personas realmente santas (realmente santificadas en Cristo Jesús),
 aquellas que desean ser recibidas por el Señor y gozar comunión con Él,
 como hijos e hijas en el evangelio de Su Hijo?
 
+[.discourse-part]
 Respuesta: Bajo la ley los judíos debían separarse de los paganos,
 debían ser externamente circuncidados y lavados con el agua y la sangre
 de purificación (que santificaba para purificación de la carne),
@@ -512,8 +516,7 @@ para que los hombres puedan ser redimidos del engaño en asuntos de religión,
 en donde la condición eterna de sus almas está en juego!
 Amén.
 
-Con Respecto a la Ley del Pecado en la Mente Carnal,
-y la Ley de Vida y Santidad en la Mente Renovada
+=== Con Respecto a la Ley del Pecado en la Mente Carnal, y la Ley de Vida y Santidad en la Mente Renovada
 
 ¿Qué es la ley del pecado?
 ¿Quién la escribe en la mente?

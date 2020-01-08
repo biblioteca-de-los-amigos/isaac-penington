@@ -1,7 +1,9 @@
-== Capítulo 15 Cartas de Isaac Penington Escritas entre 1666 - 1679
+== Capítulo 15. Cartas de Isaac Penington / Escritas entre 1666 - 1679
 
+[.letter-heading]
 Para los Amigos en los Dos Chalfonts
 
+[.salutation]
 Queridos Amigos,
 
 Ustedes tienen un profundo lugar en mi corazón, y mi clamor al Señor por ustedes es,
@@ -54,10 +56,13 @@ Su amigo y hermano, en la mansa e inocente naturaleza del Cordero,
 desde mi actual lugar de confinamiento en Aylesbury, según la voluntad de Dios,
 quien es bendecido y debe ser bendecido en todo lo que hace o permite que sea hecho,
 
-I.P.
+[.signed-section-signature]
+I+++.+++ P.
 
+[.signed-section-context-close]
 22 del Tercer mes de 1666
 
+[.letter-heading]
 Para los Amigos en la Verdad en Chalfont y Alrededores
 
 Queridos amigos, a quienes amo en el Señor,
@@ -164,12 +169,16 @@ Que la gracia, misericordia, amor y paz de Dios nuestro Padre,
 y de nuestro Señor Jesucristo, sean multiplicadas en ustedes,
 y llenen sus corazones día a día, de acuerdo con sus diversas capacidades,
 
-I.P
+[.signed-section-signature]
+I+++.+++ P.
 
+[.signed-section-context-close]
 Cárcel de Reading, 22 del Tercer mes de 1671
 
+[.letter-heading]
 Para Catherine Pordage
 
+[.salutation]
 Amiga,
 
 Ayer vi que reconociste que la luz es la Semilla de vida,
@@ -224,12 +233,16 @@ será tu gran pérdida y desventaja.
 Te escribo esto en el amor y en la verdadera amistad hacia tu alma,
 en una visión y en un sentido más profundo de ti de lo que tú estás consciente,
 
-I.P
+[.signed-section-signature]
+I+++.+++ P.
 
+[.signed-section-context-close]
 26 del Tercer mes de 1671
 
+[.letter-heading]
 Para Nathaniel Stonar
 
+[.salutation]
 Querido Amigo,
 
 Hay algo en mi corazón que quiero expresarte en amor y buena voluntad, y es lo siguiente:
@@ -353,12 +366,16 @@ reinarán con Él. ¡Bendito sea Su nombre para siempre!
 Soy tu amigo en la sinceridad del amor verdadero,
 en la medida en que al Señor le complazca hacer uso de mí hacia ti,
 
-I.P.
+[.signed-section-signature]
+I+++.+++ P.
 
+[.signed-section-context-close]
 7 del Cuarto mes de 1671
 
+[.letter-heading]
 Para Nathaniel Stonar
 
+[.salutation]
 ¡Oh, Amigo!
 
 Es peligroso resistir al Espíritu de Dios, y sin embargo,
@@ -399,12 +416,16 @@ con tu adversario mientras estás con él en el camino!
 Te escribe esto, con el más estimado, tierno y verdadero amor,
 uno que sinceramente y de corazón desea lo mejor para ti,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 17 del Quinto mes de 1671
 
+[.letter-heading]
 Para Catherine Pordage
 
+[.salutation]
 Amiga,
 
 Es cierto, el camino de vida es tan difícil y complicado, que nadie puede encontrarlo,
@@ -506,12 +527,16 @@ el camino de la Semilla no será muy difícil para ti, de lo contrario, sí lo s
 
 Esto es para ti, en amor y dolor, desde el verdadero amigo de tu alma,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 21 del Sexto mes de 1671
 
+[.letter-heading]
 Para Catherine Pordage y Otros
 
+[.salutation]
 Amigos,
 
 Si yo les dijera una palabra, ¿podrían sobrellevarla?
@@ -546,23 +571,30 @@ conocimiento y fe en ustedes, que no es más que una naturaleza de paja.
 En verdad, amigos, es mucho mejor ser despojados de esto,
 que encontrar algún descanso o placer en ello.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 7 del Séptimo mes de 1671
 
+[.letter-heading]
 Para un Destinatario Desconocido
 
+[.salutation]
 Estimado Amigo,
 
 Algunas escrituras surgieron y se abrieron en mi corazón hacia ti esta mañana.
 La primera fue 2 Corintios 10:4-6
 
-"`Porque las armas de nuestra milicia no son carnales,
+[quote.scripture]
+____
+Porque las armas de nuestra milicia no son carnales,
 sino poderosas en Dios para la destrucción de fortalezas,
 derribando argumentos y toda altivez que se levanta contra el conocimiento de Dios,
 y llevando cautivo todo pensamiento a la obediencia a Cristo,
 y estando prontos para castigar toda desobediencia,
-cuando vuestra obediencia sea perfecta.`"
+cuando vuestra obediencia sea perfecta.
+____
 
 Lo que principalmente estaba en mi corazón,
 tenía que ver con el perfeccionamiento de la obediencia.
@@ -602,13 +634,16 @@ seca y muerta, sin esto?
 
 Otra escritura fue 1 Pedro 2:2-5 (RVG)
 
-"`Desead, como niños recién nacidos, la leche no adulterada de la palabra,
+[quote.scripture]
+____
+Desead, como niños recién nacidos, la leche no adulterada de la palabra,
 para que por ella crezcáis; si es que habéis gustado la benignidad del Señor;
 al cual acercándoos, piedra viva, desechada ciertamente por los hombres,
 mas escogida y preciosa para Dios.
 Vosotros también, como piedras vivas,
 sois edificados como casa espiritual y sacerdocio santo,
-para ofrecer sacrificios espirituales, agradables a Dios por Jesucristo.`"
+para ofrecer sacrificios espirituales, agradables a Dios por Jesucristo.
+____
 
 Es precioso experimentar el estado del recién nacido,
 ser engendrado de Dios por la palabra de vida y poder, es decir,
@@ -659,12 +694,16 @@ darte un sentido más allá de los demás y tan tiernamente persuadir e invitar
 tu corazón! Ni tampoco has visto a qué llegarás si fielmente te rindes,
 Lo escuchas y Lo sigues.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 20 del Décimo mes de 1671
 
+[.letter-heading]
 Para Thomas y Ann Mudd
 
+[.salutation]
 Queridos Amigos,
 
 De cuyo amor hacia mí he estado y estoy consciente, y hacia quienes tengo verdadero amor.
@@ -736,12 +775,16 @@ permaneciendo y caminando en Él!
 Soy un verdadero amigo para ambos (en amor verdadero y fiel ante
 los ojos de Dios) y sinceramente les deseo eterna felicidad,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 19 del Décimo Segundo mes de 1672
 
+[.letter-heading]
 Para el Coronel Kenrick
 
+[.salutation]
 Estimado Amigo,
 
 La dispensación del evangelio consiste en Espíritu y poder.
@@ -867,12 +910,16 @@ no participan del río de vida ni del vino del reino tan plenamente,
 como aquellos cuyo oído está abierto para Él y están siempre
 listos a obedecerlo y seguirlo "`a dondequiera que Él vaya.`"
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 19 del Cuarto mes de 1673
 
+[.letter-heading]
 Para la Viuda Hemmings
 
+[.salutation]
 Querida Amiga,
 
 Creo que hace mucho tiempo que no oigo sobre ti.
@@ -912,14 +959,19 @@ al suponer que tenía una promesa de esto por parte de ella.
 Que ella no busque la voluntad del Señor fuera, sino sólo dentro;
 que no se ocupe de nada más, y le irá bien.
 
+[.signed-section-closing]
 Mi cariñoso amor es para ambas, de su sincero amigo,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.signed-section-context-close]
 4 del Noveno mes de 1673
 
+[.letter-heading]
 Para una Destinataria Desconocida
 
+[.salutation]
 Querida Amiga,
 
 Tuve el deseo de quedarme un poco más de tiempo contigo,
@@ -1009,12 +1061,16 @@ y recoja sus mentes en ella y los haga uno en ella.
 
 Tu amigo en la verdad, quien de corazón desea el bien de tu alma,
 
-I.P.
+[.signed-section-signature]
+I+++.+++ P.
 
+[.signed-section-context-close]
 Grove Place, 17 del Noveno mes de 1673
 
+[.letter-heading]
 Para Elizabeth Stonar
 
+[.salutation]
 Querida Amiga,
 
 Cuya vida en el Señor y prosperidad en la verdad desea mi corazón grandemente,
@@ -1088,12 +1144,16 @@ qué seas libre de las tentaciones del enemigo y de los sutiles artificios de la
 con los que tu presente condición se topará a menudo! ¡Ojalá el
 Señor te los descubra y te preserve de ser atrapada con ellos!
 
+[.signed-section-closing]
 Tu constante amigo en amor y verdad,
 
-I.P
+[.signed-section-signature]
+I+++.+++ P.
 
+[.signed-section-context-close]
 Amersham, Bury End, 20 del Primer mes de 1675
 
+[.letter-heading]
 Para Catharine Pordage^
 footnote:[Siendo que esta carta a Catherine Pordage
 es algo así como una fuerte corrección y advertencia,
@@ -1111,7 +1171,8 @@ excepto con un deseo compasivo de restaurar.
 Verdaderamente fue por el amor,
 que se vio obligado a golpear lo que el amor puro no podía dejar sin corrección.`"]
 
-¡Ah, mi pobre, afligida y enredada Amiga,
+[.salutation]
+¡Ah, mi pobre, afligida y enredada Amiga!
 
 ¡Entre más buscas evitar la trampa, más profundamente tropiezas con ella!
 Pues te estás alimentando del árbol del conocimiento, al darle paso a esos pensamientos,
@@ -1170,16 +1231,21 @@ sabiduría y espíritu de donde se levantan estas cosas.
 sino que finalmente salga a la luz, a la vida, a la fe que da victoria,
 y a la obediencia sincera y santa, donde es experimentado el poder puro.
 
+[.signed-section-closing]
 Tu amigo en la verdad y con sincero amor,
 
-I.P.
+[.signed-section-signature]
+I+++.+++ P.
 
+[.signed-section-context-close]
 Amersham, 25 del Noveno mes de 1675
 
+[.letter-heading]
 Para Su Hermano Arturo^
 footnote:[Arturo Penington, el hermano menor de Isaac Penington,
 era un sacerdote Católico Romano.]
 
+[.salutation]
 Querido Hermano,
 
 He sido un viajero en pos del Señor desde mi infancia,
@@ -1304,10 +1370,13 @@ para siempre! ¡Ojalá conocieras la iglesia de los primogénitos,
 los inscritos en el cielo, y la Jerusalén de arriba,
 la que es libre y madre de todos los nacidos de la virtud y poder regeneradores!
 
-I.P.
+[.signed-section-signature]
+I+++.+++ P.
 
+[.signed-section-context-close]
 20 del Séptimo mes de 1676
 
+[.letter-heading]
 Para Sir William Armorer^
 footnote:[Thomas Elwood escribió acerca de este hombre:
 "`El sexto encarcelamiento de Isaac Penington fue en el año 1670, en Reading Jail,
@@ -1318,6 +1387,7 @@ e Isaac Penington fue llevado delante de él y recluido en la cárcel,
 convirtiéndose en un compañero de sufrimiento con los que había ido a visitar.`"
 Este encarcelamiento duró cerca de veintiún meses.]
 
+[.salutation]
 Amigo,
 
 Desde mi infancia he tenido una fuerte consciencia en mi
@@ -1384,12 +1454,16 @@ Te aseguro que el deseo de mi corazón es que no recibas esto de la mano del Se�
 De un hombre que sufre bajo tu mano,
 que nunca te ha dado la menor causa o provocación para tratar así conmigo,
 
-I.P.
+[.signed-section-signature]
+I+++.+++ P.
 
+[.signed-section-context-close]
 Reading Jail
 
-Para Lady Conway,
+[.letter-heading]
+Para Lady Conway
 
+[.salutation]
 Estimada Amiga,
 
 He escuchado tanto de tu amor a la verdad como de tus grandes aflicciones externas,
@@ -1463,13 +1537,17 @@ Entonces tu alma puede morar con su Amado, en plenitud de gozo, vida y paz para 
 Para ti, del tierno amor y respiraciones frescas de la vida,
 en el verdadero amigo y más cordial simpatizante de tu alma,
 
-I.P
+[.signed-section-signature]
+I+++.+++ P.
 
+[.signed-section-context-close]
 17 del tercer mes de 1677
 
+[.letter-heading]
 Para James Eeles^
 footnote:[James Eeles era un magistrado o un sacerdote que demandaba diezmos de Penington.]
 
+[.salutation]
 Amigo,
 
 Dios es mi testigo, a quien debo darle cuenta de todos mis actos,
@@ -1540,12 +1618,16 @@ y los que el Señor llama a testificar de Su verdad deben testificar en contra d
 Así que, por el momento, no digo más, pero sigo siendo tu amigo,
 listo para hacer por ti cualquier bien, aunque sufra profundamente bajo tu mano,
 
-I.P.
+[.signed-section-signature]
+I+++.+++ P.
 
+[.signed-section-context-close]
 25 del cuarto mes de 1677
 
+[.letter-heading]
 Para Dulcibella Laiton
 
+[.salutation]
 Querida Amiga,
 
 Por quien siento una lucha,
@@ -1592,14 +1674,19 @@ y sin embargo, la misericordia, alivio y ayuda son también grandes.
 cuando brotas y cuando eres establecida en la Semilla pura,
 y en la luz y justicia de ella!
 
+[.signed-section-closing]
 Tu amigo, en el más sincero y tierno amor,
 
-I.P
+[.signed-section-signature]
+I+++.+++ P.
 
+[.signed-section-context-close]
 Once del quinto mes de 1677
 
+[.letter-heading]
 Para Sir William Drake
 
+[.salutation]
 Estimado Amigo,
 
 Le expresaste a uno de mis hijos más jóvenes, según él me contó,
@@ -1620,7 +1707,7 @@ sino también escritas por el Señor en mi corazón. Si estas cosas son claras p
 y también te encuentras en el sentido serio de ellas,
 harán que nuestra conversación tienda a ser más fácil y provechosa.
 
-En primer lugar, hay un Dios santo, justo, vivo y poderoso,
+_En primer lugar,_ hay un Dios santo, justo, vivo y poderoso,
 quien hizo el cielo y la tierra, y todas las cosas en ellos,
 y al final hizo al hombre a Su propia imagen,
 y lo colocó sobre las obras de Sus manos para que dominara
@@ -1629,11 +1716,11 @@ Ahora, en este estado,
 Dios se agradaba y deleitaba en las obras de Sus
 manos y en el hombre por encima de ellas.
 
-En segundo lugar, el hombre, al pecar contra su Hacedor, perdió esta imagen,
+_En segundo lugar,_ el hombre, al pecar contra su Hacedor, perdió esta imagen,
 la cual era su gloria, y se hizo insensato en entendimiento,
 un enemigo de Dios en su mente y sujeto a la ira de la naturaleza santa y justa de Dios.
 
-En tercer lugar, no hay reconciliación entre Dios y el hombre,
+_En tercer lugar,_ no hay reconciliación entre Dios y el hombre,
 excepto que haya cambio de esta naturaleza en el hombre.
 Porque Dios es inmutable; Él es luz, Él es vida, Él es santidad inmutable,
 y nunca se reconciliará o tendrá comunión con las tinieblas,
@@ -1645,7 +1732,7 @@ en una naturaleza buena y santa.
 Él debe ser vuelto de las obras malas y convertirse en la hechura de Dios,
 creado de nuevo para buenas obras.
 
-En cuarto lugar,
+_En cuarto lugar,_
 nada puede producir este cambio en el hombre excepto el Espíritu y poder de Cristo,
 excepto la gracia y la verdad que son por Jesucristo.
 Por tanto, el hombre debe estar seguro de recibir este Espíritu y poder,
@@ -1656,7 +1743,7 @@ engendrado por Dios de nuevo, en la santidad y justicia de la verdad.
 o nunca conocerá lo que pertenece a la verdadera reconciliación con Dios,
 y a la comunión con Él en la luz y vida de Su Hijo.
 
-En quinto lugar,
+_En quinto lugar,_
 todas las religiones y profesiones sobre la faz de
 la tierra que quedan cortas de este Espíritu,
 vida y poder, en las que esta nueva creación en Cristo Jesús no se experimenta,
@@ -1669,7 +1756,7 @@ que están en el Espíritu, vida y poder,
 deben rechazar y testificar en contra de todas las religiones
 que no tienen más que una apariencia de piedad y no el poder.
 
-En sexto lugar, esta religión y adoración que están en el Espíritu,
+_En sexto lugar,_ esta religión y adoración que están en el Espíritu,
 vida y poder es la religión y la adoración que Cristo estableció
 hace alrededor de mil seiscientos años. (Juan 4:23-24;
 1 Corintios 4:20;
@@ -1685,12 +1772,16 @@ Sigo reconociendo tu amabilidad,
 y deseo para ti que puedas obtener de Dios el conocimiento de Él mismo y de Su Hijo,
 el cual es experimentado (por los que lo reciben) como vida eterna,
 
-I.P.
+[.signed-section-signature]
+I+++.+++ P.
 
+[.signed-section-context-close]
 19 del quinto mes de 1678
 
+[.letter-heading]
 Para la Reunión de Mujeres donde John Mannock
 
+[.salutation]
 Queridas y honradas en el Señor,
 
 Bendito sea el Señor, quien las ha reunido y puesto en sus corazones reunirse,
@@ -1768,14 +1859,19 @@ Que Él multiplique Su presencia, poder y bendiciones sobre ustedes,
 y haga que sus reuniones sean tan útiles para el honor de Su nombre,
 como Él mismo las quiere tener, y ustedes mismas desean que sean.
 
+[.signed-section-closing]
 Su amigo y hermano en la tierna verdad, y en el puro amor y preciosa vida,
 
-I.P.
+[.signed-section-signature]
+I+++.+++ P.
 
+[.signed-section-context-close]
 19 del quinto mes de 1678
 
+[.letter-heading]
 Para los que Beben de las Aguas en Astrop Wells
 
+[.salutation]
 Queridos Amigos,
 
 Hay un gran Dios, el Creador de todas las cosas,
@@ -1816,12 +1912,16 @@ Esto está escrito en tierno amor por ustedes, de uno que se compadece y los ama
 y desea la prosperidad de ustedes en este mundo y
 su eterna felicidad con Dios para siempre,
 
-I.P.
+[.signed-section-signature]
+I+++.+++ P.
 
+[.signed-section-context-close]
 Astrop, 15 del sexto mes de 1678
 
+[.letter-heading]
 Para Aquellos que Beben de las Aguas en Astrop Wells
 
+[.salutation]
 Queridos Amigos,
 
 Les suplico que consideren lo que he incluido para el bien eterno de ustedes.
@@ -1890,12 +1990,16 @@ Porque Dios no desea que nadie perezca,
 sino que eficazmente extiende Su mano de amor mediante Su "`luz de vida`" interna,
 para salvar sus almas.
 
-I.P.
+[.signed-section-signature]
+I+++.+++ P.
 
+[.signed-section-context-close]
 Astrop, 20 del sexto mes de 1678
 
+[.letter-heading]
 Para Quien Envió un Mensaje Desde Astrop Wells
 
+[.salutation]
 Amigo,
 
 No tenía un propósito adicional al escribir o enviar estos documentos,
@@ -1912,12 +2016,16 @@ la que tu cortés mensaje sacó de mí. Esta contiene, en pocas palabras,
 el verdadero camino de salvación, el cual, aunque puede que ya lo conozcas,
 aun así la lectura y seria consideración de este puede serte útil.
 
-EL SENCILLO CAMINO DE SALVACIÓN
+[.offset]
+*EL SENCILLO CAMINO DE SALVACIÓN*
 
+[.offset]
 El Señor Jesucristo es el único Salvador.
 
+[.offset]
 La gracia y la verdad vienen por Jesucristo.
 
+[.offset]
 El Señor Jesucristo salva mediante la gracia y la verdad que vienen
 por Él. Porque es la gracia de Dios la que trae salvación,
 y es la verdad como está en Jesús, la que hace verdaderamente libre.
@@ -1961,14 +2069,19 @@ ser hecho hijo de Dios y hacer la voluntad de Dios,
 este no conoce aún al Señor Jesucristo para salvación de su alma,
 sin importar lo que profese o crea con respecto a Él.
 
+[.signed-section-closing]
 Soy tu amigo, en el verdadero amor y deseos para ti,
 
-I.P.
+[.signed-section-signature]
+I+++.+++ P.
 
+[.signed-section-context-close]
 Astrop, 28 del sexto mes de 1678
 
+[.letter-heading]
 Para las Mujeres Amigas que se Reúnen donde Armsot en Worcestershire
 
+[.salutation]
 Queridas Amigas,
 
 En sus reuniones para servir al Señor,
@@ -2043,12 +2156,16 @@ Descubrirán que es un gran trabajo mantener una parte baja,
 para que lo que es puro y vivo de Dios se pueda levantar en ustedes,
 y ustedes actuar sólo en eso y no exceder sus límites.
 
-I.P.
+[.signed-section-signature]
+I+++.+++ P.
 
+[.signed-section-context-close]
 Escrito donde John Hawford, el 7 del séptimo mes de 1678
 
+[.letter-heading]
 Para S. W.
 
+[.salutation]
 Querido Amigo,
 
 Yo siempre te he amado y he tenido un profundo sentido
@@ -2106,12 +2223,16 @@ Amén.
 
 Tu amigo en el verdadero y sincero amor de la Semilla celestial y eterna,
 
-I.P.
+[.signed-section-signature]
+I+++.+++ P.
 
+[.signed-section-context-close]
 13 del mes doce de 1678
 
+[.letter-heading]
 Para Lady Conway
 
+[.salutation]
 Querida Amiga,
 
 En amor tierno y consciente de tus dolorosas aflicciones y ejercicios,
@@ -2150,12 +2271,16 @@ Permanezco solidario contigo en tus sufrimientos,
 y deseo que todas las bendiciones del Dios de mi vida lleguen a ti,
 y que las dificultades, tentaciones y pruebas preparen el corazón y abran paso,
 
-I.P.
+[.signed-section-signature]
+I+++.+++ P.
 
+[.signed-section-context-close]
 14 del mes doce de 1678
 
+[.letter-heading]
 Para S. W.
 
+[.salutation]
 Estimado S. W.
 
 Siempre te he amado y muchas veces he estado lleno de sinceros deseos por ti,
@@ -2247,12 +2372,16 @@ y tú sientas a diario tu corazón como un jardín cercado, regado, arado y trat
 
 Este es un saludo de amor de tu amigo en la verdad que vive y no cambia,
 
-I.P.
+[.signed-section-signature]
+I+++.+++ P.
 
+[.signed-section-context-close]
 27 del mes doce de 1678
 
+[.letter-heading]
 Para M. Hiorns
 
+[.salutation]
 Querido Amigo,
 
 Recibí dos cartas tuyas recientemente,
@@ -2335,14 +2464,19 @@ tanto en su ascender como en su descender, o perderán su camino.
 Sí, ellos deben ser enseñados diariamente por Él a estar en silencio en Su presencia,
 y experimentar lo que es estar quietos en Él, o serán propensos a fallar en ambos.
 
+[.signed-section-closing]
 De tu amigo,
 
-I.P.
+[.signed-section-signature]
+I+++.+++ P.
 
+[.signed-section-context-close]
 Amersham, Woodside, cuatro del quinto mes de 1679
 
+[.letter-heading]
 Para Sarah Elgar
 
+[.salutation]
 Querida Amiga,
 
 El niño que el Señor te ha quitado era Suyo.
@@ -2371,12 +2505,16 @@ no te alimentes de tu aflicción. La vida de verdad
 se levantará en ti y te levantará sobre tu aflicción,
 para el honor del nombre del Señor y consuelo de tu propia alma.
 
-I.P.
+[.signed-section-signature]
+I+++.+++ P.
 
+[.signed-section-context-close]
 Nunnington, sexto mes de 1679
 
+[.letter-heading]
 Para Sarah Bond
 
+[.salutation]
 Querida Sarah,
 
 He pensado mucho en ti en este encarcelamiento,
@@ -2461,10 +2599,13 @@ pero no considera la carne) encontrarás vida y poder, y no en otro lugar.
 Soy tu amigo y uno que ama aquello en ti que desea al Señor. ¡Oh,
 que eso se levante en ti y sea separado de la tierra, para que tu alma pueda vivir!
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.letter-heading]
 Para los Amigos en la Verdad en Lewes
 
+[.salutation]
 Mis queridos Amigos,
 
 El Dios de verdad planta Su verdad en los corazones de las personas,
@@ -2495,10 +2636,13 @@ Este es mi saludo de amor para ustedes, el cual pesaba tanto sobre mí,
 que no pude pasarlo por alto,
 del amigo de ustedes en la verdad eterna e inmutable de nuestro bendito Dios y Salvador,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.letter-heading]
 Para un Destinatario Desconocido
 
+[.salutation]
 Amigo,
 
 Al ver que no orar en mi familia según las costumbre de los profesantes,
@@ -2581,12 +2725,16 @@ como si no te hubieras desviado de Él y hecho alianza con otro espíritu que ma
 la imagen de lo que el Espíritu del Señor una vez formó en ti,
 pero que no tiene la vida verdadera, pura y fresca.
 
+[.signed-section-closing]
 De un amigo fiel y amante de las almas,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.letter-heading]
 Para E. Terry
 
+[.salutation]
 Amigo,
 
 Si el Señor ha extendido Su favor hacia ti y te ha mostrado misericordia,
@@ -2662,10 +2810,13 @@ ni discernir Su aparición allí, ten cuidado de luchar contra ello.
 Porque si lo haces,
 en realidad estás peleando contra nada menos que el mismo Señor Jesucristo.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.letter-heading]
 Para Richard Roberts
 
+[.salutation]
 Querido R. R.
 
 Me informaste que Timothy Fly, el maestro anabautista,
@@ -2713,13 +2864,16 @@ debido a la aparición y presencia espiritual del Novio.
 Y no hay otro novio que aparezca ahora en Espíritu
 o espiritualmente en los corazones de los suyos,
 que el que una vez apareció en el "`cuerpo preparado`"^
-footnote:[ Hebreos 10: 5]
+footnote:[Hebreos 10:5]
 para él, para hacer la voluntad del Padre en él.
 
-I+++.+++ P
+[.signed-section-signature]
+I+++.+++ P.
 
+[.letter-heading]
 Para los Independientes en Canterbury
 
+[.salutation]
 Queridos Amigos,
 
 He sido un buscador de Dios y un adorador de Él desde mi infancia,
@@ -2809,10 +2963,13 @@ el Señor se está levantando para sacudir terriblemente la tierra y edificar Su
 y darle a Su pueblo "`morada de paz, en habitaciones seguras,
 y en recreos de reposo`" sobre el Monte Sión. (Isaías 32:18)
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.letter-heading]
 Para Francis Pordage
 
+[.salutation]
 Amigo,
 
 Hay una mente que no puede conocer ni recibir las cosas del reino de Dios, y sin embargo,
@@ -2875,10 +3032,13 @@ Pero si no nos mantenemos bajo el yugo,
 y esa parte en nosotros todavía tiene libertad para conocer, vivir, actuar y adorar,
 aun así pereceremos y seremos cortados de la tierra de los vivos.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.letter-heading]
 Réplica a una Respuesta de I. H.
 
+[.salutation]
 Querido Amigo,
 
 En realidad, para hablar apropiadamente,
@@ -2950,10 +3110,13 @@ al no esperar la guía del Espíritu,
 entonces lo que es corrupto puede encubiertamente entrar y poner en peligro al cuerpo.
 Judas 4.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.letter-heading]
 Para Bridget Atley
 
+[.salutation]
 Querida Amiga,
 
 Soy consciente de tu penoso dolor y profunda angustia,
@@ -2995,12 +3158,16 @@ Mi alma se regocijará grandemente,
 al oír que tu corazón ha sido liberado de todo lo que te agobia,
 y llenado de todo lo que desea correctamente.
 
+[.signed-section-closing]
 Tu fiel amigo,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.letter-heading]
 Para Abraham Grimsden
 
+[.salutation]
 Amigo,
 
 Tú has hecho alguna profesión de la verdad y has estado entre nosotros en algunas ocasiones,
@@ -3046,10 +3213,13 @@ En esto, busco ser fiel y amigable para con tu alma,
 deseando su eterno bienestar y que ella no perezca
 para siempre de la presencia y poder del Señor,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.letter-heading]
 Para un Destinatario Desconocido
 
+[.salutation]
 Amigo,
 
 Dios sopló en el hombre aliento de vida,
@@ -3091,10 +3261,13 @@ pero no de otra manera.
 conozcan el camino aquí y reciban de Dios lo que limpia y mantiene limpio!
 Amén.
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.letter-heading]
 Para un Destinatario Desconocido
 
+[.salutation]
 Estimado Amigo,
 
 Recibí tu carta amablemente,
@@ -3205,10 +3378,13 @@ cosechando las gavillas de vida eterna, de todo lo que has sembrado para el Esp�
 Este es el ferviente y sencillo deseo de mi alma por ti,
 de quien es tu verdadero y fiel amigo, y un cordial simpatizante de ti y los tuyos,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.letter-heading]
 Para Ruth Palmer
 
+[.salutation]
 Mi querida Amiga,
 
 De cuyo amor soy consciente,
@@ -3227,7 +3403,7 @@ Sí, también sabemos que es Su naturaleza.
 La naturaleza del destructor es destruir; él no quiere que nadie se salve.
 Pero la naturaleza de Dios, el Salvador, es salvar; Él no quiere que nadie perezca.
 Es cierto que, hay un "`hacer firme vuestro llamado y elección,`"^
-footnote:[ 2 Pedro 1:10 LBLA]
+footnote:[2 Pedro 1:10 LBLA]
 pero primero hay que entrar en la Semilla elegida.
 Y cuando somos escogidos en Él y entramos en Él (y
 salimos de las tinieblas a Su luz admirable,
@@ -3338,10 +3514,13 @@ Esta es una bendita experiencia y estos conocen a Cristo en verdad.
 El Señor te conceda que lo conozcas así,
 el cual es el sincero deseo del verdadero y fiel amigo de tu alma,
 
+[.signed-section-signature]
 I+++.+++ P.
 
+[.letter-heading]
 Para Joseph Wright
 
+[.salutation]
 Estimado Amigo,
 
 Le ruego a tu hijo que informe a mi hermano Arturo,
@@ -3397,12 +3576,14 @@ que el mundo no conoce sino que los desprecia.
 Deseo que mi afecto sincero y completo, ante los ojos de Dios,
 sea recordado por mi querido hermano,
 
+[.signed-section-signature]
 I+++.+++ P.
 
-* * *
+[.asterism]
+'''
 
-El siguiente testimonio fue escrito por Mary Penington, la esposa de Isaac Penington,
-sobre la muerte de su querido esposo en 1679
+[.blurb]
+=== El siguiente testimonio fue escrito por Mary Penington, la esposa de Isaac Penington, sobre la muerte de su querido esposo en 1679
 
 Mientras guardo silencio con respecto a ti (¡oh, tú,
 que eres bendecido por el Señor y Su pueblo!),
@@ -3464,4 +3645,5 @@ para cumplir con mi deber con su tabernáculo externo.
 Este testimonio de Isaac Penington es de alguien que ha
 perdido más que todos los que tuvieron parte en su vida,
 
+[.signed-section-signature]
 Mary Penington

@@ -1,6 +1,6 @@
-== Capítulo 5 Las Experiencias
+== Capítulo 5. Las Experiencias
 
-Prefacio
+=== Prefacio
 
 El Padre, en Su amor, nos ha llevado a Su Hijo,
 y el Hijo en el mismo amor nos ha llevado de regreso al Padre,
@@ -61,7 +61,8 @@ gloria Al que venda a los heridos y quebrantados
 de corazón! ¡Gloria al Redentor de los cautivos,
 al Reparador de brechas, al Edificador de los desgastados y desolados!
 
-=== I. Con respecto a la Semilla del Reino
+[.alt]
+==== I. Con respecto a la Semilla del Reino
 
 Con respecto a la Semilla del reino esto es lo que he experimentado:
 Que no consiste en palabras o ideas de la mente, sino en algo interior;
@@ -79,7 +80,8 @@ También deja entrar Su propia naturaleza santa, que como levadura o sal santa,
 expulsa lo que es impuro e injusto, lo que es oscuro y muerto, y sazona el alma con luz,
 con vida, con gracia, con la santidad y justicia de la verdad.
 
-=== II. Con Respecto a la Comida del Alma
+[.alt]
+==== II. Con Respecto a la Comida del Alma
 
 La comida del alma es la comida que la nutre, la misma que le da vida.
 Cada palabra procedente de la boca de Dios, cada movimiento, cada vivificación,
@@ -100,8 +102,8 @@ en ser injertado en Él (la raíz santa, el verdadero árbol de olivo), en Su Es
 Así, por medio de la savia que brota en mí desde Él,
 mi vida es mantenida e incrementada en mí día a día. ¡Gloria a Su nombre para siempre!
 
-=== III.
-Con Respecto al Poder de Dios
+[.alt]
+==== III. Con Respecto al Poder de Dios
 
 Con respecto al poder de Dios, esto es lo que he experimentado:
 Que es el poder de Dios el que hace la obra en el alma.
@@ -118,7 +120,8 @@ Porque en la vida, en la Semilla de vida está el poder santo que se manifiesta,
 aparece y obra en la medida que gana terreno en la criatura,
 ejercitando en ella la virtud y fuerza que diariamente recibe del Padre.
 
-=== IV. Con Respecto a las Tentaciones
+[.alt]
+==== IV. Con Respecto a las Tentaciones
 
 Con respecto a las tentaciones, esto es lo que he experimentado:
 Que la fuerza y el dolor de ellas, en cuanto al alma, radica en que el alma las mire.
@@ -157,7 +160,8 @@ el príncipe de las tinieblas está excluido de la tierra de los vivos.
 ¡Permanezcan ahí! ¡Habiten en la luz, caminen en la luz, como Dios está en la luz,
 y el enemigo nunca tendrá poder sobre ustedes!
 
-=== V. Con Respecto a la Oración
+[.alt]
+==== V. Con Respecto a la Oración
 
 He experimentado que la oración es la respiración del nacimiento
 engendrado por Dios hacia el Padre de vida que lo engendró,
@@ -185,7 +189,8 @@ Y es también a través de este Espíritu,
 que ora a Dios y prevalece ante Él a favor de otros.
 Como está escrito: "`Porque la oración eficaz del justo, puede mucho.`"
 
-=== VI. Con respecto a la Justificación y Santificación
+[.alt]
+==== VI. Con respecto a la Justificación y Santificación
 
 Le ha placido al Señor, en Su tierna misericordia, darme la experiencia de lo siguiente:
 
@@ -262,8 +267,8 @@ Pero, ¿cesa él de las obras de la fe?
 ¿Cesa él de la obediencia a cualquier cosa que Dios requiera?
 No, más bien empieza a obrar y a trabajar en la viña y su trabajo no es en vano en el Señor.
 
-=== VII.
-Con Respecto a la Fe
+[.alt]
+==== VII. Con Respecto a la Fe
 
 Con respecto a la naturaleza,
 virtud y operaciones de la fe he experimentado varias cosas,
@@ -352,8 +357,8 @@ y aquel que pelea la buena batalla de la fe, vence.
 Pero el que no venza a los enemigos que se interponen en su camino,
 con toda certeza será estorbado por ellos para que no alcance el fin de su viaje.
 
-=== VIII.
-Con Respecto a la Obediencia
+[.alt]
+==== VIII. Con Respecto a la Obediencia
 
 En primer lugar, que la verdadera obediencia, la obediencia del evangelio,
 fluye de la vida, fluye de la fe viva.
@@ -394,7 +399,8 @@ por Él a Su luz y al poder de Su Padre,
 y en la sujeción a este se experimenta toda la paz, el crecimiento, el gozo,
 la bendición, etc.
 
-=== IX. Con Respecto a la Cruz de Cristo
+[.alt]
+==== IX. Con Respecto a la Cruz de Cristo
 
 Esto es lo que he experimentado con respecto a la cruz de nuestro Señor Jesucristo:
 Que ella es algo interno y espiritual,
@@ -468,7 +474,8 @@ Cualquiera que en su viaje deje la cruz atrás retrocede a la perdición,
 y no puede viajar en la fe viva,
 ni en la novedad de la obediencia hacia la salvación del alma.
 
-=== X. Con Respecto al Misterio de la Vida y al Misterio de la Comunión que Está en Ella.
+[.alt]
+==== X. Con Respecto al Misterio de la Vida y al Misterio de la Comunión que Está en Ella.
 
 Dios está escondido del hombre en tanto este permanezca en el estado pecaminoso y caído,
 y ningún hombre puede encontrarlo o conocerlo,
@@ -517,7 +524,8 @@ Pero los que admiten nuestros principios en palabras o apariencia externa,
 no son verdaderamente uno de nosotros,
 sino aquellos que son internamente cambiados por ellos en el corazón.
 
-=== XI. Con Respecto al Incremento del Reino
+[.alt]
+==== XI. Con Respecto al Incremento del Reino
 
 ¿Acaso no era la gran doctrina de Cristo predicar el reino?
 ¿Y cómo lo predicó? ¿No lo predicó como una semilla, como un grano de mostaza?
@@ -587,10 +595,12 @@ que fluye y es comprendida en la vida y virtud del Espíritu! ¡Oh,
 qué todos los que verdaderamente respiran en pos del Señor,
 sean reunidos en la ministración del Espíritu, sean encontrados allí y habiten ahí! Amén.
 
-Unas Pocas Palabras con Respecto al Verdadero Cristo
+=== Unas Pocas Palabras con Respecto al Verdadero Cristo
 
+[.discourse-part]
 Pregunta: ¿Cómo puede ser conocida la aparición interna y espiritual de Cristo?
 
+[.discourse-part]
 Respuesta:
 La aparición interna debe ser conocida de la misma forma y por los mismos medios,
 con los que fue conocida Su aparición externa: Por revelación del Padre.

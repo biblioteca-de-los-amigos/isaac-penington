@@ -1,4 +1,4 @@
-== Capítulo 12 Un Testimonio Adicional Sobre la Obra de Dios en Nuestros Corazones
+== Capítulo 12. Un Testimonio Adicional / Sobre la Obra de Dios en Nuestros Corazones
 
 Nosotros somos un pueblo (muchos de nosotros) que ha estado grandemente afligido
 por la falta de la vida y del poder que se revelaron en los días de los apóstoles.
@@ -76,9 +76,10 @@ en la que no está la sustancia, sino únicamente una muestra y aparición de es
 que no puede satisfacer en realidad lo que es ciertamente
 engendrado y nacido del Espíritu de Dios.
 
-Algunos Interrogantes que Deben Ser Seriamente Considerados
+=== Algunos Interrogantes que Deben Ser Seriamente Considerados
 
-Interrogante 1:
+[.discourse-part]
+_Interrogante 1:_
 ¿Quiénes conocen y confiesan verdadera y correctamente al Señor Jesucristo?
 ¿Son los que Lo conocen y Lo confiesan únicamente como es descrito
 externamente en las Escrituras y se habla de Él en ellas,
@@ -90,7 +91,8 @@ los que Lo experimentan formado en su interior,
 teniendo sus corazones cambiados a Su imagen santa y celestial,
 por virtud de Su aparición interna y operación de Su Espíritu y poder en ellos?
 
-Interrogante 2:
+[.discourse-part]
+_Interrogante 2:_
 ¿Quiénes conocen verdadera y correctamente la muerte y resurrección de Cristo?
 ¿Son los que únicamente conocen el relato de estas cosas en las Escrituras,
 pero no son conformados a Su muerte, ni levantados por Él en el poder de Su vida?
@@ -101,7 +103,8 @@ Estos verdaderamente experimentan a la Semilla santa de vida resucitada y viva e
 y se descubren a sí mismos resucitados y vivificados para
 Dios en y a través del poder del Padre revelado en ellos.
 
-Interrogante 3:
+[.discourse-part]
+_Interrogante 3:_
 ¿Quiénes confiesan verdadera y correctamente que Cristo es el Señor y Rey,
 Sacerdote y Profeta de Su pueblo?
 ¿Son los que Lo confiesan únicamente a partir de la lectura de estas cosas en las Escrituras,
@@ -112,7 +115,8 @@ venciendo y reinando sobre el pecado y la muerte en ellos,
 ministrando en Su templo, ofreciendo dones y sacrificios espirituales al Padre,
 y profetizando ahí al abrir y revelar los misterios de Su reino?
 
-Interrogante 4: ¿Conocen o pueden conocer verdaderamente la voz de Cristo,
+[.discourse-part]
+_Interrogante 4:_ ¿Conocen o pueden conocer verdaderamente la voz de Cristo,
 los que nunca experimentan la Palabra de vida hablando en Sus corazones?
 ¿Dónde habla el falso profeta?
 ¿Acaso no habla en el interior?
@@ -120,13 +124,15 @@ los que nunca experimentan la Palabra de vida hablando en Sus corazones?
 ¿Acaso no lo hace también en el corazón? ¿Y acaso las ovejas no oyen,
 conocen y distinguen Su voz allí también?
 
-Interrogante 5: ¿Quiénes son injertados en Cristo?
+[.discourse-part]
+_Interrogante 5:_ ¿Quiénes son injertados en Cristo?
 ¿Puede una persona ser injertada en Él,
 a menos que Cristo le sea internamente revelado y dado a conocer,
 de manera tal que palpablemente sienta la Raíz pura y santa de vida sosteniéndola,
 y Su savia fluyendo en ella haciendo que produzca fruto para Dios a su debido tiempo?
 
-Interrogante 6: ¿Quién ora en el nombre de Cristo?
+[.discourse-part]
+_Interrogante 6:_ ¿Quién ora en el nombre de Cristo?
 ¿Es el que dice las siguientes palabras (o parecidas) en su propia voluntad:
 "`¡Escúchame, Señor, por amor a Cristo!`"
 O: "`¡Te lo suplico en el nombre de Cristo, quien es digno!`",
@@ -139,13 +145,15 @@ El que no hace más que suspirar o gemir en y a partir del Espíritu,
 Pero no conocen los arroyos y las corrientes internas de la religión verdadera,
 pura y celestial.
 
-Interrogante 7: ¿Quién cree verdadera y correctamente en Cristo?
+[.discourse-part]
+_Interrogante 7:_ ¿Quién cree verdadera y correctamente en Cristo?
 ¿Cree alguno así, o puede hacerlo así,
 sin haber experimentado primero la vida de la que brota la verdadera fe?
 ¡Ojalá se frustrara en los hombres toda forma de fe, excepto la que sale de la vida,
 se une a la vida y permanece en la vida!
 
-Interrogante 8: ¿A quién recoge Cristo de las áridas montañas? ¿Acaso no es a Sus pobres,
+[.discourse-part]
+_Interrogante 8:_ ¿A quién recoge Cristo de las áridas montañas? ¿Acaso no es a Sus pobres,
 afligidas, esparcidas, heridas, desmayadas y casi famélicas ovejas?
 ¿Qué son las montañas de las que Él las recoge?
 ¿No son las varias formas, adoraciones y profesiones muertas de la religión sin vida?
@@ -154,13 +162,15 @@ boca de los pastores que han hecho presa de ellas,
 de los que no las han alimentado con vida, sino con palabras, con sueños,
 con comprensiones de sus propias mentes con respecto a las cosas de Dios?
 
-Interrogante 9: ¿Quiénes son los parientes de Cristo según el Espíritu?
+[.discourse-part]
+_Interrogante 9:_ ¿Quiénes son los parientes de Cristo según el Espíritu?
 ¿Quién es Su madre, hermana y hermano?
 ¿Acaso no son los que hacen la voluntad del Padre?
 ¿Y es esta obediencia una obra conforme a la ley o a la justicia de la ley?
 No, es obra de la naturaleza y justicia del evangelio que fluyen de Aquel que es justo.
 
-Interrogante 10: ¿Hay dos Cristos, uno manifestado fuera y otro revelado dentro?
+[.discourse-part]
+_Interrogante 10:_ ¿Hay dos Cristos, uno manifestado fuera y otro revelado dentro?
 ¿O es el mismo Señor Jesucristo, quien en los días de Su carne apareció externamente,
 y fue manifestado después en el interior como el misterio de vida y esperanza de gloria?
 ¿Acaso no es Él revelado también hoy,
@@ -230,10 +240,10 @@ No es un estado de sombras, sino el estado del reino eterno,
 donde es poseída la sustancia de las cosas bajo la ley por aquellos que están allí,
 según crecen en el poder y pacto del evangelio.
 
-Algunos Temas en Particular
+=== Algunos Temas en Particular
 
-=== Con Respecto a la "`forma de las sanas palabras.`"
-2 Timoteo 1:13
+[.alt]
+==== Con Respecto a la "`forma de las sanas palabras.`"--2 Timoteo 1:13
 
 En las ruinas de la gran apostasía se han perdido y enterrado miserablemente,
 no sólo la "`forma de las sanas palabras,`" sino
@@ -281,7 +291,8 @@ de la que puede tenerse o disfrutarse a través de las palabras o conceptos de l
 El propósito del testimonio de la letra es llevar el alma
 al Espíritu y poder que es la administración del evangelio.
 
-=== Con Respecto a las Doctrinas
+[.alt]
+==== Con Respecto a las Doctrinas
 
 Los hombres ponen un gran énfasis en aprobar las doctrinas,
 según la comprensión que tienen de ellas,
@@ -343,7 +354,8 @@ y nadie conoce las cosas de Dios excepto por el Espíritu.
 En consecuencia, es necesario que las personas se vuelvan primero al Espíritu de Dios.
 Este es el primer paso en el camino hacia el conocimiento verdadero y salvador.
 
-=== Con Respecto a la Obra de la Luz
+[.alt]
+==== Con Respecto a la Obra de la Luz
 
 Cristo,
 a quien el Padre le dio todo el poder y la autoridad para
@@ -476,7 +488,8 @@ De hecho, el camino de Dios es perfecto (el camino de vida, el camino de reconci
 el camino de redención),
 y el alma es aceptada y justificada por el Señor únicamente en él.
 
-=== Con Respecto al Camino de Vida Verdadero y Puro
+[.alt]
+==== Con Respecto al Camino de Vida Verdadero y Puro
 
 Este ha sido el clamor de mi alma desde mi infancia, caminar en pos de la santidad,
 en pos de la presencia del Señor, en pos de la unión con Él,
@@ -555,7 +568,8 @@ que Él siembra plena y diariamente en los espíritus de los Suyos.
 exalta y exaltará lo que los diversos tipos de profesantes
 altivos pisotean y desprecian en su propia sabiduría!
 
-=== Con Respecto al Perfeccionamiento de la Obra de Dios en el Corazón
+[.alt]
+==== Con Respecto al Perfeccionamiento de la Obra de Dios en el Corazón
 
 ¿No es la voluntad de Dios que Su pueblo y Sus hijos
 sean enteramente santificados en cuerpo,
@@ -620,7 +634,8 @@ y la defensa que hay en él, donde el ala del Todopoderoso cubre,
 y Su salvación (revelada ahí) es experimentada como
 un muro y bastión suficiente contra el enemigo.
 
-=== Con Respecto al Verdadero Conocimiento de Cristo
+[.alt]
+==== Con Respecto al Verdadero Conocimiento de Cristo
 
 Mientras las personas estaban a la expectativa y meditaban
 en sus corazones con respecto a Juan el Bautista,
@@ -652,10 +667,14 @@ Pero para la naturaleza transgresora, para la semilla del malhechor,
 para el que está naturalmente inclinado a hacer el mal y todos los días hace mal,
 para ese, Él es terrible para siempre.
 
-=== Con Respecto a la Luz que Alumbra a Todo Hombre
+[.alt]
+==== Con Respecto a la Luz que Alumbra a Todo Hombre
 
-"`En Él estaba la vida, y la vida era la Luz de los hombres.
-La Luz brilla en las tinieblas, y las tinieblas no la comprendieron`" (Juan 1:4-5).
+[quote.scripture, , Juan 1:4-5]
+____
+En Él estaba la vida, y la vida era la Luz de los hombres.
+La Luz brilla en las tinieblas, y las tinieblas no la comprendieron.
+____
 
 ¿Qué son las tinieblas que no comprenden la luz?
 ¿No es el hombre en el estado no regenerado?
@@ -689,9 +708,11 @@ y retener el conocimiento muerto de dicha idea.
 Sí, tal idea puede rápidamente convertirse en muerte en el hombre,
 pero el que habita en la cosa misma, conoce y habita en lo que nunca muere.
 
-=== Interrogantes con Respecto al Tiempo y la Obra de Reforma
+[.alt]
+==== Interrogantes con Respecto al Tiempo y la Obra de Reforma
 
-Interrogante 1:
+[.discourse-part]
+_Interrogante 1:_
 ¿Qué implicó el tiempo de reforma y sustancia (mencionado en Hebreos
 9:10)? ¿Acaso no implicó la introducción del evangelio,
 la llegada del día del Espíritu y poder de Cristo,
@@ -705,7 +726,8 @@ para purificar a los hijos de Leví tal como es purificado el oro y la plata,
 para que puedan ofrecerle al Señor una ofrenda en justicia,
 ¿no es este el tiempo de reforma?
 
-Interrogante 2: ¿Quién es el reformador?
+[.discourse-part]
+_Interrogante 2:_ ¿Quién es el reformador?
 ¿No es el Señor Jesucristo?
 ¿No crea Él de nuevo?
 ¿No borra la vieja imagen y forma una nueva masa?
@@ -715,12 +737,14 @@ allí las cosas viejas pasaron y no hay nada en ella sino lo que es nuevo.
 destruir internamente cualquier cosa contraria a la naturaleza y Espíritu de Su Padre,
 y para formar y edificar los espíritus de los Suyos en lo que es nuevo y puro.
 
-Interrogante 3: ¿Cómo o por medio de qué reforma Cristo?
+[.discourse-part]
+_Interrogante 3:_ ¿Cómo o por medio de qué reforma Cristo?
 ¿No es por medio de Su Espíritu y poder, por medio de Su luz, vida y virtud?
 Porque nada puede cambiar ni reformar el corazón,
 excepto lo que es más poderoso que el que lo corrompió.
 
-Interrogante 4: ¿Dónde reforma Cristo y crea de nuevo?
+[.discourse-part]
+_Interrogante 4:_ ¿Dónde reforma Cristo y crea de nuevo?
 ¿No es en el nuevo pacto; en la fe y obediencia a este pacto?
 ¿Acaso no rompe y anula las leyes del antiguo pacto
 e invalida el pacto del infierno y muerte,
@@ -734,7 +758,8 @@ y al dejar que el oprimido quede libre de la sujeción a este.
 De esta manera se manifiesta a Sí mismo como el Salvador,
 quebrando el yugo del opresor por medio de Su santa unción. (Isaías 10:27)
 
-Interrogante 5: ¿A quiénes reforma Cristo?
+[.discourse-part]
+_Interrogante 5:_ ¿A quiénes reforma Cristo?
 ¿No es a los que toman Su yugo sobre ellos y aprenden de Él? ¿No es a
 los que se vuelven a la luz de Su Espíritu internamente manifestado,
 a los que se vuelven de las tinieblas y no caminan más en ellas,
@@ -748,7 +773,8 @@ ni Su vida, ni a Su Espíritu en el interior, el tal no es de Él,
 y puede reformarse a sí mismo tanto como pueda,
 pero aun así no experimenta el día de la verdadera reforma.
 
-Interrogante 6: ¿Cómo deben caminar los que Cristo ha comenzado a reformar?
+[.discourse-part]
+_Interrogante 6:_ ¿Cómo deben caminar los que Cristo ha comenzado a reformar?
 ¿No es en esa luz, en ese Espíritu, en ese pacto, en esa gracia,
 en la que y por medio de la que los ha reformado en alguna medida?
 ¿No es en la novedad del Espíritu y en la ley del Espíritu de vida?
@@ -757,13 +783,15 @@ debemos hacerlo también. (1 Juan 2:6) De hecho,
 no hay manera de agradar al Padre, ni a Cristo nuestro Señor y Maestro,
 fuera de la virtud, vida y novedad de Su propio Espíritu.
 
-Interrogante 7: ¿Acaso no da Cristo de Su gracia en el evangelio?
+[.discourse-part]
+_Interrogante 7:_ ¿Acaso no da Cristo de Su gracia en el evangelio?
 ¿No obra Su gracia un glorioso cambio?
 ¿No aparece Cristo gloriosamente en los corazones de Su pueblo,
 y en las asambleas de los que se reúnen en Su nombre
 y esperan en Él en lo que es puro y vivo?
 
-Interrogante 8:
+[.discourse-part]
+_Interrogante 8:_
 ¿Acaso no fue puesta de manifiesto esta gloria en los días de los apóstoles?
 ¿No había sobre todos ellos entonces, abundante gracia?
 (Me refiero,
@@ -773,7 +801,8 @@ experimentaron la paz que sobrepasa el entendimiento del hombre?
 y no estaban ellos en el que es verdadero?
 ¿No conocían ellos la victoria y dominio sobre el pecado y la muerte?
 
-Interrogante 9: ¿No fue eclipsada esta gloria y no vino sobre ella una gran oscuridad,
+[.discourse-part]
+_Interrogante 9:_ ¿No fue eclipsada esta gloria y no vino sobre ella una gran oscuridad,
 escondiéndola de los hijos de los hombres (por edades y generaciones),
 para que no experimentaran al verdadero Espíritu, la verdadera luz, la verdadera vida,
 el pacto eterno, el evangelio santo, la verdadera iglesia, el hijo varón,
@@ -822,16 +851,19 @@ Su reino es capaz de conmover todas las naciones y reinos que no honran a Su Hij
 sino que se oponen a Él. (Salmo 2:12) ¡Bienaventurados los que
 se vuelven a la luz de Su Espíritu y allí lo honran y obedecen!
 
-=== Algunos Interrogantes Serios con Respecto al Espíritu de Cristo
+[.alt]
+==== Algunos Interrogantes Serios con Respecto al Espíritu de Cristo
 
-Interrogante 1: ¿Conocen ustedes al Espíritu Santo del Padre?
+[.discourse-part]
+_Interrogante 1:_ ¿Conocen ustedes al Espíritu Santo del Padre?
 Ustedes han leído algo con respecto a Él y tenido
 comprensiones en sus mentes acerca de Él,
 pero,
 ¿conocen verdaderamente lo que es Él por sus apariciones
 y operaciones internas en sus propios corazones?
 
-Interrogante 2: ¿Han recibido al Espíritu Santo de Dios en sus corazones?
+[.discourse-part]
+_Interrogante 2:_ ¿Han recibido al Espíritu Santo de Dios en sus corazones?
 ¿Han dejado entrar al Espíritu de Cristo cuando Él
 ha tocado la puerta de sus corazones y lo han recibido?
 Porque el que es un hijo verdadero,
@@ -840,12 +872,14 @@ y el Padre también les da naturalmente Su Espíritu
 a los que verdadera y correctamente se lo piden.
 (Lucas 11:13)
 
-Interrogante 3: ¿Habita el Espíritu de Cristo en ustedes?
+[.discourse-part]
+_Interrogante 3:_ ¿Habita el Espíritu de Cristo en ustedes?
 ¿El Hombre más fuerte ha echado de ustedes al hombre fuerte,
 ha tomado posesión en sus corazones y mora ahí? Entonces pueden decir, verdaderamente,
 que son edificados por Él '`para morada de Dios en el Espíritu.`'
 
-Interrogante 4:
+[.discourse-part]
+_Interrogante 4:_
 ¿Los guía el Espíritu de Dios a toda la verdad que
 necesitan conocer y en la que deben caminar?
 ¿Son verdaderos hijos,
@@ -853,7 +887,8 @@ que dependen del Espíritu del Padre y son guiados por Él? ¿Son
 incapaces de ver su camino a menos que Él se los dé a conocer?
 ¿Son seguidores del Cordero sin mancha, en el mismo Espíritu en el que Él caminó?
 
-Interrogante 5: ¿Viven ustedes en el Espíritu?
+[.discourse-part]
+_Interrogante 5:_ ¿Viven ustedes en el Espíritu?
 ¿Sienten al Espíritu de Dios como una fuente de vida,
 de la que diariamente brota vida en ustedes?
 ¿Experimentan esta escritura cumplida en ustedes:
@@ -861,28 +896,33 @@ de la que diariamente brota vida en ustedes?
 de agua viva`"? ¿Han recibido de Cristo el agua viva?
 ¿Se ha convertido esa agua viva en un pozo de vida en ustedes?
 
-Interrogante 6: ¿Caminan ustedes en el Espíritu,
+[.discourse-part]
+_Interrogante 6:_ ¿Caminan ustedes en el Espíritu,
 en la novedad de vida que brota de Él en sus corazones?
 ¿Conocen la diferencia entre caminar en el arcaísmo de la letra y la novedad del Espíritu?
 
-Interrogante 7: ¿Han aprendido alguna vez del Padre a conocer a Cristo?
+[.discourse-part]
+_Interrogante 7:_ ¿Han aprendido alguna vez del Padre a conocer a Cristo?
 ¿Han aprendido alguna vez de Cristo a conocer al Padre?
 ¿Ha revelado efectivamente el Padre al Hijo en ustedes
 y el Hijo efectivamente al Padre en ustedes,
 o todavía están sólo en las ideas secas y muertas,
 o entendimientos estériles acerca de estas cosas?
 
-Interrogante 8: ¿Saben ustedes cómo mata la letra y cómo vivifica y da vida el Espíritu?
+[.discourse-part]
+_Interrogante 8:_ ¿Saben ustedes cómo mata la letra y cómo vivifica y da vida el Espíritu?
 ¿Han sido vivificados por el Espíritu y nacido del agua y del Espíritu celestiales,
 y así llegado a ser espirituales, tal como testifican las Escrituras:
 "`El que es nacido del Espíritu, espíritu es`"?
 
-Interrogante 9: ¿Están ustedes bajo la ministración del Espíritu?
+[.discourse-part]
+_Interrogante 9:_ ¿Están ustedes bajo la ministración del Espíritu?
 ¿Saben qué es la ministración del Espíritu,
 o sólo conocen lo que dice la letra con respecto a la ministración del Espíritu,
 mientras permanecen completamente ignorantes de la ministración misma?
 
-Interrogante 10:
+[.discourse-part]
+_Interrogante 10:_
 ¿Saben ustedes lo que significa la ley del Espíritu de vida
 en Cristo Jesús? ¿Han recibido alguna vez esta ley,
 la ley del nuevo pacto,
@@ -890,12 +930,14 @@ la santa ley de vida escrita en los corazones por el dedo del Espíritu de Dios?
 Porque el mismo Espíritu que escribió la ley de la letra en tablas de piedra,
 escribe la ley del Espíritu en las tablas de carne del corazón.
 
-Interrogante 11: ¿Siguen ustedes contristando al Espíritu Santo, o apagándolo,
+[.discourse-part]
+_Interrogante 11:_ ¿Siguen ustedes contristando al Espíritu Santo, o apagándolo,
 o despreciando Su profecía en sus corazones?
 Pues Cristo es rey, sacerdote y profeta, y ministra en Su santuario,
 en Su templo (el cual es el corazón santo y renovado), en y mediante Su Espíritu.
 
-Interrogante 12: ¿Saben ustedes qué es la unción? ¿Están ungidos con ella?
+[.discourse-part]
+_Interrogante 12:_ ¿Saben ustedes qué es la unción? ¿Están ungidos con ella?
 ¿Se encuentran en ella todas sus habilidades,
 hasta el punto de que son diariamente conscientes
 de que no pueden hacer nada por sí mismos,
@@ -903,14 +945,16 @@ sino que deben hallar a Dios obrando en ustedes tanto el
 querer como el hacer lo que es correcto a Sus ojos,
 por Su buena voluntad?
 
-Interrogante 13: ¿Comenzó la religión de ustedes en el Espíritu,
+[.discourse-part]
+_Interrogante 13:_ ¿Comenzó la religión de ustedes en el Espíritu,
 en la ministración viva del nuevo pacto?
 ¿Comenzó el conocimiento de ustedes al experimentar
 a Dios abriendo sus corazones por medio de Su Espíritu,
 y dándoles entendimiento por medio del cual pueden conocerlo?
 ¿Comenzó la fe de ustedes en Su poder y permanece en el mismo poder hasta hoy?
 
-Interrogante 14:
+[.discourse-part]
+_Interrogante 14:_
 ¿Descansa la adoración de ustedes en el Espíritu
 y en la vida interior de la verdad en sus corazones?
 ¿Son ustedes los adoradores que el Padre ha buscado y ha formado,
@@ -926,7 +970,8 @@ la ley y el pacto de vida en Cristo Jesús,
 y sólo estar en un sueño con respecto a estas cosas, sin el conocimiento,
 posesión y disfrute verdadero y evidente de ellas!
 
-=== Con Respecto al Camino de Santidad o al Camino de Vida
+[.alt]
+==== Con Respecto al Camino de Santidad o al Camino de Vida
 
 Cristo es el camino, el único camino al Padre; no hay otro.
 Ahora, todo el que quiera conocer verdaderamente a Cristo e ir a Cristo,
@@ -975,7 +1020,8 @@ abriéndolo por Su poder y dándole la capacidad de ver, oír y entender.
 Y de esta manera, también guarda el alma de la naturaleza,
 sabiduría y espíritu contrario en todos los hombres.
 
-=== Con Respecto a la Separación del Espíritu y Caminos del Mundo
+[.alt]
+==== Con Respecto a la Separación del Espíritu y Caminos del Mundo
 
 Es necesario que aquellos que quieran ser del pueblo del Señor, se separen del espíritu,
 caminos y adoraciones del mundo.
