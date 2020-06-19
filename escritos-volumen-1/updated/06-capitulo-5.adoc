@@ -234,6 +234,9 @@ en dondequiera que la tierra del Padre se abra para beberlas.
 [.old-style]
 === Algunas Propuestas / Con Respecto al Único Camino de Salvación
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ Que la única manera de ser salvos del pecado y de la ira eterna es por medio de Cristo,
 aquel que murió en Jerusalén. No hay nombre, virtud,
@@ -273,6 +276,8 @@ recoger consuelo de las promesas bíblicas, ocuparse de las ordenanzas,
 ser excesivamente celoso y apasionado en todo esto, y al final perecer.
 Sí, el diablo lo dejará solo (si es que no lo ayuda) en todo esto,
 sabiendo que lo tiene más seguro de ese modo.
+
+====
 
 [.discourse-part]
 Objeción: Pero yo puedo ser engañado estando atento a una luz en el interior,

@@ -98,6 +98,9 @@ entendimientos y conceptos estériles sobre las Escrituras!
 [.offset]
 A saber: Bajo la Ley, en el Cuerpo de Carne, en Su Espíritu y Poder
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ _Su aparición bajo la ley._
 Cristo apareció varias veces bajo la ley.
@@ -331,6 +334,8 @@ Muchos se apartaron del poder del Señor,
 se adentraron en una mente altiva y no guardaron su posición en la fe,
 amor y obediencia de la verdad,
 sino que sostuvieron una apariencia de piedad fuera del poder.
+
+====
 
 === Con Respecto al Monte Sinaí y al Monte Sión
 

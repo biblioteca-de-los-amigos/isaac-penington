@@ -1,6 +1,9 @@
 [#ch3, short="Algunos Principios que Guían Hacia Afuera de la Apostasía"]
 == Capítulo III. Algunos Principios que Guían Hacia Afuera de la Apostasía y que Introducen en el Verdadero Espíritu y Vida Cristiana
 
+[.numbered-group]
+====
+
 [.numbered]
 __1. No hay salvación salvo por el verdadero conocimiento de Cristo.__
 
@@ -302,6 +305,8 @@ la Semilla que era antes de que Abraham fuese, es sentida, es conocida,
 Su día es visto y disfrutado, y por la luz del mismo,
 las tinieblas son descubiertas y el reino de las tinieblas asaltado.
 
+====
+
 === Algunas Objeciones y Respuestas
 
 [.discourse-part]
@@ -480,6 +485,9 @@ Y ahora, ustedes, cuyos corazones han sido tocados y convencidos de la verdad,
 y tienen un deseo encendido en pos del Dios vivo, y hambre y sed tras Su justicia,
 tomen nota de estas tres cosas que tengo en mi corazón a manera de consejo:
 
+[.numbered-group]
+====
+
 [.numbered]
 __1. Conozcan y tomen su cruz, la cruz de Cristo, la cruz de Cristo cada día.__
 
@@ -605,3 +613,5 @@ corruptas y corruptoras que siempre han sido y serán enemigas de la vida.
 Así la paz de Dios, el reposo de Dios, el verdadero día de reposo de Dios,
 la eterna luz y vida de Dios,
 llegarán a ser de ustedes y disfrutados por ustedes más allá de toda duda o controversia.
+
+====
