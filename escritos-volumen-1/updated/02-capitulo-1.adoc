@@ -702,6 +702,7 @@ había concebido un grande e injusto descontento contra este inocente hombre.
 Y aunque ese fue el año de la plaga^
 footnote:[La Gran Plaga de 1665-1666 fue la última gran epidemia de peste
 bubónica que ocurrió en Inglaterra y mató un estimado de 100,000 personas,
+// lint-disable invalid-characters "%"
 aproximadamente el 15% de la población de Londres.]
 y se sospechaba que la enfermedad estaba en la cárcel,
 el conde de Bridgewater no fue convencido por las fervientes súplicas
