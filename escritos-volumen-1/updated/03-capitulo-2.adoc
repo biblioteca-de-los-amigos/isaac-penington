@@ -1,4 +1,4 @@
-[#el-camino, short="El Camino de la Vida y de la Muerte"]
+[short="El Camino de la Vida y de la Muerte"]
 == Capítulo II. El Camino de la Vida y de la Muerte Hecho Manifiesto y Puesto Delante de los Hombres
 
 === Prefacio
